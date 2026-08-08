@@ -2,162 +2,6 @@
   "icao": "FACT",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091637Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T091637Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093201Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T093201Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100208Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T100208Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103210Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T103210Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110311Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T110311Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113208Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T113208Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120353Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T120353Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123344Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T123344Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130210Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T130210Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133207Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T133207Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140222Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T140222Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143632Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T143632Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150316Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T150316Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153200Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T153200Z.gif"
-    },
-    {
-      "ts": 1785945600,
-      "datetime": "20260805T160208Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T160208Z.gif"
-    },
-    {
-      "ts": 1785947400,
-      "datetime": "20260805T163316Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T163316Z.gif"
-    },
-    {
-      "ts": 1785949200,
-      "datetime": "20260805T170208Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T170208Z.gif"
-    },
-    {
-      "ts": 1785951000,
-      "datetime": "20260805T173158Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T173158Z.gif"
-    },
-    {
-      "ts": 1785952800,
-      "datetime": "20260805T180352Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T180352Z.gif"
-    },
-    {
-      "ts": 1785954600,
-      "datetime": "20260805T183212Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T183212Z.gif"
-    },
-    {
-      "ts": 1785956400,
-      "datetime": "20260805T190205Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T190205Z.gif"
-    },
-    {
-      "ts": 1785958200,
-      "datetime": "20260805T193320Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T193320Z.gif"
-    },
-    {
-      "ts": 1785960000,
-      "datetime": "20260805T200307Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T200307Z.gif"
-    },
-    {
-      "ts": 1785961800,
-      "datetime": "20260805T203324Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T203324Z.gif"
-    },
-    {
-      "ts": 1785963600,
-      "datetime": "20260805T210213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T210213Z.gif"
-    },
-    {
-      "ts": 1785965400,
-      "datetime": "20260805T213321Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260805/gif/20260805T213321Z.gif"
-    },
-    {
       "ts": 1785967200,
       "datetime": "20260805T220214Z",
       "date": "20260806",
@@ -972,6 +816,12 @@
       "datetime": "20260808T213206Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260808/gif/20260808T213206Z.gif"
+    },
+    {
+      "ts": 1786226400,
+      "datetime": "20260808T220235Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260809/gif/20260808T220235Z.gif"
     }
   ]
 }

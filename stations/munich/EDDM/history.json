@@ -2,162 +2,6 @@
   "icao": "EDDM",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091643Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T091643Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093207Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T093207Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100214Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T100214Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103217Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T103217Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110324Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T110324Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T113215Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120408Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T120408Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123359Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T123359Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130216Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T130216Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133214Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T133214Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140229Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T140229Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143644Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T143644Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150324Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T150324Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153207Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T153207Z.gif"
-    },
-    {
-      "ts": 1785945600,
-      "datetime": "20260805T160215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T160215Z.gif"
-    },
-    {
-      "ts": 1785947400,
-      "datetime": "20260805T163329Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T163329Z.gif"
-    },
-    {
-      "ts": 1785949200,
-      "datetime": "20260805T170215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T170215Z.gif"
-    },
-    {
-      "ts": 1785951000,
-      "datetime": "20260805T173204Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T173204Z.gif"
-    },
-    {
-      "ts": 1785952800,
-      "datetime": "20260805T180406Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T180406Z.gif"
-    },
-    {
-      "ts": 1785954600,
-      "datetime": "20260805T183219Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T183219Z.gif"
-    },
-    {
-      "ts": 1785956400,
-      "datetime": "20260805T190211Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T190211Z.gif"
-    },
-    {
-      "ts": 1785958200,
-      "datetime": "20260805T193333Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T193333Z.gif"
-    },
-    {
-      "ts": 1785960000,
-      "datetime": "20260805T200321Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T200321Z.gif"
-    },
-    {
-      "ts": 1785961800,
-      "datetime": "20260805T203338Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T203338Z.gif"
-    },
-    {
-      "ts": 1785963600,
-      "datetime": "20260805T210221Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T210221Z.gif"
-    },
-    {
-      "ts": 1785965400,
-      "datetime": "20260805T213335Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260805/gif/20260805T213335Z.gif"
-    },
-    {
       "ts": 1785967200,
       "datetime": "20260805T220221Z",
       "date": "20260806",
@@ -972,6 +816,12 @@
       "datetime": "20260808T213213Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260808/gif/20260808T213213Z.gif"
+    },
+    {
+      "ts": 1786226400,
+      "datetime": "20260808T220242Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260809/gif/20260808T220242Z.gif"
     }
   ]
 }

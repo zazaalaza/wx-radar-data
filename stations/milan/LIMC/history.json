@@ -2,162 +2,6 @@
   "icao": "LIMC",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091641Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T091641Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093206Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T093206Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100212Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T100212Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T103215Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110321Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T110321Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T113213Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120404Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T120404Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123355Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T123355Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130214Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T130214Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133212Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T133212Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140227Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T140227Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143641Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T143641Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150322Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T150322Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153205Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T153205Z.gif"
-    },
-    {
-      "ts": 1785945600,
-      "datetime": "20260805T160213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T160213Z.gif"
-    },
-    {
-      "ts": 1785947400,
-      "datetime": "20260805T163326Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T163326Z.gif"
-    },
-    {
-      "ts": 1785949200,
-      "datetime": "20260805T170213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T170213Z.gif"
-    },
-    {
-      "ts": 1785951000,
-      "datetime": "20260805T173203Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T173203Z.gif"
-    },
-    {
-      "ts": 1785952800,
-      "datetime": "20260805T180402Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T180402Z.gif"
-    },
-    {
-      "ts": 1785954600,
-      "datetime": "20260805T183218Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T183218Z.gif"
-    },
-    {
-      "ts": 1785956400,
-      "datetime": "20260805T190210Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T190210Z.gif"
-    },
-    {
-      "ts": 1785958200,
-      "datetime": "20260805T193330Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T193330Z.gif"
-    },
-    {
-      "ts": 1785960000,
-      "datetime": "20260805T200318Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T200318Z.gif"
-    },
-    {
-      "ts": 1785961800,
-      "datetime": "20260805T203335Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T203335Z.gif"
-    },
-    {
-      "ts": 1785963600,
-      "datetime": "20260805T210219Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T210219Z.gif"
-    },
-    {
-      "ts": 1785965400,
-      "datetime": "20260805T213331Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260805/gif/20260805T213331Z.gif"
-    },
-    {
       "ts": 1785967200,
       "datetime": "20260805T220220Z",
       "date": "20260806",
@@ -972,6 +816,12 @@
       "datetime": "20260808T213212Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260808/gif/20260808T213212Z.gif"
+    },
+    {
+      "ts": 1786226400,
+      "datetime": "20260808T220240Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260809/gif/20260808T220240Z.gif"
     }
   ]
 }
