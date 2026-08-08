@@ -2,174 +2,6 @@
   "icao": "EGLC",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091650Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T091650Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T093215Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100222Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T100222Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103225Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T103225Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110342Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T110342Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113223Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T113223Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120426Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T120426Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123416Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T123416Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130224Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T130224Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133222Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T133222Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140237Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T140237Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143701Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T143701Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150333Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T150333Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153215Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T153215Z.gif"
-    },
-    {
-      "ts": 1785945600,
-      "datetime": "20260805T160223Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T160223Z.gif"
-    },
-    {
-      "ts": 1785947400,
-      "datetime": "20260805T163348Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T163348Z.gif"
-    },
-    {
-      "ts": 1785949200,
-      "datetime": "20260805T170223Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T170223Z.gif"
-    },
-    {
-      "ts": 1785951000,
-      "datetime": "20260805T173212Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T173212Z.gif"
-    },
-    {
-      "ts": 1785952800,
-      "datetime": "20260805T180423Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T180423Z.gif"
-    },
-    {
-      "ts": 1785954600,
-      "datetime": "20260805T183228Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T183228Z.gif"
-    },
-    {
-      "ts": 1785956400,
-      "datetime": "20260805T190219Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T190219Z.gif"
-    },
-    {
-      "ts": 1785958200,
-      "datetime": "20260805T193350Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T193350Z.gif"
-    },
-    {
-      "ts": 1785960000,
-      "datetime": "20260805T200339Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T200339Z.gif"
-    },
-    {
-      "ts": 1785961800,
-      "datetime": "20260805T203356Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T203356Z.gif"
-    },
-    {
-      "ts": 1785963600,
-      "datetime": "20260805T210229Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T210229Z.gif"
-    },
-    {
-      "ts": 1785965400,
-      "datetime": "20260805T213353Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T213353Z.gif"
-    },
-    {
-      "ts": 1785967200,
-      "datetime": "20260805T220230Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T220230Z.gif"
-    },
-    {
-      "ts": 1785969000,
-      "datetime": "20260805T223234Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260805/gif/20260805T223234Z.gif"
-    },
-    {
       "ts": 1785970800,
       "datetime": "20260805T230342Z",
       "date": "20260806",
@@ -984,6 +816,12 @@
       "datetime": "20260808T223234Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260808/gif/20260808T223234Z.gif"
+    },
+    {
+      "ts": 1786230000,
+      "datetime": "20260808T230357Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260809/gif/20260808T230357Z.gif"
     }
   ]
 }

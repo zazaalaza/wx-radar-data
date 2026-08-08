@@ -2,174 +2,6 @@
   "icao": "DNMM",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091648Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T091648Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T093213Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100220Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T100220Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103223Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T103223Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110338Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T110338Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113221Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T113221Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120422Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T120422Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123413Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T123413Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130222Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T130222Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133220Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T133220Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140235Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T140235Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143658Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T143658Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150331Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T150331Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153213Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T153213Z.gif"
-    },
-    {
-      "ts": 1785945600,
-      "datetime": "20260805T160221Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T160221Z.gif"
-    },
-    {
-      "ts": 1785947400,
-      "datetime": "20260805T163344Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T163344Z.gif"
-    },
-    {
-      "ts": 1785949200,
-      "datetime": "20260805T170221Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T170221Z.gif"
-    },
-    {
-      "ts": 1785951000,
-      "datetime": "20260805T173211Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T173211Z.gif"
-    },
-    {
-      "ts": 1785952800,
-      "datetime": "20260805T180420Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T180420Z.gif"
-    },
-    {
-      "ts": 1785954600,
-      "datetime": "20260805T183226Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T183226Z.gif"
-    },
-    {
-      "ts": 1785956400,
-      "datetime": "20260805T190217Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T190217Z.gif"
-    },
-    {
-      "ts": 1785958200,
-      "datetime": "20260805T193346Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T193346Z.gif"
-    },
-    {
-      "ts": 1785960000,
-      "datetime": "20260805T200335Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T200335Z.gif"
-    },
-    {
-      "ts": 1785961800,
-      "datetime": "20260805T203353Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T203353Z.gif"
-    },
-    {
-      "ts": 1785963600,
-      "datetime": "20260805T210227Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T210227Z.gif"
-    },
-    {
-      "ts": 1785965400,
-      "datetime": "20260805T213349Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T213349Z.gif"
-    },
-    {
-      "ts": 1785967200,
-      "datetime": "20260805T220228Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T220228Z.gif"
-    },
-    {
-      "ts": 1785969000,
-      "datetime": "20260805T223232Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260805/gif/20260805T223232Z.gif"
-    },
-    {
       "ts": 1785970800,
       "datetime": "20260805T230338Z",
       "date": "20260806",
@@ -984,6 +816,12 @@
       "datetime": "20260808T223232Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260808/gif/20260808T223232Z.gif"
+    },
+    {
+      "ts": 1786230000,
+      "datetime": "20260808T230354Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260809/gif/20260808T230354Z.gif"
     }
   ]
 }
