@@ -2,90 +2,6 @@
   "icao": "ZHHH",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091622Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T091622Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093145Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T093145Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100150Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T100150Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103151Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T103151Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110233Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T110233Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113149Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T113149Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120317Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T120317Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123307Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T123307Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130152Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T130152Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133149Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T133149Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140203Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T140203Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143556Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T143556Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150255Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T150255Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153142Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260805/gif/20260805T153142Z.gif"
-    },
-    {
       "ts": 1785945600,
       "datetime": "20260805T160150Z",
       "date": "20260806",
@@ -900,6 +816,12 @@
       "datetime": "20260808T153146Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260808/gif/20260808T153146Z.gif"
+    },
+    {
+      "ts": 1786204800,
+      "datetime": "20260808T160150Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260809/gif/20260808T160150Z.gif"
     }
   ]
 }

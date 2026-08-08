@@ -2,90 +2,6 @@
   "icao": "VHHH",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091611Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T091611Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093133Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T093133Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100138Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T100138Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103137Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T103137Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110207Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T110207Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113137Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T113137Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120249Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T120249Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123239Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T123239Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130140Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T130140Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133136Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T133136Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140150Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T140150Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143529Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T143529Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150240Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T150240Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153128Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260805/gif/20260805T153128Z.gif"
-    },
-    {
       "ts": 1785945600,
       "datetime": "20260805T160137Z",
       "date": "20260806",
@@ -900,6 +816,12 @@
       "datetime": "20260808T153131Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260808/gif/20260808T153131Z.gif"
+    },
+    {
+      "ts": 1786204800,
+      "datetime": "20260808T160138Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260809/gif/20260808T160138Z.gif"
     }
   ]
 }

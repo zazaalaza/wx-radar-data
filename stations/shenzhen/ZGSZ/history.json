@@ -2,90 +2,6 @@
   "icao": "ZGSZ",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091617Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T091617Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093139Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T093139Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100144Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T100144Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103145Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T103145Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110220Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T110220Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113143Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T113143Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120303Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T120303Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123253Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T123253Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130146Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T130146Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133142Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T133142Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140157Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T140157Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143543Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T143543Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150248Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T150248Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153135Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260805/gif/20260805T153135Z.gif"
-    },
-    {
       "ts": 1785945600,
       "datetime": "20260805T160144Z",
       "date": "20260806",
@@ -900,6 +816,12 @@
       "datetime": "20260808T153139Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260808/gif/20260808T153139Z.gif"
+    },
+    {
+      "ts": 1786204800,
+      "datetime": "20260808T160144Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260809/gif/20260808T160144Z.gif"
     }
   ]
 }

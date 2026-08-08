@@ -2,90 +2,6 @@
   "icao": "ZUUU",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091607Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T091607Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093128Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T093128Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100132Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T100132Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103131Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T103131Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110156Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T110156Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113131Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T113131Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120238Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T120238Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123228Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T123228Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130134Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T130134Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133130Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T133130Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140144Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T140144Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143518Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T143518Z.gif"
-    },
-    {
-      "ts": 1785942000,
-      "datetime": "20260805T150234Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T150234Z.gif"
-    },
-    {
-      "ts": 1785943800,
-      "datetime": "20260805T153122Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260805/gif/20260805T153122Z.gif"
-    },
-    {
       "ts": 1785945600,
       "datetime": "20260805T160132Z",
       "date": "20260806",
@@ -900,6 +816,12 @@
       "datetime": "20260808T153125Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260808/gif/20260808T153125Z.gif"
+    },
+    {
+      "ts": 1786204800,
+      "datetime": "20260808T160132Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260809/gif/20260808T160132Z.gif"
     }
   ]
 }
