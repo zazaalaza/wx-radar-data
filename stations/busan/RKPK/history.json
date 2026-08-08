@@ -2,78 +2,6 @@
   "icao": "RKPK",
   "captures": [
     {
-      "ts": 1785920400,
-      "datetime": "20260805T091602Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T091602Z.gif"
-    },
-    {
-      "ts": 1785922200,
-      "datetime": "20260805T093123Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T093123Z.gif"
-    },
-    {
-      "ts": 1785924000,
-      "datetime": "20260805T100128Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T100128Z.gif"
-    },
-    {
-      "ts": 1785925800,
-      "datetime": "20260805T103126Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T103126Z.gif"
-    },
-    {
-      "ts": 1785927600,
-      "datetime": "20260805T110146Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T110146Z.gif"
-    },
-    {
-      "ts": 1785929400,
-      "datetime": "20260805T113126Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T113126Z.gif"
-    },
-    {
-      "ts": 1785931200,
-      "datetime": "20260805T120228Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T120228Z.gif"
-    },
-    {
-      "ts": 1785933000,
-      "datetime": "20260805T123218Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T123218Z.gif"
-    },
-    {
-      "ts": 1785934800,
-      "datetime": "20260805T130129Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T130129Z.gif"
-    },
-    {
-      "ts": 1785936600,
-      "datetime": "20260805T133125Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T133125Z.gif"
-    },
-    {
-      "ts": 1785938400,
-      "datetime": "20260805T140139Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T140139Z.gif"
-    },
-    {
-      "ts": 1785940200,
-      "datetime": "20260805T143508Z",
-      "date": "20260805",
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260805/gif/20260805T143508Z.gif"
-    },
-    {
       "ts": 1785942000,
       "datetime": "20260805T150228Z",
       "date": "20260806",
@@ -888,6 +816,12 @@
       "datetime": "20260808T143117Z",
       "date": "20260808",
       "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260808/gif/20260808T143117Z.gif"
+    },
+    {
+      "ts": 1786201200,
+      "datetime": "20260808T150129Z",
+      "date": "20260809",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260809/gif/20260808T150129Z.gif"
     }
   ]
 }
