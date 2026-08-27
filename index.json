@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-27T09:35:25.336Z",
-  "seriesTs": 1787823000,
+  "updatedAt": "2026-08-27T10:04:09.984Z",
+  "seriesTs": 1787824800,
   "stations": [
     {
       "icao": "NZWN",
@@ -8,12 +8,12 @@
       "latitude": -41.3272,
       "longitude": 174.8053,
       "timezone": "Pacific/Auckland",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wellington/NZWN/20260827/gif/20260827T093138Z.gif",
-      "updatedAt": "2026-08-27T09:31:38Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wellington/NZWN/20260827/gif/20260827T100214Z.gif",
+      "updatedAt": "2026-08-27T10:02:14Z"
     },
     {
       "icao": "YSSY",
@@ -21,12 +21,12 @@
       "latitude": -33.9465,
       "longitude": 151.1731,
       "timezone": "Australia/Sydney",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20260827/gif/20260827T093142Z.gif",
-      "updatedAt": "2026-08-27T09:31:42Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20260827/gif/20260827T100216Z.gif",
+      "updatedAt": "2026-08-27T10:02:16Z"
     },
     {
       "icao": "RKSI",
@@ -34,12 +34,12 @@
       "latitude": 37.4602,
       "longitude": 126.4407,
       "timezone": "Asia/Seoul",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20260827/gif/20260827T093145Z.gif",
-      "updatedAt": "2026-08-27T09:31:45Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20260827/gif/20260827T100218Z.gif",
+      "updatedAt": "2026-08-27T10:02:18Z"
     },
     {
       "icao": "RKPK",
@@ -47,12 +47,12 @@
       "latitude": 35.1795,
       "longitude": 128.9382,
       "timezone": "Asia/Seoul",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260827/gif/20260827T093148Z.gif",
-      "updatedAt": "2026-08-27T09:31:48Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/busan/RKPK/20260827/gif/20260827T100220Z.gif",
+      "updatedAt": "2026-08-27T10:02:20Z"
     },
     {
       "icao": "RJTT",
@@ -60,12 +60,12 @@
       "latitude": 35.5533,
       "longitude": 139.7811,
       "timezone": "Asia/Tokyo",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20260827/gif/20260827T093151Z.gif",
-      "updatedAt": "2026-08-27T09:31:51Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20260827/gif/20260827T100221Z.gif",
+      "updatedAt": "2026-08-27T10:02:21Z"
     },
     {
       "icao": "ZBAA",
@@ -73,12 +73,12 @@
       "latitude": 40.0741,
       "longitude": 116.587,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20260827/gif/20260827T093155Z.gif",
-      "updatedAt": "2026-08-27T09:31:55Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20260827/gif/20260827T100223Z.gif",
+      "updatedAt": "2026-08-27T10:02:23Z"
     },
     {
       "icao": "ZUUU",
@@ -86,12 +86,12 @@
       "latitude": 30.6667,
       "longitude": 104.0167,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260827/gif/20260827T093158Z.gif",
-      "updatedAt": "2026-08-27T09:31:58Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chengdu/ZUUU/20260827/gif/20260827T100225Z.gif",
+      "updatedAt": "2026-08-27T10:02:25Z"
     },
     {
       "icao": "ZUCK",
@@ -99,12 +99,12 @@
       "latitude": 29.52,
       "longitude": 106.48,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chongqing/ZUCK/20260827/gif/20260827T093202Z.gif",
-      "updatedAt": "2026-08-27T09:32:02Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chongqing/ZUCK/20260827/gif/20260827T100227Z.gif",
+      "updatedAt": "2026-08-27T10:02:27Z"
     },
     {
       "icao": "ZGGG",
@@ -112,12 +112,12 @@
       "latitude": 23.3964,
       "longitude": 113.3008,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/guangzhou/ZGGG/20260827/gif/20260827T093206Z.gif",
-      "updatedAt": "2026-08-27T09:32:06Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/guangzhou/ZGGG/20260827/gif/20260827T100228Z.gif",
+      "updatedAt": "2026-08-27T10:02:28Z"
     },
     {
       "icao": "VHHH",
@@ -125,12 +125,12 @@
       "latitude": 22.309,
       "longitude": 113.922,
       "timezone": "Asia/Hong_Kong",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260827/gif/20260827T093209Z.gif",
-      "updatedAt": "2026-08-27T09:32:09Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/hong_kong/VHHH/20260827/gif/20260827T100230Z.gif",
+      "updatedAt": "2026-08-27T10:02:30Z"
     },
     {
       "icao": "RPLL",
@@ -138,12 +138,12 @@
       "latitude": 14.5069,
       "longitude": 121.0042,
       "timezone": "Asia/Manila",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260827/gif/20260827T093212Z.gif",
-      "updatedAt": "2026-08-27T09:32:12Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260827/gif/20260827T100232Z.gif",
+      "updatedAt": "2026-08-27T10:02:32Z"
     },
     {
       "icao": "WMKK",
@@ -151,12 +151,12 @@
       "latitude": 2.7167,
       "longitude": 101.7,
       "timezone": "Asia/Kuala_Lumpur",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20260827/gif/20260827T093216Z.gif",
-      "updatedAt": "2026-08-27T09:32:16Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20260827/gif/20260827T100234Z.gif",
+      "updatedAt": "2026-08-27T10:02:34Z"
     },
     {
       "icao": "ZSPD",
@@ -164,12 +164,12 @@
       "latitude": 31.1167,
       "longitude": 121.7667,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20260827/gif/20260827T093219Z.gif",
-      "updatedAt": "2026-08-27T09:32:19Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20260827/gif/20260827T100236Z.gif",
+      "updatedAt": "2026-08-27T10:02:36Z"
     },
     {
       "icao": "ZGSZ",
@@ -177,12 +177,12 @@
       "latitude": 22.55,
       "longitude": 114.1,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260827/gif/20260827T093222Z.gif",
-      "updatedAt": "2026-08-27T09:32:22Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shenzhen/ZGSZ/20260827/gif/20260827T100237Z.gif",
+      "updatedAt": "2026-08-27T10:02:37Z"
     },
     {
       "icao": "ZSQD",
@@ -190,12 +190,12 @@
       "latitude": 36.0667,
       "longitude": 120.3333,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/qingdao/ZSQD/20260827/gif/20260827T093226Z.gif",
-      "updatedAt": "2026-08-27T09:32:26Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/qingdao/ZSQD/20260827/gif/20260827T100239Z.gif",
+      "updatedAt": "2026-08-27T10:02:39Z"
     },
     {
       "icao": "WSSS",
@@ -203,12 +203,12 @@
       "latitude": 1.3667,
       "longitude": 103.9833,
       "timezone": "Asia/Singapore",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260827/gif/20260827T093229Z.gif",
-      "updatedAt": "2026-08-27T09:32:29Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260827/gif/20260827T100240Z.gif",
+      "updatedAt": "2026-08-27T10:02:40Z"
     },
     {
       "icao": "RCSS",
@@ -216,12 +216,12 @@
       "latitude": 25.0694,
       "longitude": 121.5517,
       "timezone": "Asia/Taipei",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260827/gif/20260827T093232Z.gif",
-      "updatedAt": "2026-08-27T09:32:32Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260827/gif/20260827T100242Z.gif",
+      "updatedAt": "2026-08-27T10:02:42Z"
     },
     {
       "icao": "ZHHH",
@@ -229,12 +229,12 @@
       "latitude": 30.62,
       "longitude": 114.13,
       "timezone": "Asia/Shanghai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260827/gif/20260827T093235Z.gif",
-      "updatedAt": "2026-08-27T09:32:35Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/wuhan/ZHHH/20260827/gif/20260827T100244Z.gif",
+      "updatedAt": "2026-08-27T10:02:44Z"
     },
     {
       "icao": "WIHH",
@@ -242,12 +242,12 @@
       "latitude": -6.2666,
       "longitude": 106.8911,
       "timezone": "Asia/Jakarta",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20260827/gif/20260827T093239Z.gif",
-      "updatedAt": "2026-08-27T09:32:39Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20260827/gif/20260827T100245Z.gif",
+      "updatedAt": "2026-08-27T10:02:45Z"
     },
     {
       "icao": "OPKC",
@@ -255,12 +255,12 @@
       "latitude": 24.8456,
       "longitude": 67.1614,
       "timezone": "Asia/Karachi",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/karachi/OPKC/20260827/gif/20260827T093242Z.gif",
-      "updatedAt": "2026-08-27T09:32:42Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/karachi/OPKC/20260827/gif/20260827T100247Z.gif",
+      "updatedAt": "2026-08-27T10:02:47Z"
     },
     {
       "icao": "VILK",
@@ -268,12 +268,12 @@
       "latitude": 26.7606,
       "longitude": 80.8893,
       "timezone": "Asia/Kolkata",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lucknow/VILK/20260827/gif/20260827T093245Z.gif",
-      "updatedAt": "2026-08-27T09:32:45Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lucknow/VILK/20260827/gif/20260827T100249Z.gif",
+      "updatedAt": "2026-08-27T10:02:49Z"
     },
     {
       "icao": "OMAA",
@@ -281,12 +281,12 @@
       "latitude": 24.433,
       "longitude": 54.651,
       "timezone": "Asia/Dubai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/abu_dhabi/OMAA/20260827/gif/20260827T093249Z.gif",
-      "updatedAt": "2026-08-27T09:32:49Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/abu_dhabi/OMAA/20260827/gif/20260827T100251Z.gif",
+      "updatedAt": "2026-08-27T10:02:51Z"
     },
     {
       "icao": "OMDB",
@@ -294,12 +294,12 @@
       "latitude": 25.254,
       "longitude": 55.366,
       "timezone": "Asia/Dubai",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20260827/gif/20260827T093252Z.gif",
-      "updatedAt": "2026-08-27T09:32:52Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20260827/gif/20260827T100252Z.gif",
+      "updatedAt": "2026-08-27T10:02:52Z"
     },
     {
       "icao": "LLBG",
@@ -307,12 +307,12 @@
       "latitude": 32.0114,
       "longitude": 34.8867,
       "timezone": "Asia/Jerusalem",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tel_aviv/LLBG/20260827/gif/20260827T093255Z.gif",
-      "updatedAt": "2026-08-27T09:32:55Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tel_aviv/LLBG/20260827/gif/20260827T100254Z.gif",
+      "updatedAt": "2026-08-27T10:02:54Z"
     },
     {
       "icao": "LTAC",
@@ -320,12 +320,12 @@
       "latitude": 40.1281,
       "longitude": 32.9951,
       "timezone": "Europe/Istanbul",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20260827/gif/20260827T093258Z.gif",
-      "updatedAt": "2026-08-27T09:32:58Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20260827/gif/20260827T100255Z.gif",
+      "updatedAt": "2026-08-27T10:02:55Z"
     },
     {
       "icao": "LTFM",
@@ -333,12 +333,12 @@
       "latitude": 41.2629,
       "longitude": 28.7413,
       "timezone": "Europe/Istanbul",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20260827/gif/20260827T093302Z.gif",
-      "updatedAt": "2026-08-27T09:33:02Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20260827/gif/20260827T100257Z.gif",
+      "updatedAt": "2026-08-27T10:02:57Z"
     },
     {
       "icao": "UUWW",
@@ -346,12 +346,12 @@
       "latitude": 55.5915,
       "longitude": 37.2615,
       "timezone": "Europe/Moscow",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/moscow/UUWW/20260827/gif/20260827T093305Z.gif",
-      "updatedAt": "2026-08-27T09:33:05Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/moscow/UUWW/20260827/gif/20260827T100259Z.gif",
+      "updatedAt": "2026-08-27T10:02:59Z"
     },
     {
       "icao": "OEJN",
@@ -359,12 +359,12 @@
       "latitude": 21.6598,
       "longitude": 39.1222,
       "timezone": "Asia/Riyadh",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jeddah/OEJN/20260827/gif/20260827T093309Z.gif",
-      "updatedAt": "2026-08-27T09:33:09Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jeddah/OEJN/20260827/gif/20260827T100300Z.gif",
+      "updatedAt": "2026-08-27T10:03:00Z"
     },
     {
       "icao": "FACT",
@@ -372,12 +372,12 @@
       "latitude": -33.9667,
       "longitude": 18.6,
       "timezone": "Africa/Johannesburg",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260827/gif/20260827T093312Z.gif",
-      "updatedAt": "2026-08-27T09:33:12Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20260827/gif/20260827T100302Z.gif",
+      "updatedAt": "2026-08-27T10:03:02Z"
     },
     {
       "icao": "EFHK",
@@ -385,12 +385,12 @@
       "latitude": 60.3172,
       "longitude": 24.9633,
       "timezone": "Europe/Helsinki",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20260827/gif/20260827T093315Z.gif",
-      "updatedAt": "2026-08-27T09:33:15Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20260827/gif/20260827T100304Z.gif",
+      "updatedAt": "2026-08-27T10:03:04Z"
     },
     {
       "icao": "EPWA",
@@ -398,12 +398,12 @@
       "latitude": 52.1628,
       "longitude": 20.9611,
       "timezone": "Europe/Warsaw",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20260827/gif/20260827T093318Z.gif",
-      "updatedAt": "2026-08-27T09:33:18Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20260827/gif/20260827T100306Z.gif",
+      "updatedAt": "2026-08-27T10:03:06Z"
     },
     {
       "icao": "LIMC",
@@ -411,12 +411,12 @@
       "latitude": 45.63,
       "longitude": 8.7231,
       "timezone": "Europe/Rome",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260827/gif/20260827T093322Z.gif",
-      "updatedAt": "2026-08-27T09:33:22Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/milan/LIMC/20260827/gif/20260827T100307Z.gif",
+      "updatedAt": "2026-08-27T10:03:07Z"
     },
     {
       "icao": "EDDM",
@@ -424,12 +424,12 @@
       "latitude": 48.3538,
       "longitude": 11.7861,
       "timezone": "Europe/Berlin",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260827/gif/20260827T093325Z.gif",
-      "updatedAt": "2026-08-27T09:33:25Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/munich/EDDM/20260827/gif/20260827T100309Z.gif",
+      "updatedAt": "2026-08-27T10:03:09Z"
     },
     {
       "icao": "LFPB",
@@ -437,12 +437,12 @@
       "latitude": 48.9672,
       "longitude": 2.4272,
       "timezone": "Europe/Paris",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/paris/LFPB/20260827/gif/20260827T093329Z.gif",
-      "updatedAt": "2026-08-27T09:33:29Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/paris/LFPB/20260827/gif/20260827T100311Z.gif",
+      "updatedAt": "2026-08-27T10:03:11Z"
     },
     {
       "icao": "EHAM",
@@ -450,12 +450,12 @@
       "latitude": 52.3154,
       "longitude": 4.7902,
       "timezone": "Europe/Amsterdam",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20260827/gif/20260827T093332Z.gif",
-      "updatedAt": "2026-08-27T09:33:32Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20260827/gif/20260827T100312Z.gif",
+      "updatedAt": "2026-08-27T10:03:12Z"
     },
     {
       "icao": "LEMD",
@@ -463,12 +463,12 @@
       "latitude": 40.4667,
       "longitude": -3.5556,
       "timezone": "Europe/Madrid",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20260827/gif/20260827T093336Z.gif",
-      "updatedAt": "2026-08-27T09:33:36Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20260827/gif/20260827T100314Z.gif",
+      "updatedAt": "2026-08-27T10:03:14Z"
     },
     {
       "icao": "DNMM",
@@ -476,12 +476,12 @@
       "latitude": 6.5774,
       "longitude": 3.3212,
       "timezone": "Africa/Lagos",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260827/gif/20260827T093339Z.gif",
-      "updatedAt": "2026-08-27T09:33:39Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/lagos/DNMM/20260827/gif/20260827T100315Z.gif",
+      "updatedAt": "2026-08-27T10:03:15Z"
     },
     {
       "icao": "EGLC",
@@ -489,12 +489,12 @@
       "latitude": 51.505,
       "longitude": 0.055,
       "timezone": "Europe/London",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260827/gif/20260827T093343Z.gif",
-      "updatedAt": "2026-08-27T09:33:43Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/london/EGLC/20260827/gif/20260827T100317Z.gif",
+      "updatedAt": "2026-08-27T10:03:17Z"
     },
     {
       "icao": "SAEZ",
@@ -502,12 +502,12 @@
       "latitude": -34.815,
       "longitude": -58.535,
       "timezone": "America/Argentina/Buenos_Aires",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/buenos_aires/SAEZ/20260827/gif/20260827T093347Z.gif",
-      "updatedAt": "2026-08-27T09:33:47Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/buenos_aires/SAEZ/20260827/gif/20260827T100319Z.gif",
+      "updatedAt": "2026-08-27T10:03:19Z"
     },
     {
       "icao": "SBGR",
@@ -515,12 +515,12 @@
       "latitude": -23.4356,
       "longitude": -46.4731,
       "timezone": "America/Sao_Paulo",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sao_paulo/SBGR/20260827/gif/20260827T093350Z.gif",
-      "updatedAt": "2026-08-27T09:33:50Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sao_paulo/SBGR/20260827/gif/20260827T100321Z.gif",
+      "updatedAt": "2026-08-27T10:03:21Z"
     },
     {
       "icao": "CYUL",
@@ -528,12 +528,12 @@
       "latitude": 45.4683,
       "longitude": -73.7414,
       "timezone": "America/Toronto",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260827/gif/20260827T093354Z.gif",
-      "updatedAt": "2026-08-27T09:33:54Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260827/gif/20260827T100323Z.gif",
+      "updatedAt": "2026-08-27T10:03:23Z"
     },
     {
       "icao": "CYYZ",
@@ -541,12 +541,12 @@
       "latitude": 43.6777,
       "longitude": -79.6248,
       "timezone": "America/Toronto",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20260827/gif/20260827T093357Z.gif",
-      "updatedAt": "2026-08-27T09:33:57Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20260827/gif/20260827T100324Z.gif",
+      "updatedAt": "2026-08-27T10:03:24Z"
     },
     {
       "icao": "MPMG",
@@ -554,12 +554,12 @@
       "latitude": 8.9833,
       "longitude": -79.5167,
       "timezone": "America/Panama",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/panama_city/MPMG/20260827/gif/20260827T093400Z.gif",
-      "updatedAt": "2026-08-27T09:34:00Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/panama_city/MPMG/20260827/gif/20260827T100326Z.gif",
+      "updatedAt": "2026-08-27T10:03:26Z"
     },
     {
       "icao": "KATL",
@@ -567,12 +567,12 @@
       "latitude": 33.6407,
       "longitude": -84.4277,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260827/gif/20260827T093403Z.gif",
-      "updatedAt": "2026-08-27T09:34:03Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260827/gif/20260827T100328Z.gif",
+      "updatedAt": "2026-08-27T10:03:28Z"
     },
     {
       "icao": "KBOS",
@@ -580,12 +580,12 @@
       "latitude": 42.3656,
       "longitude": -71.0096,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260827/gif/20260827T093407Z.gif",
-      "updatedAt": "2026-08-27T09:34:07Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260827/gif/20260827T100330Z.gif",
+      "updatedAt": "2026-08-27T10:03:30Z"
     },
     {
       "icao": "KCLT",
@@ -593,12 +593,12 @@
       "latitude": 35.214,
       "longitude": -80.9431,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20260827/gif/20260827T093409Z.gif",
-      "updatedAt": "2026-08-27T09:34:09Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20260827/gif/20260827T100331Z.gif",
+      "updatedAt": "2026-08-27T10:03:31Z"
     },
     {
       "icao": "KJAX",
@@ -606,12 +606,12 @@
       "latitude": 30.4941,
       "longitude": -81.6879,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260827/gif/20260827T093413Z.gif",
-      "updatedAt": "2026-08-27T09:34:13Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260827/gif/20260827T100333Z.gif",
+      "updatedAt": "2026-08-27T10:03:33Z"
     },
     {
       "icao": "KMIA",
@@ -619,12 +619,12 @@
       "latitude": 25.7881,
       "longitude": -80.3169,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260827/gif/20260827T093416Z.gif",
-      "updatedAt": "2026-08-27T09:34:16Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260827/gif/20260827T100335Z.gif",
+      "updatedAt": "2026-08-27T10:03:35Z"
     },
     {
       "icao": "KLGA",
@@ -632,12 +632,12 @@
       "latitude": 40.7794,
       "longitude": -73.8803,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260827/gif/20260827T093419Z.gif",
-      "updatedAt": "2026-08-27T09:34:19Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260827/gif/20260827T100336Z.gif",
+      "updatedAt": "2026-08-27T10:03:36Z"
     },
     {
       "icao": "KPHL",
@@ -645,12 +645,12 @@
       "latitude": 39.8733,
       "longitude": -75.2268,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260827/gif/20260827T093422Z.gif",
-      "updatedAt": "2026-08-27T09:34:22Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260827/gif/20260827T100338Z.gif",
+      "updatedAt": "2026-08-27T10:03:38Z"
     },
     {
       "icao": "KDCA",
@@ -658,12 +658,12 @@
       "latitude": 38.8521,
       "longitude": -77.0377,
       "timezone": "America/New_York",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/washington_dc/KDCA/20260827/gif/20260827T093426Z.gif",
-      "updatedAt": "2026-08-27T09:34:26Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/washington_dc/KDCA/20260827/gif/20260827T100339Z.gif",
+      "updatedAt": "2026-08-27T10:03:39Z"
     },
     {
       "icao": "KDTW",
@@ -671,12 +671,12 @@
       "latitude": 42.2124,
       "longitude": -83.3494,
       "timezone": "America/Detroit",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260827/gif/20260827T093429Z.gif",
-      "updatedAt": "2026-08-27T09:34:29Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260827/gif/20260827T100341Z.gif",
+      "updatedAt": "2026-08-27T10:03:41Z"
     },
     {
       "icao": "MMMX",
@@ -684,12 +684,12 @@
       "latitude": 19.4363,
       "longitude": -99.0721,
       "timezone": "America/Mexico_City",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/mexico_city/MMMX/20260827/gif/20260827T093432Z.gif",
-      "updatedAt": "2026-08-27T09:34:32Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/mexico_city/MMMX/20260827/gif/20260827T100343Z.gif",
+      "updatedAt": "2026-08-27T10:03:43Z"
     },
     {
       "icao": "KAUS",
@@ -697,12 +697,12 @@
       "latitude": 30.2099,
       "longitude": -97.6806,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20260827/gif/20260827T093436Z.gif",
-      "updatedAt": "2026-08-27T09:34:36Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20260827/gif/20260827T100344Z.gif",
+      "updatedAt": "2026-08-27T10:03:44Z"
     },
     {
       "icao": "KORD",
@@ -710,12 +710,12 @@
       "latitude": 41.9602,
       "longitude": -87.9316,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20260827/gif/20260827T093439Z.gif",
-      "updatedAt": "2026-08-27T09:34:39Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20260827/gif/20260827T100346Z.gif",
+      "updatedAt": "2026-08-27T10:03:46Z"
     },
     {
       "icao": "KDAL",
@@ -723,12 +723,12 @@
       "latitude": 32.8471,
       "longitude": -96.8518,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20260827/gif/20260827T093442Z.gif",
-      "updatedAt": "2026-08-27T09:34:42Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20260827/gif/20260827T100347Z.gif",
+      "updatedAt": "2026-08-27T10:03:47Z"
     },
     {
       "icao": "KHOU",
@@ -736,12 +736,12 @@
       "latitude": 29.6454,
       "longitude": -95.2788,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20260827/gif/20260827T093446Z.gif",
-      "updatedAt": "2026-08-27T09:34:46Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20260827/gif/20260827T100349Z.gif",
+      "updatedAt": "2026-08-27T10:03:49Z"
     },
     {
       "icao": "KMSP",
@@ -749,12 +749,12 @@
       "latitude": 44.8848,
       "longitude": -93.2223,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20260827/gif/20260827T093449Z.gif",
-      "updatedAt": "2026-08-27T09:34:49Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20260827/gif/20260827T100351Z.gif",
+      "updatedAt": "2026-08-27T10:03:51Z"
     },
     {
       "icao": "KBNA",
@@ -762,12 +762,12 @@
       "latitude": 36.1263,
       "longitude": -86.6774,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nashville/KBNA/20260827/gif/20260827T093452Z.gif",
-      "updatedAt": "2026-08-27T09:34:52Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nashville/KBNA/20260827/gif/20260827T100352Z.gif",
+      "updatedAt": "2026-08-27T10:03:52Z"
     },
     {
       "icao": "KMSY",
@@ -775,12 +775,12 @@
       "latitude": 29.9934,
       "longitude": -90.258,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/new_orleans/KMSY/20260827/gif/20260827T093456Z.gif",
-      "updatedAt": "2026-08-27T09:34:56Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/new_orleans/KMSY/20260827/gif/20260827T100354Z.gif",
+      "updatedAt": "2026-08-27T10:03:54Z"
     },
     {
       "icao": "KOKC",
@@ -788,12 +788,12 @@
       "latitude": 35.3931,
       "longitude": -97.6007,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/oklahoma_city/KOKC/20260827/gif/20260827T093459Z.gif",
-      "updatedAt": "2026-08-27T09:34:59Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/oklahoma_city/KOKC/20260827/gif/20260827T100356Z.gif",
+      "updatedAt": "2026-08-27T10:03:56Z"
     },
     {
       "icao": "KSAT",
@@ -801,12 +801,12 @@
       "latitude": 29.5339,
       "longitude": -98.4691,
       "timezone": "America/Chicago",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/san_antonio/KSAT/20260827/gif/20260827T093502Z.gif",
-      "updatedAt": "2026-08-27T09:35:02Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/san_antonio/KSAT/20260827/gif/20260827T100357Z.gif",
+      "updatedAt": "2026-08-27T10:03:57Z"
     },
     {
       "icao": "KBKF",
@@ -814,12 +814,12 @@
       "latitude": 39.7017,
       "longitude": -104.7517,
       "timezone": "America/Denver",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/denver/KBKF/20260827/gif/20260827T093503Z.gif",
-      "updatedAt": "2026-08-27T09:35:03Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/denver/KBKF/20260827/gif/20260827T100358Z.gif",
+      "updatedAt": "2026-08-27T10:03:58Z"
     },
     {
       "icao": "KPHX",
@@ -827,12 +827,12 @@
       "latitude": 33.4343,
       "longitude": -112.0116,
       "timezone": "America/Phoenix",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260827/gif/20260827T093506Z.gif",
-      "updatedAt": "2026-08-27T09:35:06Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260827/gif/20260827T100359Z.gif",
+      "updatedAt": "2026-08-27T10:03:59Z"
     },
     {
       "icao": "KLAS",
@@ -840,12 +840,12 @@
       "latitude": 36.08,
       "longitude": -115.1522,
       "timezone": "America/Los_Angeles",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/las_vegas/KLAS/20260827/gif/20260827T093509Z.gif",
-      "updatedAt": "2026-08-27T09:35:09Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/las_vegas/KLAS/20260827/gif/20260827T100401Z.gif",
+      "updatedAt": "2026-08-27T10:04:01Z"
     },
     {
       "icao": "KLAX",
@@ -853,12 +853,12 @@
       "latitude": 33.9382,
       "longitude": -118.387,
       "timezone": "America/Los_Angeles",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/los_angeles/KLAX/20260827/gif/20260827T093512Z.gif",
-      "updatedAt": "2026-08-27T09:35:12Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/los_angeles/KLAX/20260827/gif/20260827T100403Z.gif",
+      "updatedAt": "2026-08-27T10:04:03Z"
     },
     {
       "icao": "KSFO",
@@ -866,12 +866,12 @@
       "latitude": 37.619,
       "longitude": -122.3741,
       "timezone": "America/Los_Angeles",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/san_francisco/KSFO/20260827/gif/20260827T093515Z.gif",
-      "updatedAt": "2026-08-27T09:35:15Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/san_francisco/KSFO/20260827/gif/20260827T100405Z.gif",
+      "updatedAt": "2026-08-27T10:04:05Z"
     },
     {
       "icao": "KSEA",
@@ -879,12 +879,12 @@
       "latitude": 47.4489,
       "longitude": -122.3094,
       "timezone": "America/Los_Angeles",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260827/gif/20260827T093518Z.gif",
-      "updatedAt": "2026-08-27T09:35:18Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260827/gif/20260827T100406Z.gif",
+      "updatedAt": "2026-08-27T10:04:06Z"
     },
     {
       "icao": "CYHC",
@@ -892,12 +892,12 @@
       "latitude": 49.2953,
       "longitude": -123.1219,
       "timezone": "America/Vancouver",
-      "seriesTs": 1787823000,
-      "startFrameUnixTimestamp": 1787823900,
-      "endFrameUnixTimestamp": 1787848200,
+      "seriesTs": 1787824800,
+      "startFrameUnixTimestamp": 1787825700,
+      "endFrameUnixTimestamp": 1787850000,
       "frameCount": 28,
-      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260827/gif/20260827T093522Z.gif",
-      "updatedAt": "2026-08-27T09:35:22Z"
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260827/gif/20260827T100408Z.gif",
+      "updatedAt": "2026-08-27T10:04:08Z"
     }
   ]
 }
