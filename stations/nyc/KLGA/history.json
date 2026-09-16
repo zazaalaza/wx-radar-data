@@ -1,0 +1,953 @@
+{
+  "icao": "KLGA",
+  "captures": [
+    {
+      "ts": 1789272000,
+      "datetime": "20260913T041107Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T041107Z.gif"
+    },
+    {
+      "ts": 1789273800,
+      "datetime": "20260913T044040Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T044040Z.gif"
+    },
+    {
+      "ts": 1789275600,
+      "datetime": "20260913T051110Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T051110Z.gif"
+    },
+    {
+      "ts": 1789277400,
+      "datetime": "20260913T054332Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T054332Z.gif"
+    },
+    {
+      "ts": 1789279200,
+      "datetime": "20260913T061126Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T061126Z.gif"
+    },
+    {
+      "ts": 1789281000,
+      "datetime": "20260913T064332Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T064332Z.gif"
+    },
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071238Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T071238Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074306Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T074306Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081857Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T081857Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084509Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T084509Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090856Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T090856Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093759Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T093759Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100739Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T100739Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103714Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T103714Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110831Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T110831Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T114010Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T114010Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121022Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T121022Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T124000Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T124000Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131046Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T131046Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134027Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T134027Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140907Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T140907Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T143955Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T143955Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151102Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T151102Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154245Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T154245Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161300Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T161300Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164058Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T164058Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171238Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T171238Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174057Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T174057Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181013Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T181013Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185759Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T185759Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191417Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T191417Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194328Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T194328Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201622Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T201622Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204058Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T204058Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211403Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T211403Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214122Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T214122Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221140Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T221140Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224328Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T224328Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231158Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T231158Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234159Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260913T234159Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001631Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T001631Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004351Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T004351Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010654Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T010654Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013712Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T013712Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020704Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T020704Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023720Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T023720Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030743Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T030743Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033758Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260913/gif/20260914T033758Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040823Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T040823Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043809Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T043809Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050845Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T050845Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054206Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T054206Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061120Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T061120Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064040Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T064040Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070914Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T070914Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073842Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T073842Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081020Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T081020Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083925Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T083925Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091320Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T091320Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094514Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T094514Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T101000Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T101000Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104314Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T104314Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111027Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T111027Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114034Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T114034Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121052Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T121052Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124233Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T124233Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131107Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T131107Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134110Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T134110Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141131Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T141131Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144149Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T144149Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151520Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T151520Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155431Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T155431Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161730Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T161730Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164210Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T164210Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171227Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T171227Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174216Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T174216Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T190011Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T190011Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191749Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T191749Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200438Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T200438Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T201955Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T201955Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210645Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T210645Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212249Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T212249Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214328Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T214328Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221442Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T221442Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225217Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T225217Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231249Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T231249Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234245Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260914T234245Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001321Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T001321Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004304Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T004304Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011729Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T011729Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014458Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T014458Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020646Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T020646Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023657Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T023657Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T030923Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T030923Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033847Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260914/gif/20260915T033847Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040739Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T040739Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043704Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T043704Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051825Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T051825Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T053942Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T053942Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060828Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T060828Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063847Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T063847Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071134Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T071134Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073822Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T073822Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081055Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T081055Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085430Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T085430Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T090953Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T090953Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T093947Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T093947Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T100945Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T100945Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T103936Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T103936Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111343Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T111343Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T114001Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T114001Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121134Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T121134Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124837Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T124837Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132339Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T132339Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134103Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T134103Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141422Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T141422Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151357Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T151357Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152857Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T152857Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154742Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T154742Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161133Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T161133Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164135Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T164135Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T174001Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T174001Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175606Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T175606Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185748Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T185748Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191356Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T191356Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194303Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T194303Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201420Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T201420Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212732Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T212732Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215143Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T215143Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230034Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T230034Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T232016Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T232016Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234251Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260915T234251Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001344Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T001344Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004559Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T004559Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011317Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T011317Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014244Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T014244Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021253Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T021253Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024312Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T024312Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031606Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T031606Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034542Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260915/gif/20260916T034542Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041407Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T041407Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044259Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T044259Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051318Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T051318Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054507Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T054507Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061333Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T061333Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064635Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T064635Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072134Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T072134Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074837Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T074837Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080841Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T080841Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085215Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T085215Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090913Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T090913Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093711Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T093711Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T100956Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T100956Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104034Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T104034Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110757Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T110757Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113732Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T113732Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121551Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T121551Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123831Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/nyc/KLGA/20260916/gif/20260916T123831Z.gif"
+    }
+  ]
+}

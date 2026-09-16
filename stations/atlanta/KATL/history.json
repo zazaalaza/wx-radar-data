@@ -1,0 +1,953 @@
+{
+  "icao": "KATL",
+  "captures": [
+    {
+      "ts": 1789272000,
+      "datetime": "20260913T041059Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T041059Z.gif"
+    },
+    {
+      "ts": 1789273800,
+      "datetime": "20260913T044033Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T044033Z.gif"
+    },
+    {
+      "ts": 1789275600,
+      "datetime": "20260913T051101Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T051101Z.gif"
+    },
+    {
+      "ts": 1789277400,
+      "datetime": "20260913T054315Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T054315Z.gif"
+    },
+    {
+      "ts": 1789279200,
+      "datetime": "20260913T061118Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T061118Z.gif"
+    },
+    {
+      "ts": 1789281000,
+      "datetime": "20260913T064314Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T064314Z.gif"
+    },
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071228Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T071228Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074249Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T074249Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081844Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T081844Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084452Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T084452Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090848Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T090848Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093751Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T093751Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100732Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T100732Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103707Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T103707Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110822Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T110822Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T113953Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T113953Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121005Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T121005Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T123951Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T123951Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131030Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T131030Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134010Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T134010Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140900Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T140900Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T143948Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T143948Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151053Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T151053Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154229Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T154229Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161243Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T161243Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164049Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T164049Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171221Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T171221Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174048Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T174048Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181005Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T181005Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185742Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T185742Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191410Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T191410Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194310Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T194310Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201606Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T201606Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204050Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T204050Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211346Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T211346Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214114Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T214114Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221132Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T221132Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224312Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T224312Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231151Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T231151Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234150Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260913T234150Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001622Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T001622Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004335Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T004335Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010647Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T010647Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013705Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T013705Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020656Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T020656Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023712Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T023712Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030735Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T030735Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033750Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260913/gif/20260914T033750Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040813Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T040813Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043803Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T043803Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050838Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T050838Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054150Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T054150Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061103Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T061103Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064023Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T064023Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070906Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T070906Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073834Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T073834Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081013Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T081013Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083918Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T083918Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091302Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T091302Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094505Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T094505Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T100953Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T100953Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104304Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T104304Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111020Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T111020Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114027Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T114027Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121045Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T121045Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124215Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T124215Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131059Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T131059Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134102Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T134102Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141122Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T141122Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144142Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T144142Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151503Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T151503Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155413Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T155413Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161723Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T161723Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164201Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T164201Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171218Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T171218Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174207Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T174207Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T185955Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T185955Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191741Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T191741Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200431Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T200431Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T201948Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T201948Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210631Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T210631Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212241Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T212241Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214319Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T214319Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221426Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T221426Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225209Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T225209Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231242Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T231242Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234237Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260914T234237Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001312Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T001312Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004256Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T004256Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011713Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T011713Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014441Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T014441Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020637Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T020637Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023648Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T023648Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T030905Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T030905Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033829Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260914/gif/20260915T033829Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040731Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T040731Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043657Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T043657Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051808Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T051808Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T053931Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T053931Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060821Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T060821Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063839Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T063839Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071117Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T071117Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073815Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T073815Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081037Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T081037Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085413Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T085413Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T090945Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T090945Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T093939Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T093939Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T100938Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T100938Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T103929Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T103929Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111335Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T111335Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T113953Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T113953Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121124Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T121124Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124819Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T124819Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132322Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T132322Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134055Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T134055Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141405Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T141405Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151348Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T151348Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152840Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T152840Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154732Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T154732Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161125Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T161125Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164126Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T164126Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T173953Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T173953Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175557Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T175557Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185740Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T185740Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191345Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T191345Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194253Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T194253Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201403Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T201403Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212722Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T212722Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215134Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T215134Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230018Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T230018Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T231958Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T231958Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234241Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260915T234241Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001334Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T001334Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004542Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T004542Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011308Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T011308Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014235Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T014235Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021245Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T021245Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024303Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T024303Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031548Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T031548Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034525Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260915/gif/20260916T034525Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041358Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T041358Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044251Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T044251Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051310Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T051310Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054451Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T054451Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061325Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T061325Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064617Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T064617Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072116Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T072116Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074820Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T074820Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080824Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T080824Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085157Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T085157Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090902Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T090902Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093704Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T093704Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T100939Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T100939Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104016Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T104016Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110750Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T110750Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113723Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T113723Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121543Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T121543Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123823Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/atlanta/KATL/20260916/gif/20260916T123823Z.gif"
+    }
+  ]
+}

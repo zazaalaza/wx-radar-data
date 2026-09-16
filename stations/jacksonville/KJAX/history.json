@@ -1,0 +1,953 @@
+{
+  "icao": "KJAX",
+  "captures": [
+    {
+      "ts": 1789272000,
+      "datetime": "20260913T041104Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T041104Z.gif"
+    },
+    {
+      "ts": 1789273800,
+      "datetime": "20260913T044037Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T044037Z.gif"
+    },
+    {
+      "ts": 1789275600,
+      "datetime": "20260913T051106Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T051106Z.gif"
+    },
+    {
+      "ts": 1789277400,
+      "datetime": "20260913T054325Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T054325Z.gif"
+    },
+    {
+      "ts": 1789279200,
+      "datetime": "20260913T061123Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T061123Z.gif"
+    },
+    {
+      "ts": 1789281000,
+      "datetime": "20260913T064325Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T064325Z.gif"
+    },
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071233Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T071233Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074259Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T074259Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081852Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T081852Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084503Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T084503Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090853Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T090853Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093756Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T093756Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100736Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T100736Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103712Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T103712Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110828Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T110828Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T114003Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T114003Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121015Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T121015Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T123956Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T123956Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131040Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T131040Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134020Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T134020Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140904Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T140904Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T143953Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T143953Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151059Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T151059Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154239Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T154239Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161253Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T161253Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164054Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T164054Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171231Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T171231Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174054Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T174054Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181010Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T181010Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185753Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T185753Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191414Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T191414Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194321Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T194321Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201616Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T201616Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204055Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T204055Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211356Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T211356Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214119Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T214119Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221137Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T221137Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224322Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T224322Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231155Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T231155Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234155Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260913T234155Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001627Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T001627Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004345Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T004345Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010651Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T010651Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013709Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T013709Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020701Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T020701Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023717Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T023717Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030740Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T030740Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033755Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260913/gif/20260914T033755Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040819Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T040819Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043807Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T043807Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050842Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T050842Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054200Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T054200Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061114Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T061114Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064033Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T064033Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070911Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T070911Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073838Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T073838Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081017Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T081017Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083922Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T083922Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091313Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T091313Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094510Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T094510Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T100957Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T100957Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104310Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T104310Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111024Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T111024Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114031Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T114031Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121049Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T121049Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124226Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T124226Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131104Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T131104Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134107Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T134107Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141127Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T141127Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144146Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T144146Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151513Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T151513Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155424Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T155424Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161727Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T161727Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164207Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T164207Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171223Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T171223Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174212Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T174212Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T190005Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T190005Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191746Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T191746Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200435Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T200435Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T201952Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T201952Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210640Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T210640Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212245Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T212245Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214325Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T214325Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221436Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T221436Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225214Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T225214Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231246Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T231246Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234241Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260914T234241Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001317Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T001317Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004301Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T004301Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011723Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T011723Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014451Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T014451Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020642Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T020642Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023653Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T023653Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T030916Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T030916Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033840Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260914/gif/20260915T033840Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040736Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T040736Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043701Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T043701Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051818Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T051818Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T053938Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T053938Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060825Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T060825Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063844Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T063844Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071128Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T071128Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073819Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T073819Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081048Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T081048Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085423Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T085423Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T090950Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T090950Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T093943Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T093943Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T100942Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T100942Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T103933Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T103933Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111340Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T111340Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T113958Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T113958Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121130Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T121130Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124830Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T124830Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132332Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T132332Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134100Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T134100Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141416Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T141416Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151353Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T151353Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152850Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T152850Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154738Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T154738Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161130Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T161130Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164131Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T164131Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T173958Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T173958Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175603Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T175603Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185745Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T185745Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191352Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T191352Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194259Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T194259Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201414Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T201414Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212729Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T212729Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215140Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T215140Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230028Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T230028Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T232009Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T232009Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234247Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260915T234247Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001340Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T001340Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004553Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T004553Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011314Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T011314Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014240Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T014240Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021250Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T021250Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024308Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T024308Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031559Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T031559Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034536Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260915/gif/20260916T034536Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041403Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T041403Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044256Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T044256Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051315Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T051315Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054501Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T054501Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061330Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T061330Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064628Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T064628Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072127Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T072127Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074831Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T074831Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080834Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T080834Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085208Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T085208Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090908Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T090908Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093708Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T093708Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T100950Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T100950Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104027Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T104027Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110754Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T110754Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113728Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T113728Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121548Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T121548Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123827Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jacksonville/KJAX/20260916/gif/20260916T123827Z.gif"
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "icao": "KPHL",
+  "captures": [
+    {
+      "ts": 1789272000,
+      "datetime": "20260913T041109Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T041109Z.gif"
+    },
+    {
+      "ts": 1789273800,
+      "datetime": "20260913T044041Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T044041Z.gif"
+    },
+    {
+      "ts": 1789275600,
+      "datetime": "20260913T051111Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T051111Z.gif"
+    },
+    {
+      "ts": 1789277400,
+      "datetime": "20260913T054335Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T054335Z.gif"
+    },
+    {
+      "ts": 1789279200,
+      "datetime": "20260913T061127Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T061127Z.gif"
+    },
+    {
+      "ts": 1789281000,
+      "datetime": "20260913T064335Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T064335Z.gif"
+    },
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071240Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T071240Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074309Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T074309Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081859Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T081859Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084512Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T084512Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090857Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T090857Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093800Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T093800Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100741Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T100741Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103716Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T103716Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110833Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T110833Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T114013Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T114013Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121025Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T121025Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T124001Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T124001Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131049Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T131049Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134031Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T134031Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140909Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T140909Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T143957Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T143957Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151104Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T151104Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154248Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T154248Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161303Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T161303Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164100Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T164100Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171242Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T171242Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174059Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T174059Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181014Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T181014Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185803Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T185803Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191419Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T191419Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194331Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T194331Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201625Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T201625Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204059Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T204059Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211406Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T211406Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214123Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T214123Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221141Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T221141Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224332Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T224332Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231159Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T231159Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234200Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260913T234200Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001632Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T001632Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004354Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T004354Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010656Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T010656Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013714Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T013714Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020705Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T020705Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023721Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T023721Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030744Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T030744Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033759Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260913/gif/20260914T033759Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040824Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T040824Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043811Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T043811Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050847Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T050847Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054210Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T054210Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061123Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T061123Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064044Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T064044Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070916Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T070916Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073843Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T073843Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081021Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T081021Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083926Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T083926Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091323Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T091323Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094516Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T094516Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T101001Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T101001Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104316Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T104316Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111029Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T111029Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114035Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T114035Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121053Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T121053Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124236Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T124236Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131108Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T131108Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134111Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T134111Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141132Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T141132Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144150Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T144150Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151523Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T151523Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155435Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T155435Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161731Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T161731Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164212Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T164212Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171228Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T171228Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174217Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T174217Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T190014Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T190014Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191751Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T191751Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200439Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T200439Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T201956Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T201956Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210648Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T210648Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212250Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T212250Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214330Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T214330Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221445Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T221445Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225218Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T225218Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231251Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T231251Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234247Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260914T234247Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001322Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T001322Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004306Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T004306Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011732Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T011732Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014501Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T014501Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020647Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T020647Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023658Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T023658Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T030926Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T030926Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033850Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260914/gif/20260915T033850Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040740Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T040740Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043705Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T043705Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051828Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T051828Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T053943Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T053943Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060829Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T060829Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063849Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T063849Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071137Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T071137Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073824Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T073824Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081058Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T081058Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085433Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T085433Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T090954Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T090954Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T093948Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T093948Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T100947Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T100947Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T103938Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T103938Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111345Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T111345Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T114002Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T114002Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121136Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T121136Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124841Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T124841Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132342Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T132342Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134104Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T134104Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141425Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T141425Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151358Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T151358Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152900Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T152900Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154744Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T154744Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161134Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T161134Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164136Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T164136Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T174003Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T174003Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175608Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T175608Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185750Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T185750Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191357Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T191357Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194304Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T194304Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201424Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T201424Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212734Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T212734Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215145Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T215145Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230037Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T230037Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T232019Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T232019Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234253Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260915T234253Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001345Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T001345Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004602Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T004602Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011318Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T011318Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014245Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T014245Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021255Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T021255Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024313Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T024313Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031609Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T031609Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034545Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260915/gif/20260916T034545Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041409Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T041409Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044300Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T044300Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051320Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T051320Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054510Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T054510Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061335Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T061335Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064638Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T064638Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072137Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T072137Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074841Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T074841Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080844Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T080844Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085218Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T085218Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090915Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T090915Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093713Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T093713Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T101000Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T101000Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104038Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T104038Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110758Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T110758Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113733Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T113733Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121553Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T121553Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123832Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/philadelphia/KPHL/20260916/gif/20260916T123832Z.gif"
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "icao": "KSEA",
+  "captures": [
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071315Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T071315Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074405Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T074405Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081944Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T081944Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084608Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T084608Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090921Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T090921Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093827Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T093827Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100805Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T100805Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103741Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T103741Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110903Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T110903Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T114109Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T114109Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121120Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T121120Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T124029Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T124029Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131141Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T131141Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134125Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T134125Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140935Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T140935Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T144021Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T144021Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151134Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T151134Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154342Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T154342Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161358Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T161358Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164132Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T164132Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171339Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T171339Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174130Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T174130Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181039Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T181039Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185900Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T185900Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191445Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T191445Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194428Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T194428Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201720Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T201720Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204123Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T204123Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211502Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T211502Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214147Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T214147Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221205Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T221205Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224429Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T224429Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231224Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T231224Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234228Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260913T234228Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001659Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T001659Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004446Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T004446Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010721Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T010721Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013739Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T013739Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020732Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T020732Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023746Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T023746Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030808Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T030808Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033826Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T033826Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040855Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T040855Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043834Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T043834Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050910Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T050910Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054307Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T054307Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061219Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T061219Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064142Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260913/gif/20260914T064142Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070943Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T070943Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073908Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T073908Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081046Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T081046Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083951Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T083951Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091420Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T091420Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094549Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T094549Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T101025Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T101025Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104352Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T104352Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111054Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T111054Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114100Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T114100Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121118Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T121118Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124334Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T124334Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131132Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T131132Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134136Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T134136Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141202Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T141202Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144215Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T144215Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151619Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T151619Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155535Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T155535Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161756Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T161756Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164242Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T164242Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171258Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T171258Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174247Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T174247Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T190107Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T190107Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191818Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T191818Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200504Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T200504Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T202021Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T202021Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210740Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T210740Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212315Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T212315Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214402Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T214402Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221540Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T221540Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225244Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T225244Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231316Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T231316Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234314Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260914T234314Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001351Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T001351Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004336Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T004336Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011828Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T011828Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014558Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T014558Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020714Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T020714Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023728Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T023728Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T031025Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T031025Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033948Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T033948Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040804Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T040804Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043730Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T043730Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051927Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T051927Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T054016Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T054016Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060854Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T060854Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063916Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260914/gif/20260915T063916Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071233Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T071233Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073849Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T073849Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081156Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T081156Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085531Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T085531Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T091022Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T091022Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T094017Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T094017Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T101012Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T101012Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T104002Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T104002Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111414Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T111414Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T114029Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T114029Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121208Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T121208Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124937Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T124937Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132437Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T132437Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134130Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T134130Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141520Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T141520Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151428Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T151428Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152956Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T152956Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154815Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T154815Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161159Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T161159Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164207Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T164207Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T174032Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T174032Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175637Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T175637Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185816Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T185816Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191432Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T191432Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194337Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T194337Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201521Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T201521Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212806Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T212806Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215214Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T215214Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230131Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T230131Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T232117Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T232117Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234322Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260915T234322Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001419Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T001419Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004655Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T004655Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011346Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T011346Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014313Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T014313Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021322Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T021322Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024339Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T024339Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031705Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T031705Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034637Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T034637Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041437Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T041437Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044326Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T044326Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051348Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T051348Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054606Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T054606Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061404Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T061404Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064740Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260915/gif/20260916T064740Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072237Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T072237Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074939Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T074939Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080940Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T080940Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085317Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T085317Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090950Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T090950Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093738Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T093738Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T101100Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T101100Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104137Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T104137Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110823Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T110823Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113804Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T113804Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121621Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T121621Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123857Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seattle/KSEA/20260916/gif/20260916T123857Z.gif"
+    }
+  ]
+}

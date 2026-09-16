@@ -1,0 +1,953 @@
+{
+  "icao": "KDTW",
+  "captures": [
+    {
+      "ts": 1789272000,
+      "datetime": "20260913T041112Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T041112Z.gif"
+    },
+    {
+      "ts": 1789273800,
+      "datetime": "20260913T044044Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T044044Z.gif"
+    },
+    {
+      "ts": 1789275600,
+      "datetime": "20260913T051115Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T051115Z.gif"
+    },
+    {
+      "ts": 1789277400,
+      "datetime": "20260913T054342Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T054342Z.gif"
+    },
+    {
+      "ts": 1789279200,
+      "datetime": "20260913T061131Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T061131Z.gif"
+    },
+    {
+      "ts": 1789281000,
+      "datetime": "20260913T064341Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T064341Z.gif"
+    },
+    {
+      "ts": 1789282800,
+      "datetime": "20260913T071244Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T071244Z.gif"
+    },
+    {
+      "ts": 1789284600,
+      "datetime": "20260913T074315Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T074315Z.gif"
+    },
+    {
+      "ts": 1789287300,
+      "datetime": "20260913T081904Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T081904Z.gif"
+    },
+    {
+      "ts": 1789288200,
+      "datetime": "20260913T084519Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T084519Z.gif"
+    },
+    {
+      "ts": 1789290000,
+      "datetime": "20260913T090900Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T090900Z.gif"
+    },
+    {
+      "ts": 1789291800,
+      "datetime": "20260913T093803Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T093803Z.gif"
+    },
+    {
+      "ts": 1789293600,
+      "datetime": "20260913T100743Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T100743Z.gif"
+    },
+    {
+      "ts": 1789295400,
+      "datetime": "20260913T103718Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T103718Z.gif"
+    },
+    {
+      "ts": 1789297200,
+      "datetime": "20260913T110836Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T110836Z.gif"
+    },
+    {
+      "ts": 1789299000,
+      "datetime": "20260913T114020Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T114020Z.gif"
+    },
+    {
+      "ts": 1789300800,
+      "datetime": "20260913T121032Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T121032Z.gif"
+    },
+    {
+      "ts": 1789302600,
+      "datetime": "20260913T124005Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T124005Z.gif"
+    },
+    {
+      "ts": 1789304400,
+      "datetime": "20260913T131055Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T131055Z.gif"
+    },
+    {
+      "ts": 1789306200,
+      "datetime": "20260913T134037Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T134037Z.gif"
+    },
+    {
+      "ts": 1789308000,
+      "datetime": "20260913T140912Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T140912Z.gif"
+    },
+    {
+      "ts": 1789309800,
+      "datetime": "20260913T143959Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T143959Z.gif"
+    },
+    {
+      "ts": 1789311600,
+      "datetime": "20260913T151108Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T151108Z.gif"
+    },
+    {
+      "ts": 1789313400,
+      "datetime": "20260913T154255Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T154255Z.gif"
+    },
+    {
+      "ts": 1789315200,
+      "datetime": "20260913T161309Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T161309Z.gif"
+    },
+    {
+      "ts": 1789317000,
+      "datetime": "20260913T164103Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T164103Z.gif"
+    },
+    {
+      "ts": 1789318800,
+      "datetime": "20260913T171249Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T171249Z.gif"
+    },
+    {
+      "ts": 1789320600,
+      "datetime": "20260913T174103Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T174103Z.gif"
+    },
+    {
+      "ts": 1789322400,
+      "datetime": "20260913T181017Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T181017Z.gif"
+    },
+    {
+      "ts": 1789325100,
+      "datetime": "20260913T185810Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T185810Z.gif"
+    },
+    {
+      "ts": 1789326000,
+      "datetime": "20260913T191422Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T191422Z.gif"
+    },
+    {
+      "ts": 1789327800,
+      "datetime": "20260913T194338Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T194338Z.gif"
+    },
+    {
+      "ts": 1789329600,
+      "datetime": "20260913T201631Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T201631Z.gif"
+    },
+    {
+      "ts": 1789331400,
+      "datetime": "20260913T204102Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T204102Z.gif"
+    },
+    {
+      "ts": 1789333200,
+      "datetime": "20260913T211412Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T211412Z.gif"
+    },
+    {
+      "ts": 1789335000,
+      "datetime": "20260913T214126Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T214126Z.gif"
+    },
+    {
+      "ts": 1789336800,
+      "datetime": "20260913T221144Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T221144Z.gif"
+    },
+    {
+      "ts": 1789338600,
+      "datetime": "20260913T224339Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T224339Z.gif"
+    },
+    {
+      "ts": 1789340400,
+      "datetime": "20260913T231202Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T231202Z.gif"
+    },
+    {
+      "ts": 1789342200,
+      "datetime": "20260913T234203Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260913T234203Z.gif"
+    },
+    {
+      "ts": 1789344000,
+      "datetime": "20260914T001635Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T001635Z.gif"
+    },
+    {
+      "ts": 1789345800,
+      "datetime": "20260914T004400Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T004400Z.gif"
+    },
+    {
+      "ts": 1789347600,
+      "datetime": "20260914T010659Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T010659Z.gif"
+    },
+    {
+      "ts": 1789349400,
+      "datetime": "20260914T013717Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T013717Z.gif"
+    },
+    {
+      "ts": 1789351200,
+      "datetime": "20260914T020708Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T020708Z.gif"
+    },
+    {
+      "ts": 1789353000,
+      "datetime": "20260914T023724Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T023724Z.gif"
+    },
+    {
+      "ts": 1789354800,
+      "datetime": "20260914T030747Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T030747Z.gif"
+    },
+    {
+      "ts": 1789356600,
+      "datetime": "20260914T033802Z",
+      "date": "20260913",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260913/gif/20260914T033802Z.gif"
+    },
+    {
+      "ts": 1789358400,
+      "datetime": "20260914T040828Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T040828Z.gif"
+    },
+    {
+      "ts": 1789360200,
+      "datetime": "20260914T043813Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T043813Z.gif"
+    },
+    {
+      "ts": 1789362000,
+      "datetime": "20260914T050849Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T050849Z.gif"
+    },
+    {
+      "ts": 1789363800,
+      "datetime": "20260914T054216Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T054216Z.gif"
+    },
+    {
+      "ts": 1789365600,
+      "datetime": "20260914T061130Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T061130Z.gif"
+    },
+    {
+      "ts": 1789367400,
+      "datetime": "20260914T064051Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T064051Z.gif"
+    },
+    {
+      "ts": 1789369200,
+      "datetime": "20260914T070919Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T070919Z.gif"
+    },
+    {
+      "ts": 1789371000,
+      "datetime": "20260914T073846Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T073846Z.gif"
+    },
+    {
+      "ts": 1789372800,
+      "datetime": "20260914T081024Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T081024Z.gif"
+    },
+    {
+      "ts": 1789374600,
+      "datetime": "20260914T083929Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T083929Z.gif"
+    },
+    {
+      "ts": 1789376400,
+      "datetime": "20260914T091330Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T091330Z.gif"
+    },
+    {
+      "ts": 1789378200,
+      "datetime": "20260914T094520Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T094520Z.gif"
+    },
+    {
+      "ts": 1789380000,
+      "datetime": "20260914T101004Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T101004Z.gif"
+    },
+    {
+      "ts": 1789381800,
+      "datetime": "20260914T104320Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T104320Z.gif"
+    },
+    {
+      "ts": 1789383600,
+      "datetime": "20260914T111032Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T111032Z.gif"
+    },
+    {
+      "ts": 1789385400,
+      "datetime": "20260914T114038Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T114038Z.gif"
+    },
+    {
+      "ts": 1789387200,
+      "datetime": "20260914T121056Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T121056Z.gif"
+    },
+    {
+      "ts": 1789389000,
+      "datetime": "20260914T124243Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T124243Z.gif"
+    },
+    {
+      "ts": 1789390800,
+      "datetime": "20260914T131110Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T131110Z.gif"
+    },
+    {
+      "ts": 1789392600,
+      "datetime": "20260914T134114Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T134114Z.gif"
+    },
+    {
+      "ts": 1789394400,
+      "datetime": "20260914T141136Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T141136Z.gif"
+    },
+    {
+      "ts": 1789396200,
+      "datetime": "20260914T144153Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T144153Z.gif"
+    },
+    {
+      "ts": 1789398000,
+      "datetime": "20260914T151530Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T151530Z.gif"
+    },
+    {
+      "ts": 1789400700,
+      "datetime": "20260914T155441Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T155441Z.gif"
+    },
+    {
+      "ts": 1789402500,
+      "datetime": "20260914T161734Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T161734Z.gif"
+    },
+    {
+      "ts": 1789403400,
+      "datetime": "20260914T164215Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T164215Z.gif"
+    },
+    {
+      "ts": 1789405200,
+      "datetime": "20260914T171231Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T171231Z.gif"
+    },
+    {
+      "ts": 1789407000,
+      "datetime": "20260914T174221Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T174221Z.gif"
+    },
+    {
+      "ts": 1789411500,
+      "datetime": "20260914T190021Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T190021Z.gif"
+    },
+    {
+      "ts": 1789413300,
+      "datetime": "20260914T191754Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T191754Z.gif"
+    },
+    {
+      "ts": 1789416000,
+      "datetime": "20260914T200442Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T200442Z.gif"
+    },
+    {
+      "ts": 1789416900,
+      "datetime": "20260914T201959Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T201959Z.gif"
+    },
+    {
+      "ts": 1789419600,
+      "datetime": "20260914T210654Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T210654Z.gif"
+    },
+    {
+      "ts": 1789420500,
+      "datetime": "20260914T212252Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T212252Z.gif"
+    },
+    {
+      "ts": 1789421400,
+      "datetime": "20260914T214334Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T214334Z.gif"
+    },
+    {
+      "ts": 1789423200,
+      "datetime": "20260914T221452Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T221452Z.gif"
+    },
+    {
+      "ts": 1789425900,
+      "datetime": "20260914T225221Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T225221Z.gif"
+    },
+    {
+      "ts": 1789426800,
+      "datetime": "20260914T231253Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T231253Z.gif"
+    },
+    {
+      "ts": 1789428600,
+      "datetime": "20260914T234250Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260914T234250Z.gif"
+    },
+    {
+      "ts": 1789430400,
+      "datetime": "20260915T001325Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T001325Z.gif"
+    },
+    {
+      "ts": 1789432200,
+      "datetime": "20260915T004309Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T004309Z.gif"
+    },
+    {
+      "ts": 1789434000,
+      "datetime": "20260915T011739Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T011739Z.gif"
+    },
+    {
+      "ts": 1789435800,
+      "datetime": "20260915T014508Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T014508Z.gif"
+    },
+    {
+      "ts": 1789437600,
+      "datetime": "20260915T020650Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T020650Z.gif"
+    },
+    {
+      "ts": 1789439400,
+      "datetime": "20260915T023701Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T023701Z.gif"
+    },
+    {
+      "ts": 1789441200,
+      "datetime": "20260915T030933Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T030933Z.gif"
+    },
+    {
+      "ts": 1789443000,
+      "datetime": "20260915T033857Z",
+      "date": "20260914",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260914/gif/20260915T033857Z.gif"
+    },
+    {
+      "ts": 1789444800,
+      "datetime": "20260915T040743Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T040743Z.gif"
+    },
+    {
+      "ts": 1789446600,
+      "datetime": "20260915T043708Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T043708Z.gif"
+    },
+    {
+      "ts": 1789448400,
+      "datetime": "20260915T051835Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T051835Z.gif"
+    },
+    {
+      "ts": 1789450200,
+      "datetime": "20260915T053947Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T053947Z.gif"
+    },
+    {
+      "ts": 1789452000,
+      "datetime": "20260915T060832Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T060832Z.gif"
+    },
+    {
+      "ts": 1789453800,
+      "datetime": "20260915T063852Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T063852Z.gif"
+    },
+    {
+      "ts": 1789455600,
+      "datetime": "20260915T071144Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T071144Z.gif"
+    },
+    {
+      "ts": 1789457400,
+      "datetime": "20260915T073826Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T073826Z.gif"
+    },
+    {
+      "ts": 1789459200,
+      "datetime": "20260915T081105Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T081105Z.gif"
+    },
+    {
+      "ts": 1789461900,
+      "datetime": "20260915T085440Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T085440Z.gif"
+    },
+    {
+      "ts": 1789462800,
+      "datetime": "20260915T090957Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T090957Z.gif"
+    },
+    {
+      "ts": 1789464600,
+      "datetime": "20260915T093952Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T093952Z.gif"
+    },
+    {
+      "ts": 1789466400,
+      "datetime": "20260915T100949Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T100949Z.gif"
+    },
+    {
+      "ts": 1789468200,
+      "datetime": "20260915T103940Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T103940Z.gif"
+    },
+    {
+      "ts": 1789470000,
+      "datetime": "20260915T111348Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T111348Z.gif"
+    },
+    {
+      "ts": 1789471800,
+      "datetime": "20260915T114005Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T114005Z.gif"
+    },
+    {
+      "ts": 1789473600,
+      "datetime": "20260915T121140Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T121140Z.gif"
+    },
+    {
+      "ts": 1789475400,
+      "datetime": "20260915T124848Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T124848Z.gif"
+    },
+    {
+      "ts": 1789478100,
+      "datetime": "20260915T132349Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T132349Z.gif"
+    },
+    {
+      "ts": 1789479000,
+      "datetime": "20260915T134107Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T134107Z.gif"
+    },
+    {
+      "ts": 1789480800,
+      "datetime": "20260915T141432Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T141432Z.gif"
+    },
+    {
+      "ts": 1789484400,
+      "datetime": "20260915T151402Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T151402Z.gif"
+    },
+    {
+      "ts": 1789485300,
+      "datetime": "20260915T152907Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T152907Z.gif"
+    },
+    {
+      "ts": 1789487100,
+      "datetime": "20260915T154747Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T154747Z.gif"
+    },
+    {
+      "ts": 1789488000,
+      "datetime": "20260915T161137Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T161137Z.gif"
+    },
+    {
+      "ts": 1789489800,
+      "datetime": "20260915T164140Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T164140Z.gif"
+    },
+    {
+      "ts": 1789493400,
+      "datetime": "20260915T174006Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T174006Z.gif"
+    },
+    {
+      "ts": 1789494300,
+      "datetime": "20260915T175611Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T175611Z.gif"
+    },
+    {
+      "ts": 1789497900,
+      "datetime": "20260915T185753Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T185753Z.gif"
+    },
+    {
+      "ts": 1789498800,
+      "datetime": "20260915T191401Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T191401Z.gif"
+    },
+    {
+      "ts": 1789500600,
+      "datetime": "20260915T194308Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T194308Z.gif"
+    },
+    {
+      "ts": 1789502400,
+      "datetime": "20260915T201430Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T201430Z.gif"
+    },
+    {
+      "ts": 1789506900,
+      "datetime": "20260915T212738Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T212738Z.gif"
+    },
+    {
+      "ts": 1789508700,
+      "datetime": "20260915T215148Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T215148Z.gif"
+    },
+    {
+      "ts": 1789512300,
+      "datetime": "20260915T230044Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T230044Z.gif"
+    },
+    {
+      "ts": 1789514100,
+      "datetime": "20260915T232026Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T232026Z.gif"
+    },
+    {
+      "ts": 1789515000,
+      "datetime": "20260915T234256Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260915T234256Z.gif"
+    },
+    {
+      "ts": 1789516800,
+      "datetime": "20260916T001349Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T001349Z.gif"
+    },
+    {
+      "ts": 1789518600,
+      "datetime": "20260916T004608Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T004608Z.gif"
+    },
+    {
+      "ts": 1789520400,
+      "datetime": "20260916T011321Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T011321Z.gif"
+    },
+    {
+      "ts": 1789522200,
+      "datetime": "20260916T014248Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T014248Z.gif"
+    },
+    {
+      "ts": 1789524000,
+      "datetime": "20260916T021258Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T021258Z.gif"
+    },
+    {
+      "ts": 1789525800,
+      "datetime": "20260916T024316Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T024316Z.gif"
+    },
+    {
+      "ts": 1789527600,
+      "datetime": "20260916T031615Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T031615Z.gif"
+    },
+    {
+      "ts": 1789529400,
+      "datetime": "20260916T034551Z",
+      "date": "20260915",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260915/gif/20260916T034551Z.gif"
+    },
+    {
+      "ts": 1789531200,
+      "datetime": "20260916T041412Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T041412Z.gif"
+    },
+    {
+      "ts": 1789533000,
+      "datetime": "20260916T044303Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T044303Z.gif"
+    },
+    {
+      "ts": 1789534800,
+      "datetime": "20260916T051323Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T051323Z.gif"
+    },
+    {
+      "ts": 1789536600,
+      "datetime": "20260916T054517Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T054517Z.gif"
+    },
+    {
+      "ts": 1789538400,
+      "datetime": "20260916T061338Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T061338Z.gif"
+    },
+    {
+      "ts": 1789540200,
+      "datetime": "20260916T064645Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T064645Z.gif"
+    },
+    {
+      "ts": 1789542900,
+      "datetime": "20260916T072144Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T072144Z.gif"
+    },
+    {
+      "ts": 1789543800,
+      "datetime": "20260916T074848Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T074848Z.gif"
+    },
+    {
+      "ts": 1789545600,
+      "datetime": "20260916T080850Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T080850Z.gif"
+    },
+    {
+      "ts": 1789548300,
+      "datetime": "20260916T085225Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T085225Z.gif"
+    },
+    {
+      "ts": 1789549200,
+      "datetime": "20260916T090919Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T090919Z.gif"
+    },
+    {
+      "ts": 1789551000,
+      "datetime": "20260916T093715Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T093715Z.gif"
+    },
+    {
+      "ts": 1789552800,
+      "datetime": "20260916T101007Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T101007Z.gif"
+    },
+    {
+      "ts": 1789554600,
+      "datetime": "20260916T104046Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T104046Z.gif"
+    },
+    {
+      "ts": 1789556400,
+      "datetime": "20260916T110801Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T110801Z.gif"
+    },
+    {
+      "ts": 1789558200,
+      "datetime": "20260916T113737Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T113737Z.gif"
+    },
+    {
+      "ts": 1789560000,
+      "datetime": "20260916T121556Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T121556Z.gif"
+    },
+    {
+      "ts": 1789561800,
+      "datetime": "20260916T123835Z",
+      "date": "20260916",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/detroit/KDTW/20260916/gif/20260916T123835Z.gif"
+    }
+  ]
+}
