@@ -1,0 +1,167 @@
+{
+  "fetchedAt": "20260926T080952Z",
+  "date": "20260926",
+  "datetime": "20260926T080952Z",
+  "source": "api.weather.com/v2/maps/dynamic",
+  "location": {
+    "icaoCode": "MMMX",
+    "name": "MEXICO C.",
+    "geocode": "19.0,-99.0",
+    "latitude": 19.4363,
+    "longitude": -99.0721
+  },
+  "product": {
+    "name": "satradFcst",
+    "map": "dark",
+    "ts": 1790409600,
+    "frameCount": 28,
+    "startFrameUnixTimestamp": 1790410500,
+    "endFrameUnixTimestamp": 1790434800,
+    "frames": [
+      {
+        "index": 0,
+        "fts": 1790410500,
+        "file": "satradFcst/frame.00.jpg"
+      },
+      {
+        "index": 1,
+        "fts": 1790411400,
+        "file": "satradFcst/frame.01.jpg"
+      },
+      {
+        "index": 2,
+        "fts": 1790412300,
+        "file": "satradFcst/frame.02.jpg"
+      },
+      {
+        "index": 3,
+        "fts": 1790413200,
+        "file": "satradFcst/frame.03.jpg"
+      },
+      {
+        "index": 4,
+        "fts": 1790414100,
+        "file": "satradFcst/frame.04.jpg"
+      },
+      {
+        "index": 5,
+        "fts": 1790415000,
+        "file": "satradFcst/frame.05.jpg"
+      },
+      {
+        "index": 6,
+        "fts": 1790415900,
+        "file": "satradFcst/frame.06.jpg"
+      },
+      {
+        "index": 7,
+        "fts": 1790416800,
+        "file": "satradFcst/frame.07.jpg"
+      },
+      {
+        "index": 8,
+        "fts": 1790417700,
+        "file": "satradFcst/frame.08.jpg"
+      },
+      {
+        "index": 9,
+        "fts": 1790418600,
+        "file": "satradFcst/frame.09.jpg"
+      },
+      {
+        "index": 10,
+        "fts": 1790419500,
+        "file": "satradFcst/frame.10.jpg"
+      },
+      {
+        "index": 11,
+        "fts": 1790420400,
+        "file": "satradFcst/frame.11.jpg"
+      },
+      {
+        "index": 12,
+        "fts": 1790421300,
+        "file": "satradFcst/frame.12.jpg"
+      },
+      {
+        "index": 13,
+        "fts": 1790422200,
+        "file": "satradFcst/frame.13.jpg"
+      },
+      {
+        "index": 14,
+        "fts": 1790423100,
+        "file": "satradFcst/frame.14.jpg"
+      },
+      {
+        "index": 15,
+        "fts": 1790424000,
+        "file": "satradFcst/frame.15.jpg"
+      },
+      {
+        "index": 16,
+        "fts": 1790424900,
+        "file": "satradFcst/frame.16.jpg"
+      },
+      {
+        "index": 17,
+        "fts": 1790425800,
+        "file": "satradFcst/frame.17.jpg"
+      },
+      {
+        "index": 18,
+        "fts": 1790426700,
+        "file": "satradFcst/frame.18.jpg"
+      },
+      {
+        "index": 19,
+        "fts": 1790427600,
+        "file": "satradFcst/frame.19.jpg"
+      },
+      {
+        "index": 20,
+        "fts": 1790428500,
+        "file": "satradFcst/frame.20.jpg"
+      },
+      {
+        "index": 21,
+        "fts": 1790429400,
+        "file": "satradFcst/frame.21.jpg"
+      },
+      {
+        "index": 22,
+        "fts": 1790430300,
+        "file": "satradFcst/frame.22.jpg"
+      },
+      {
+        "index": 23,
+        "fts": 1790431200,
+        "file": "satradFcst/frame.23.jpg"
+      },
+      {
+        "index": 24,
+        "fts": 1790432100,
+        "file": "satradFcst/frame.24.jpg"
+      },
+      {
+        "index": 25,
+        "fts": 1790433000,
+        "file": "satradFcst/frame.25.jpg"
+      },
+      {
+        "index": 26,
+        "fts": 1790433900,
+        "file": "satradFcst/frame.26.jpg"
+      },
+      {
+        "index": 27,
+        "fts": 1790434800,
+        "file": "satradFcst/frame.27.jpg"
+      }
+    ]
+  },
+  "gif": {
+    "playbackDurationMs": 2000,
+    "path": "../gif/20260926T080952Z.gif"
+  }
+}

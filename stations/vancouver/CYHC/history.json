@@ -1,0 +1,935 @@
+{
+  "icao": "CYHC",
+  "captures": [
+    {
+      "ts": 1790146800,
+      "datetime": "20260923T070704Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T070704Z.gif"
+    },
+    {
+      "ts": 1790148600,
+      "datetime": "20260923T073741Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T073741Z.gif"
+    },
+    {
+      "ts": 1790150400,
+      "datetime": "20260923T080735Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T080735Z.gif"
+    },
+    {
+      "ts": 1790152200,
+      "datetime": "20260923T084525Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T084525Z.gif"
+    },
+    {
+      "ts": 1790154000,
+      "datetime": "20260923T091013Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T091013Z.gif"
+    },
+    {
+      "ts": 1790155800,
+      "datetime": "20260923T094019Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T094019Z.gif"
+    },
+    {
+      "ts": 1790157600,
+      "datetime": "20260923T101320Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T101320Z.gif"
+    },
+    {
+      "ts": 1790159400,
+      "datetime": "20260923T103843Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T103843Z.gif"
+    },
+    {
+      "ts": 1790161200,
+      "datetime": "20260923T111040Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T111040Z.gif"
+    },
+    {
+      "ts": 1790163000,
+      "datetime": "20260923T114103Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T114103Z.gif"
+    },
+    {
+      "ts": 1790164800,
+      "datetime": "20260923T121356Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T121356Z.gif"
+    },
+    {
+      "ts": 1790166600,
+      "datetime": "20260923T123919Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T123919Z.gif"
+    },
+    {
+      "ts": 1790170200,
+      "datetime": "20260923T133853Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T133853Z.gif"
+    },
+    {
+      "ts": 1790171100,
+      "datetime": "20260923T135848Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T135848Z.gif"
+    },
+    {
+      "ts": 1790172000,
+      "datetime": "20260923T141245Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T141245Z.gif"
+    },
+    {
+      "ts": 1790173800,
+      "datetime": "20260923T144104Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T144104Z.gif"
+    },
+    {
+      "ts": 1790175600,
+      "datetime": "20260923T151447Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T151447Z.gif"
+    },
+    {
+      "ts": 1790177400,
+      "datetime": "20260923T154143Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T154143Z.gif"
+    },
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161132Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T161132Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T164125Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T164125Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171428Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T171428Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174233Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T174233Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181416Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T181416Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192701Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T192701Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194133Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T194133Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201406Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T201406Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212732Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T212732Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214314Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T214314Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222651Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T222651Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T225229Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T225229Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231345Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T231345Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234409Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260923T234409Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001507Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T001507Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T004014Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T004014Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010808Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T010808Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014334Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T014334Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020916Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T020916Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023836Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T023836Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030906Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T030906Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033821Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T033821Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040908Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T040908Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043817Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T043817Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050854Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T050854Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T054054Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T054054Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060915Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T060915Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T064009Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260923/gif/20260924T064009Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070849Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T070849Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074528Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T074528Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081322Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T081322Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T084248Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T084248Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091310Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T091310Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T094045Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T094045Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T102125Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T102125Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T104035Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T104035Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111211Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T111211Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114644Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T114644Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121541Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T121541Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124208Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T124208Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131433Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T131433Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134346Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T134346Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141403Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T141403Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144235Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T144235Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151539Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T151539Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154311Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T154311Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170245Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T170245Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T180138Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T180138Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181356Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T181356Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183842Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T183842Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195654Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T195654Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200834Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T200834Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203824Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T203824Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210823Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T210823Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213812Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T213812Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220827Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T220827Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225459Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T225459Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231420Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T231420Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234129Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260924T234129Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001402Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T001402Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T004129Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T004129Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T011118Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T011118Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014443Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T014443Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T021221Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T021221Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024317Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T024317Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T031100Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T031100Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034134Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T034134Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041200Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T041200Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T044114Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T044114Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051129Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T051129Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T054023Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T054023Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061335Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T061335Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064453Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260924/gif/20260925T064453Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071210Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T071210Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074414Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T074414Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081506Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T081506Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084137Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T084137Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091345Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T091345Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094159Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T094159Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101507Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T101507Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104231Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T104231Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T112114Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T112114Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115450Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T115450Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T121032Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T121032Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123738Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T123738Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130738Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T130738Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135142Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T135142Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145622Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T145622Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153843Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T153843Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154944Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T154944Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172419Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T172419Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173933Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T173933Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175121Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T175121Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T181012Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T181012Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183927Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T183927Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193632Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T193632Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195415Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T195415Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T201041Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T201041Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T204016Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T204016Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T211105Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T211105Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214641Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T214641Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221353Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T221353Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T224042Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T224042Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T231108Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T231108Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T234044Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260925T234044Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001316Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T001316Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004405Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T004405Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011405Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T011405Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014540Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T014540Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021259Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T021259Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024147Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T024147Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031305Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T031305Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034237Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T034237Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041243Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T041243Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044208Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T044208Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051347Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T051347Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053929Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T053929Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060924Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T060924Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063719Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260925/gif/20260926T063719Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070720Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T070720Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073742Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T073742Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T081044Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T081044Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083750Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T083750Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090906Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T090906Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093816Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T093816Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100924Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T100924Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T104126Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T104126Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111115Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T111115Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113959Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T113959Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120936Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T120936Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123930Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T123930Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131240Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T131240Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T134003Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T134003Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T141020Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T141020Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152544Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T152544Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T154028Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T154028Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T161104Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/vancouver/CYHC/20260926/gif/20260926T161104Z.gif"
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "icao": "KBOS",
+  "captures": [
+    {
+      "ts": 1790136000,
+      "datetime": "20260923T041220Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T041220Z.gif"
+    },
+    {
+      "ts": 1790137800,
+      "datetime": "20260923T044206Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T044206Z.gif"
+    },
+    {
+      "ts": 1790139600,
+      "datetime": "20260923T051649Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T051649Z.gif"
+    },
+    {
+      "ts": 1790141400,
+      "datetime": "20260923T054440Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T054440Z.gif"
+    },
+    {
+      "ts": 1790143200,
+      "datetime": "20260923T061151Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T061151Z.gif"
+    },
+    {
+      "ts": 1790145000,
+      "datetime": "20260923T063606Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T063606Z.gif"
+    },
+    {
+      "ts": 1790146800,
+      "datetime": "20260923T070631Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T070631Z.gif"
+    },
+    {
+      "ts": 1790148600,
+      "datetime": "20260923T073706Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T073706Z.gif"
+    },
+    {
+      "ts": 1790150400,
+      "datetime": "20260923T080702Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T080702Z.gif"
+    },
+    {
+      "ts": 1790152200,
+      "datetime": "20260923T084425Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T084425Z.gif"
+    },
+    {
+      "ts": 1790154000,
+      "datetime": "20260923T090941Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T090941Z.gif"
+    },
+    {
+      "ts": 1790155800,
+      "datetime": "20260923T093908Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T093908Z.gif"
+    },
+    {
+      "ts": 1790157600,
+      "datetime": "20260923T101207Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T101207Z.gif"
+    },
+    {
+      "ts": 1790159400,
+      "datetime": "20260923T103810Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T103810Z.gif"
+    },
+    {
+      "ts": 1790161200,
+      "datetime": "20260923T111001Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T111001Z.gif"
+    },
+    {
+      "ts": 1790163000,
+      "datetime": "20260923T114026Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T114026Z.gif"
+    },
+    {
+      "ts": 1790164800,
+      "datetime": "20260923T121243Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T121243Z.gif"
+    },
+    {
+      "ts": 1790166600,
+      "datetime": "20260923T123846Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T123846Z.gif"
+    },
+    {
+      "ts": 1790170200,
+      "datetime": "20260923T133812Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T133812Z.gif"
+    },
+    {
+      "ts": 1790171100,
+      "datetime": "20260923T135735Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T135735Z.gif"
+    },
+    {
+      "ts": 1790172000,
+      "datetime": "20260923T141203Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T141203Z.gif"
+    },
+    {
+      "ts": 1790173800,
+      "datetime": "20260923T144027Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T144027Z.gif"
+    },
+    {
+      "ts": 1790175600,
+      "datetime": "20260923T151336Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T151336Z.gif"
+    },
+    {
+      "ts": 1790177400,
+      "datetime": "20260923T154101Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T154101Z.gif"
+    },
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161058Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T161058Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T164047Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T164047Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171318Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T171318Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174148Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T174148Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181302Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T181302Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192627Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T192627Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194059Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T194059Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201251Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T201251Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212658Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T212658Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214235Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T214235Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222617Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T222617Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T225117Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T225117Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231311Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T231311Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234329Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260923T234329Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001425Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T001425Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003903Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T003903Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010723Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T010723Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014218Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T014218Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020833Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T020833Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023801Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T023801Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030827Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T030827Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033746Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260923/gif/20260924T033746Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040833Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T040833Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043742Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T043742Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050820Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T050820Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053942Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T053942Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060838Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T060838Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063927Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T063927Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070812Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T070812Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074451Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T074451Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081207Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T081207Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T084133Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T084133Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091235Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T091235Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T094003Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T094003Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T102010Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T102010Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T104001Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T104001Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111131Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T111131Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114536Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T114536Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121428Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T121428Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124130Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T124130Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131319Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T131319Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134233Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T134233Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141319Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T141319Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144157Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T144157Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151426Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T151426Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154227Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T154227Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170205Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T170205Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T180024Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T180024Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181323Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T181323Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183800Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T183800Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195613Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T195613Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200755Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T200755Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203747Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T203747Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210748Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T210748Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213738Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T213738Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220753Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T220753Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225421Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T225421Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231306Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T231306Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234056Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260924T234056Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001251Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T001251Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T004046Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T004046Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T011042Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T011042Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014330Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T014330Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T021108Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T021108Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024208Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T024208Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T031022Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T031022Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034056Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260924/gif/20260925T034056Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041123Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T041123Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T044037Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T044037Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051057Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T051057Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053950Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T053950Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061216Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T061216Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064338Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T064338Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071136Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T071136Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074259Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T074259Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081351Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T081351Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084104Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T084104Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091307Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T091307Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094125Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T094125Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101428Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T101428Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104157Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T104157Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T111959Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T111959Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115332Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T115332Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120917Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T120917Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123704Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T123704Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130706Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T130706Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135109Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T135109Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145541Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T145541Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153805Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T153805Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154909Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T154909Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172341Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T172341Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173820Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T173820Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175048Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T175048Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180934Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T180934Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183852Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T183852Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193554Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T193554Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195341Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T195341Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T200957Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T200957Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203942Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T203942Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T211030Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T211030Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214531Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T214531Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221239Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T221239Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T224009Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T224009Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T231031Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T231031Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T234008Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260925T234008Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001200Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T001200Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004251Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T004251Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011250Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T011250Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014425Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T014425Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021216Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T021216Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024114Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T024114Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031228Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T031228Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034155Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260925/gif/20260926T034155Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041209Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T041209Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044133Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T044133Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051304Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T051304Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053814Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T053814Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060805Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T060805Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063639Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T063639Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070648Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T070648Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073706Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T073706Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080925Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T080925Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083715Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T083715Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090827Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T090827Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093741Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T093741Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100851Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T100851Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T104010Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T104010Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111043Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T111043Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113924Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T113924Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120902Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T120902Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123859Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T123859Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131159Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T131159Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133928Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T133928Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140947Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T140947Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152511Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T152511Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T153956Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T153956Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T161029Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/boston/KBOS/20260926/gif/20260926T161029Z.gif"
+    }
+  ]
+}

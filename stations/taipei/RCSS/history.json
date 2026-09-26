@@ -1,0 +1,827 @@
+{
+  "icao": "RCSS",
+  "captures": [
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161014Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T161014Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T163958Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T163958Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171147Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T171147Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174056Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T174056Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181127Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T181127Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192542Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T192542Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194015Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T194015Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201113Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T201113Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212612Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T212612Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214148Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T214148Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222533Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T222533Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T224940Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T224940Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231220Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T231220Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234230Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260923T234230Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001331Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T001331Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003729Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T003729Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010630Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T010630Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014043Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T014043Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020739Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T020739Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023709Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T023709Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030740Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T030740Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033701Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T033701Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040749Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T040749Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043659Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T043659Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050737Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T050737Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053810Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T053810Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060752Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T060752Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063835Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T063835Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070727Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T070727Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074407Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T074407Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081030Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T081030Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T083957Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T083957Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091150Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T091150Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T093911Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T093911Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T101832Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T101832Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T103918Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T103918Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111037Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T111037Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114404Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T114404Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121253Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T121253Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124041Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T124041Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131144Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T131144Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134058Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T134058Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141225Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T141225Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144110Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T144110Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151246Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T151246Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154132Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260924/gif/20260924T154132Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170115Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T170115Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T175846Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T175846Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181237Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T181237Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183706Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T183706Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195521Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T195521Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200704Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T200704Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203701Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T203701Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210701Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T210701Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213654Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T213654Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220709Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T220709Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225330Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T225330Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231130Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T231130Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234007Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260924T234007Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001121Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T001121Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T003953Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T003953Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T010957Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T010957Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014154Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T014154Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T020933Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T020933Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024039Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T024039Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T030935Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T030935Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034008Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T034008Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041037Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T041037Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T043950Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T043950Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051010Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T051010Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053909Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T053909Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061039Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T061039Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064200Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T064200Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071055Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T071055Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074124Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T074124Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081212Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T081212Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084022Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T084022Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091219Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T091219Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094043Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T094043Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101342Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T101342Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104115Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T104115Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T111823Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T111823Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115151Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T115151Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120739Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T120739Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123623Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T123623Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130625Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T130625Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135022Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T135022Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145446Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T145446Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153717Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T153717Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154825Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260925/gif/20260925T154825Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172253Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T172253Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173646Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T173646Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175004Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T175004Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180847Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T180847Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183807Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T183807Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193505Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T193505Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195256Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T195256Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T200859Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T200859Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203857Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T203857Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T210943Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T210943Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214355Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T214355Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221103Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T221103Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T223923Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T223923Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T230940Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T230940Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T233921Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260925T233921Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001026Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T001026Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004119Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T004119Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011116Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T011116Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014250Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T014250Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021121Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T021121Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024028Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T024028Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031141Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T031141Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034103Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T034103Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041126Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T041126Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044051Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T044051Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051208Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T051208Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053640Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T053640Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060626Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T060626Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063549Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T063549Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070609Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T070609Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073623Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T073623Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080744Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T080744Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083632Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T083632Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090740Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T090740Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093700Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T093700Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100808Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T100808Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T103835Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T103835Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111001Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T111001Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113839Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T113839Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120817Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T120817Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123819Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T123819Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131109Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T131109Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133842Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T133842Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140905Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T140905Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152429Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T152429Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T153914Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260926/gif/20260926T153914Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T160943Z",
+      "date": "20260927",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/taipei/RCSS/20260927/gif/20260926T160943Z.gif"
+    }
+  ]
+}

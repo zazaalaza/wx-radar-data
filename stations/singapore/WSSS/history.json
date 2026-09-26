@@ -1,0 +1,827 @@
+{
+  "icao": "WSSS",
+  "captures": [
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161013Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T161013Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T163956Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T163956Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171144Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T171144Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174054Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T174054Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181124Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T181124Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192540Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T192540Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194013Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T194013Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201110Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T201110Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212611Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T212611Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214146Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T214146Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222531Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T222531Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T224937Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T224937Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231219Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T231219Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234228Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260923T234228Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001329Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T001329Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003726Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T003726Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010628Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T010628Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014039Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T014039Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020737Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T020737Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023707Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T023707Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030738Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T030738Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033659Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T033659Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040748Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T040748Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043657Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T043657Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050735Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T050735Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053806Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T053806Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060749Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T060749Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063833Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T063833Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070725Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T070725Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074405Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T074405Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081027Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T081027Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T083954Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T083954Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091149Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T091149Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T093909Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T093909Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T101828Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T101828Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T103916Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T103916Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111035Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T111035Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114401Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T114401Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121250Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T121250Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124039Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T124039Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131140Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T131140Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134055Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T134055Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141223Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T141223Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144108Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T144108Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151243Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T151243Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154130Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260924/gif/20260924T154130Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170114Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T170114Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T175843Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T175843Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181236Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T181236Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183704Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T183704Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195520Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T195520Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200702Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T200702Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203659Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T203659Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210700Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T210700Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213652Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T213652Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220707Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T220707Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225328Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T225328Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231127Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T231127Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234005Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260924T234005Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001118Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T001118Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T003950Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T003950Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T010956Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T010956Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014151Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T014151Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T020930Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T020930Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024036Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T024036Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T030933Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T030933Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034007Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T034007Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041035Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T041035Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T043948Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T043948Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051009Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T051009Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053908Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T053908Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061035Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T061035Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064157Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T064157Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071054Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T071054Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074121Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T074121Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081209Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T081209Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084021Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T084021Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091217Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T091217Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094042Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T094042Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101340Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T101340Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104113Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T104113Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T111820Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T111820Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115148Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T115148Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120736Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T120736Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123621Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T123621Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130624Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T130624Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135020Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T135020Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145444Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T145444Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153716Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T153716Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154823Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260925/gif/20260925T154823Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172251Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T172251Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173643Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T173643Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175003Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T175003Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180846Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T180846Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183806Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T183806Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193503Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T193503Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195254Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T195254Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T200857Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T200857Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203855Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T203855Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T210942Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T210942Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214351Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T214351Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221100Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T221100Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T223921Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T223921Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T230939Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T230939Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T233919Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260925T233919Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001023Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T001023Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004116Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T004116Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011113Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T011113Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014247Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T014247Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021119Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T021119Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024027Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T024027Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031140Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T031140Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034101Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T034101Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041124Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T041124Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044050Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T044050Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051206Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T051206Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053637Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T053637Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060623Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T060623Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063548Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T063548Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070607Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T070607Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073621Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T073621Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080740Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T080740Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083631Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T083631Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090738Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T090738Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093658Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T093658Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100806Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T100806Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T103832Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T103832Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111000Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T111000Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113837Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T113837Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120815Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T120815Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123818Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T123818Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131107Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T131107Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133840Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T133840Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140903Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T140903Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152428Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T152428Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T153912Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260926/gif/20260926T153912Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T160941Z",
+      "date": "20260927",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/singapore/WSSS/20260927/gif/20260926T160941Z.gif"
+    }
+  ]
+}

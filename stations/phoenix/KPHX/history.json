@@ -1,0 +1,935 @@
+{
+  "icao": "KPHX",
+  "captures": [
+    {
+      "ts": 1790146800,
+      "datetime": "20260923T070656Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T070656Z.gif"
+    },
+    {
+      "ts": 1790148600,
+      "datetime": "20260923T073733Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T073733Z.gif"
+    },
+    {
+      "ts": 1790150400,
+      "datetime": "20260923T080728Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T080728Z.gif"
+    },
+    {
+      "ts": 1790152200,
+      "datetime": "20260923T084512Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T084512Z.gif"
+    },
+    {
+      "ts": 1790154000,
+      "datetime": "20260923T091006Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T091006Z.gif"
+    },
+    {
+      "ts": 1790155800,
+      "datetime": "20260923T094003Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T094003Z.gif"
+    },
+    {
+      "ts": 1790157600,
+      "datetime": "20260923T101304Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T101304Z.gif"
+    },
+    {
+      "ts": 1790159400,
+      "datetime": "20260923T103836Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T103836Z.gif"
+    },
+    {
+      "ts": 1790161200,
+      "datetime": "20260923T111031Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T111031Z.gif"
+    },
+    {
+      "ts": 1790163000,
+      "datetime": "20260923T114055Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T114055Z.gif"
+    },
+    {
+      "ts": 1790164800,
+      "datetime": "20260923T121340Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T121340Z.gif"
+    },
+    {
+      "ts": 1790166600,
+      "datetime": "20260923T123912Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T123912Z.gif"
+    },
+    {
+      "ts": 1790170200,
+      "datetime": "20260923T133844Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T133844Z.gif"
+    },
+    {
+      "ts": 1790171100,
+      "datetime": "20260923T135832Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T135832Z.gif"
+    },
+    {
+      "ts": 1790172000,
+      "datetime": "20260923T141236Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T141236Z.gif"
+    },
+    {
+      "ts": 1790173800,
+      "datetime": "20260923T144056Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T144056Z.gif"
+    },
+    {
+      "ts": 1790175600,
+      "datetime": "20260923T151431Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T151431Z.gif"
+    },
+    {
+      "ts": 1790177400,
+      "datetime": "20260923T154134Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T154134Z.gif"
+    },
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161124Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T161124Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T164117Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T164117Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171413Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T171413Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174223Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T174223Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181401Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T181401Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192654Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T192654Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194125Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T194125Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201349Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T201349Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212725Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T212725Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214304Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T214304Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222643Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T222643Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T225213Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T225213Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231338Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T231338Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234400Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260923T234400Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001458Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T001458Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003958Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T003958Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010759Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T010759Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014318Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T014318Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020906Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T020906Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023828Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T023828Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030857Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T030857Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033813Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T033813Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040900Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T040900Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043809Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T043809Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050846Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T050846Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T054038Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T054038Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060907Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T060907Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T064000Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260923/gif/20260924T064000Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070841Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T070841Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074519Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T074519Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081306Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T081306Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T084231Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T084231Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091303Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T091303Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T094036Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T094036Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T102109Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T102109Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T104028Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T104028Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111202Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T111202Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114629Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T114629Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121525Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T121525Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124159Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T124159Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131417Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T131417Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134330Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T134330Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141353Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T141353Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144227Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T144227Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151523Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T151523Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154301Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T154301Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170236Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T170236Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T180121Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T180121Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181349Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T181349Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183832Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T183832Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195645Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T195645Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200825Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T200825Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203816Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T203816Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210815Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T210815Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213805Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T213805Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220820Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T220820Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225450Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T225450Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231404Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T231404Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234122Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260924T234122Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001347Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T001347Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T004122Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T004122Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T011110Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T011110Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014428Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T014428Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T021205Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T021205Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024303Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T024303Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T031052Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T031052Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034126Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T034126Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041152Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T041152Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T044105Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T044105Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051123Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T051123Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T054016Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T054016Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061318Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T061318Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064437Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260924/gif/20260925T064437Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071202Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T071202Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074358Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T074358Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081451Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T081451Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084129Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T084129Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091336Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T091336Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094151Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T094151Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101457Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T101457Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104224Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T104224Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T112058Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T112058Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115433Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T115433Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T121016Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T121016Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123730Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T123730Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130731Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T130731Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135135Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T135135Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145613Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T145613Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153834Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T153834Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154937Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T154937Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172411Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T172411Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173918Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T173918Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175114Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T175114Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T181003Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T181003Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183919Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T183919Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193624Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T193624Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195408Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T195408Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T201032Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T201032Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T204008Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T204008Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T211058Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T211058Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214627Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T214627Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221336Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T221336Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T224035Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T224035Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T231059Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T231059Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T234036Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260925T234036Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001301Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T001301Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004350Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T004350Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011350Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T011350Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014525Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T014525Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021249Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T021249Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024140Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T024140Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031257Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T031257Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034227Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T034227Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041236Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T041236Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044200Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T044200Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051338Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T051338Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053914Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T053914Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060908Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T060908Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063710Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260925/gif/20260926T063710Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070713Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T070713Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073734Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T073734Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T081027Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T081027Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083742Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T083742Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090858Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T090858Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093808Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T093808Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100917Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T100917Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T104110Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T104110Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111108Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T111108Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113951Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T113951Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120928Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T120928Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123924Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T123924Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131231Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T131231Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133955Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T133955Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T141012Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T141012Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152537Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T152537Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T154020Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T154020Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T161056Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/phoenix/KPHX/20260926/gif/20260926T161056Z.gif"
+    }
+  ]
+}

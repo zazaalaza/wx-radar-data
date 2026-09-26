@@ -1,0 +1,827 @@
+{
+  "icao": "RPLL",
+  "captures": [
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161004Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T161004Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T163947Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T163947Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171130Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T171130Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174043Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T174043Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181108Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T181108Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192532Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T192532Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194005Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T194005Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201053Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T201053Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212603Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T212603Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214137Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T214137Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222524Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T222524Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T224921Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T224921Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231210Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T231210Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234216Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260923T234216Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001319Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T001319Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003710Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T003710Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010619Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T010619Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014023Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T014023Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020725Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T020725Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023659Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T023659Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030729Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T030729Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033652Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T033652Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040740Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T040740Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043650Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T043650Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050727Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T050727Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053750Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T053750Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060741Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T060741Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063824Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T063824Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070717Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T070717Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074357Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T074357Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081009Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T081009Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T083937Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T083937Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091142Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T091142Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T093900Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T093900Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T101811Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T101811Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T103909Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T103909Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111025Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T111025Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114344Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T114344Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121233Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T121233Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124031Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T124031Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131124Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T131124Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134037Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T134037Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141215Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T141215Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144059Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T144059Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151225Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T151225Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154121Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260924/gif/20260924T154121Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170102Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T170102Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T175825Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T175825Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181228Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T181228Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183654Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T183654Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195510Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T195510Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200654Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T200654Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203651Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T203651Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210652Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T210652Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213645Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T213645Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220700Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T220700Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225319Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T225319Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231111Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T231111Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T233945Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260924T233945Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001102Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T001102Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T003942Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T003942Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T010948Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T010948Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014136Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T014136Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T020913Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T020913Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024020Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T024020Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T030925Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T030925Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T033959Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T033959Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041027Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T041027Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T043940Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T043940Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051002Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T051002Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053900Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T053900Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061019Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T061019Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064140Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T064140Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071047Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T071047Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074104Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T074104Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081153Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T081153Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084013Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T084013Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091210Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T091210Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094034Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T094034Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101332Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T101332Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104105Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T104105Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T111803Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T111803Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115131Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T115131Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120718Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T120718Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123614Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T123614Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130616Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T130616Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135012Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T135012Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145432Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T145432Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153707Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T153707Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154815Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260925/gif/20260925T154815Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172243Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T172243Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173627Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T173627Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T174955Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T174955Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180837Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T180837Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183758Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T183758Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193453Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T193453Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195246Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T195246Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T200846Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T200846Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203846Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T203846Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T210934Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T210934Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214334Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T214334Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221044Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T221044Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T223914Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T223914Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T230930Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T230930Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T233910Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260925T233910Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001006Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T001006Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004100Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T004100Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011056Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T011056Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014231Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T014231Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021110Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T021110Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024019Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T024019Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031132Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T031132Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034051Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T034051Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041116Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T041116Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044043Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T044043Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051157Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T051157Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053621Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T053621Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060607Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T060607Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063538Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T063538Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070601Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T070601Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073614Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T073614Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080723Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T080723Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083623Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T083623Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090730Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T090730Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093651Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T093651Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100758Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T100758Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T103815Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T103815Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T110953Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T110953Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113829Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T113829Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120807Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T120807Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123810Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T123810Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131057Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T131057Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133832Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T133832Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140856Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T140856Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152419Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T152419Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T153904Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260926/gif/20260926T153904Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T160933Z",
+      "date": "20260927",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/manila/RPLL/20260927/gif/20260926T160933Z.gif"
+    }
+  ]
+}

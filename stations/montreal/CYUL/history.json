@@ -1,0 +1,971 @@
+{
+  "icao": "CYUL",
+  "captures": [
+    {
+      "ts": 1790136000,
+      "datetime": "20260923T041213Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T041213Z.gif"
+    },
+    {
+      "ts": 1790137800,
+      "datetime": "20260923T044159Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T044159Z.gif"
+    },
+    {
+      "ts": 1790139600,
+      "datetime": "20260923T051635Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T051635Z.gif"
+    },
+    {
+      "ts": 1790141400,
+      "datetime": "20260923T054427Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T054427Z.gif"
+    },
+    {
+      "ts": 1790143200,
+      "datetime": "20260923T061145Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T061145Z.gif"
+    },
+    {
+      "ts": 1790145000,
+      "datetime": "20260923T063600Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T063600Z.gif"
+    },
+    {
+      "ts": 1790146800,
+      "datetime": "20260923T070625Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T070625Z.gif"
+    },
+    {
+      "ts": 1790148600,
+      "datetime": "20260923T073700Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T073700Z.gif"
+    },
+    {
+      "ts": 1790150400,
+      "datetime": "20260923T080657Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T080657Z.gif"
+    },
+    {
+      "ts": 1790152200,
+      "datetime": "20260923T084415Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T084415Z.gif"
+    },
+    {
+      "ts": 1790154000,
+      "datetime": "20260923T090935Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T090935Z.gif"
+    },
+    {
+      "ts": 1790155800,
+      "datetime": "20260923T093855Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T093855Z.gif"
+    },
+    {
+      "ts": 1790157600,
+      "datetime": "20260923T101154Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T101154Z.gif"
+    },
+    {
+      "ts": 1790159400,
+      "datetime": "20260923T103804Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T103804Z.gif"
+    },
+    {
+      "ts": 1790161200,
+      "datetime": "20260923T110955Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T110955Z.gif"
+    },
+    {
+      "ts": 1790163000,
+      "datetime": "20260923T114019Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T114019Z.gif"
+    },
+    {
+      "ts": 1790164800,
+      "datetime": "20260923T121229Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T121229Z.gif"
+    },
+    {
+      "ts": 1790166600,
+      "datetime": "20260923T123840Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T123840Z.gif"
+    },
+    {
+      "ts": 1790170200,
+      "datetime": "20260923T133803Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T133803Z.gif"
+    },
+    {
+      "ts": 1790171100,
+      "datetime": "20260923T135721Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T135721Z.gif"
+    },
+    {
+      "ts": 1790172000,
+      "datetime": "20260923T141156Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T141156Z.gif"
+    },
+    {
+      "ts": 1790173800,
+      "datetime": "20260923T144021Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T144021Z.gif"
+    },
+    {
+      "ts": 1790175600,
+      "datetime": "20260923T151323Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T151323Z.gif"
+    },
+    {
+      "ts": 1790177400,
+      "datetime": "20260923T154053Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T154053Z.gif"
+    },
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161052Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T161052Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T164040Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T164040Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171305Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T171305Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174141Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T174141Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181249Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T181249Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192621Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T192621Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194053Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T194053Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201237Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T201237Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212652Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T212652Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214229Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T214229Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222611Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T222611Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T225103Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T225103Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231304Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T231304Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234322Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260923T234322Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001417Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T001417Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003850Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T003850Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010716Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T010716Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014203Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T014203Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020825Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T020825Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023755Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T023755Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030820Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T030820Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033739Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260923/gif/20260924T033739Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040827Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T040827Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043736Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T043736Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050813Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T050813Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053928Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T053928Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060831Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T060831Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063919Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T063919Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070806Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T070806Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074445Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T074445Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081153Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T081153Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T084120Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T084120Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091229Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T091229Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T093955Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T093955Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T101956Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T101956Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T103955Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T103955Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111124Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T111124Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114522Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T114522Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121414Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T121414Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124123Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T124123Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131306Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T131306Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134220Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T134220Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141312Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T141312Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144150Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T144150Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151412Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T151412Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154219Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T154219Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170158Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T170158Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T180010Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T180010Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181316Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T181316Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183752Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T183752Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195606Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T195606Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200748Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T200748Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203741Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T203741Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210742Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T210742Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213732Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T213732Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220747Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T220747Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225413Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T225413Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231252Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T231252Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234050Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260924T234050Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001238Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T001238Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T004038Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T004038Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T011036Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T011036Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014317Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T014317Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T021055Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T021055Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024155Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T024155Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T031016Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T031016Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034049Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260924/gif/20260925T034049Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041116Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T041116Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T044030Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T044030Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051048Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T051048Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053944Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T053944Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061201Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T061201Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064324Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T064324Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071130Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T071130Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074245Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T074245Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081337Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T081337Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084058Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T084058Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091300Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T091300Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094119Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T094119Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101421Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T101421Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104151Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T104151Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T111945Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T111945Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115318Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T115318Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120903Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T120903Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123658Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T123658Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130700Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T130700Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135102Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T135102Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145533Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T145533Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153759Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T153759Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154903Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T154903Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172334Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T172334Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173806Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T173806Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175042Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T175042Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180928Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T180928Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183845Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T183845Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193547Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T193547Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195335Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T195335Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T200949Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T200949Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203936Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T203936Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T211023Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T211023Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214517Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T214517Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221224Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T221224Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T224003Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T224003Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T231023Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T231023Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T234001Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260925T234001Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001147Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T001147Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004237Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T004237Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011236Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T011236Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014412Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T014412Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021208Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T021208Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024107Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T024107Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031221Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T031221Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034147Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260925/gif/20260926T034147Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041203Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T041203Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044128Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T044128Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051256Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T051256Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053800Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T053800Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060750Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T060750Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063632Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T063632Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070642Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T070642Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073700Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T073700Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080910Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T080910Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083709Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T083709Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090820Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T090820Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093735Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T093735Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100844Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T100844Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T103956Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T103956Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111037Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T111037Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113918Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T113918Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120856Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T120856Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123853Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T123853Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131152Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T131152Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133921Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T133921Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140940Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T140940Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152504Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T152504Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T153949Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T153949Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T161023Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/montreal/CYUL/20260926/gif/20260926T161023Z.gif"
+    }
+  ]
+}

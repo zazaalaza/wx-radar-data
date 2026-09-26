@@ -1,0 +1,971 @@
+{
+  "icao": "KMIA",
+  "captures": [
+    {
+      "ts": 1790136000,
+      "datetime": "20260923T041225Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T041225Z.gif"
+    },
+    {
+      "ts": 1790137800,
+      "datetime": "20260923T044212Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T044212Z.gif"
+    },
+    {
+      "ts": 1790139600,
+      "datetime": "20260923T051659Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T051659Z.gif"
+    },
+    {
+      "ts": 1790141400,
+      "datetime": "20260923T054449Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T054449Z.gif"
+    },
+    {
+      "ts": 1790143200,
+      "datetime": "20260923T061155Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T061155Z.gif"
+    },
+    {
+      "ts": 1790145000,
+      "datetime": "20260923T063610Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T063610Z.gif"
+    },
+    {
+      "ts": 1790146800,
+      "datetime": "20260923T070635Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T070635Z.gif"
+    },
+    {
+      "ts": 1790148600,
+      "datetime": "20260923T073711Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T073711Z.gif"
+    },
+    {
+      "ts": 1790150400,
+      "datetime": "20260923T080706Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T080706Z.gif"
+    },
+    {
+      "ts": 1790152200,
+      "datetime": "20260923T084433Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T084433Z.gif"
+    },
+    {
+      "ts": 1790154000,
+      "datetime": "20260923T090945Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T090945Z.gif"
+    },
+    {
+      "ts": 1790155800,
+      "datetime": "20260923T093917Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T093917Z.gif"
+    },
+    {
+      "ts": 1790157600,
+      "datetime": "20260923T101217Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T101217Z.gif"
+    },
+    {
+      "ts": 1790159400,
+      "datetime": "20260923T103815Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T103815Z.gif"
+    },
+    {
+      "ts": 1790161200,
+      "datetime": "20260923T111006Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T111006Z.gif"
+    },
+    {
+      "ts": 1790163000,
+      "datetime": "20260923T114031Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T114031Z.gif"
+    },
+    {
+      "ts": 1790164800,
+      "datetime": "20260923T121252Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T121252Z.gif"
+    },
+    {
+      "ts": 1790166600,
+      "datetime": "20260923T123850Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T123850Z.gif"
+    },
+    {
+      "ts": 1790170200,
+      "datetime": "20260923T133818Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T133818Z.gif"
+    },
+    {
+      "ts": 1790171100,
+      "datetime": "20260923T135744Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T135744Z.gif"
+    },
+    {
+      "ts": 1790172000,
+      "datetime": "20260923T141209Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T141209Z.gif"
+    },
+    {
+      "ts": 1790173800,
+      "datetime": "20260923T144032Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T144032Z.gif"
+    },
+    {
+      "ts": 1790175600,
+      "datetime": "20260923T151345Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T151345Z.gif"
+    },
+    {
+      "ts": 1790177400,
+      "datetime": "20260923T154106Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T154106Z.gif"
+    },
+    {
+      "ts": 1790179200,
+      "datetime": "20260923T161103Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T161103Z.gif"
+    },
+    {
+      "ts": 1790181000,
+      "datetime": "20260923T164052Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T164052Z.gif"
+    },
+    {
+      "ts": 1790182800,
+      "datetime": "20260923T171328Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T171328Z.gif"
+    },
+    {
+      "ts": 1790184600,
+      "datetime": "20260923T174154Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T174154Z.gif"
+    },
+    {
+      "ts": 1790186400,
+      "datetime": "20260923T181312Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T181312Z.gif"
+    },
+    {
+      "ts": 1790190900,
+      "datetime": "20260923T192632Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T192632Z.gif"
+    },
+    {
+      "ts": 1790191800,
+      "datetime": "20260923T194104Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T194104Z.gif"
+    },
+    {
+      "ts": 1790193600,
+      "datetime": "20260923T201301Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T201301Z.gif"
+    },
+    {
+      "ts": 1790198100,
+      "datetime": "20260923T212702Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T212702Z.gif"
+    },
+    {
+      "ts": 1790199000,
+      "datetime": "20260923T214240Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T214240Z.gif"
+    },
+    {
+      "ts": 1790201700,
+      "datetime": "20260923T222621Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T222621Z.gif"
+    },
+    {
+      "ts": 1790203500,
+      "datetime": "20260923T225126Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T225126Z.gif"
+    },
+    {
+      "ts": 1790204400,
+      "datetime": "20260923T231315Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T231315Z.gif"
+    },
+    {
+      "ts": 1790206200,
+      "datetime": "20260923T234335Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260923T234335Z.gif"
+    },
+    {
+      "ts": 1790208000,
+      "datetime": "20260924T001430Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T001430Z.gif"
+    },
+    {
+      "ts": 1790209800,
+      "datetime": "20260924T003912Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T003912Z.gif"
+    },
+    {
+      "ts": 1790211600,
+      "datetime": "20260924T010729Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T010729Z.gif"
+    },
+    {
+      "ts": 1790213400,
+      "datetime": "20260924T014227Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T014227Z.gif"
+    },
+    {
+      "ts": 1790215200,
+      "datetime": "20260924T020838Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T020838Z.gif"
+    },
+    {
+      "ts": 1790217000,
+      "datetime": "20260924T023806Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T023806Z.gif"
+    },
+    {
+      "ts": 1790218800,
+      "datetime": "20260924T030832Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T030832Z.gif"
+    },
+    {
+      "ts": 1790220600,
+      "datetime": "20260924T033750Z",
+      "date": "20260923",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260923/gif/20260924T033750Z.gif"
+    },
+    {
+      "ts": 1790222400,
+      "datetime": "20260924T040837Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T040837Z.gif"
+    },
+    {
+      "ts": 1790224200,
+      "datetime": "20260924T043746Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T043746Z.gif"
+    },
+    {
+      "ts": 1790226000,
+      "datetime": "20260924T050824Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T050824Z.gif"
+    },
+    {
+      "ts": 1790227800,
+      "datetime": "20260924T053951Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T053951Z.gif"
+    },
+    {
+      "ts": 1790229600,
+      "datetime": "20260924T060842Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T060842Z.gif"
+    },
+    {
+      "ts": 1790231400,
+      "datetime": "20260924T063932Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T063932Z.gif"
+    },
+    {
+      "ts": 1790233200,
+      "datetime": "20260924T070817Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T070817Z.gif"
+    },
+    {
+      "ts": 1790235000,
+      "datetime": "20260924T074456Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T074456Z.gif"
+    },
+    {
+      "ts": 1790236800,
+      "datetime": "20260924T081217Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T081217Z.gif"
+    },
+    {
+      "ts": 1790238600,
+      "datetime": "20260924T084143Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T084143Z.gif"
+    },
+    {
+      "ts": 1790240400,
+      "datetime": "20260924T091240Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T091240Z.gif"
+    },
+    {
+      "ts": 1790242200,
+      "datetime": "20260924T094008Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T094008Z.gif"
+    },
+    {
+      "ts": 1790244900,
+      "datetime": "20260924T102020Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T102020Z.gif"
+    },
+    {
+      "ts": 1790245800,
+      "datetime": "20260924T104006Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T104006Z.gif"
+    },
+    {
+      "ts": 1790247600,
+      "datetime": "20260924T111136Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T111136Z.gif"
+    },
+    {
+      "ts": 1790249400,
+      "datetime": "20260924T114545Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T114545Z.gif"
+    },
+    {
+      "ts": 1790251200,
+      "datetime": "20260924T121437Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T121437Z.gif"
+    },
+    {
+      "ts": 1790253000,
+      "datetime": "20260924T124134Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T124134Z.gif"
+    },
+    {
+      "ts": 1790254800,
+      "datetime": "20260924T131329Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T131329Z.gif"
+    },
+    {
+      "ts": 1790256600,
+      "datetime": "20260924T134243Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T134243Z.gif"
+    },
+    {
+      "ts": 1790258400,
+      "datetime": "20260924T141325Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T141325Z.gif"
+    },
+    {
+      "ts": 1790260200,
+      "datetime": "20260924T144202Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T144202Z.gif"
+    },
+    {
+      "ts": 1790262000,
+      "datetime": "20260924T151435Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T151435Z.gif"
+    },
+    {
+      "ts": 1790263800,
+      "datetime": "20260924T154233Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T154233Z.gif"
+    },
+    {
+      "ts": 1790268300,
+      "datetime": "20260924T170210Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T170210Z.gif"
+    },
+    {
+      "ts": 1790271900,
+      "datetime": "20260924T180033Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T180033Z.gif"
+    },
+    {
+      "ts": 1790272800,
+      "datetime": "20260924T181327Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T181327Z.gif"
+    },
+    {
+      "ts": 1790274600,
+      "datetime": "20260924T183805Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T183805Z.gif"
+    },
+    {
+      "ts": 1790279100,
+      "datetime": "20260924T195619Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T195619Z.gif"
+    },
+    {
+      "ts": 1790280000,
+      "datetime": "20260924T200800Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T200800Z.gif"
+    },
+    {
+      "ts": 1790281800,
+      "datetime": "20260924T203752Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T203752Z.gif"
+    },
+    {
+      "ts": 1790283600,
+      "datetime": "20260924T210752Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T210752Z.gif"
+    },
+    {
+      "ts": 1790285400,
+      "datetime": "20260924T213743Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T213743Z.gif"
+    },
+    {
+      "ts": 1790287200,
+      "datetime": "20260924T220758Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T220758Z.gif"
+    },
+    {
+      "ts": 1790289900,
+      "datetime": "20260924T225426Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T225426Z.gif"
+    },
+    {
+      "ts": 1790290800,
+      "datetime": "20260924T231316Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T231316Z.gif"
+    },
+    {
+      "ts": 1790292600,
+      "datetime": "20260924T234100Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260924T234100Z.gif"
+    },
+    {
+      "ts": 1790294400,
+      "datetime": "20260925T001300Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T001300Z.gif"
+    },
+    {
+      "ts": 1790296200,
+      "datetime": "20260925T004050Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T004050Z.gif"
+    },
+    {
+      "ts": 1790298000,
+      "datetime": "20260925T011046Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T011046Z.gif"
+    },
+    {
+      "ts": 1790299800,
+      "datetime": "20260925T014340Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T014340Z.gif"
+    },
+    {
+      "ts": 1790301600,
+      "datetime": "20260925T021118Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T021118Z.gif"
+    },
+    {
+      "ts": 1790303400,
+      "datetime": "20260925T024217Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T024217Z.gif"
+    },
+    {
+      "ts": 1790305200,
+      "datetime": "20260925T031027Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T031027Z.gif"
+    },
+    {
+      "ts": 1790307000,
+      "datetime": "20260925T034102Z",
+      "date": "20260924",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260924/gif/20260925T034102Z.gif"
+    },
+    {
+      "ts": 1790308800,
+      "datetime": "20260925T041127Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T041127Z.gif"
+    },
+    {
+      "ts": 1790310600,
+      "datetime": "20260925T044042Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T044042Z.gif"
+    },
+    {
+      "ts": 1790312400,
+      "datetime": "20260925T051101Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T051101Z.gif"
+    },
+    {
+      "ts": 1790314200,
+      "datetime": "20260925T053954Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T053954Z.gif"
+    },
+    {
+      "ts": 1790316000,
+      "datetime": "20260925T061226Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T061226Z.gif"
+    },
+    {
+      "ts": 1790317800,
+      "datetime": "20260925T064347Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T064347Z.gif"
+    },
+    {
+      "ts": 1790319600,
+      "datetime": "20260925T071140Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T071140Z.gif"
+    },
+    {
+      "ts": 1790321400,
+      "datetime": "20260925T074308Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T074308Z.gif"
+    },
+    {
+      "ts": 1790323200,
+      "datetime": "20260925T081401Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T081401Z.gif"
+    },
+    {
+      "ts": 1790325000,
+      "datetime": "20260925T084108Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T084108Z.gif"
+    },
+    {
+      "ts": 1790326800,
+      "datetime": "20260925T091312Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T091312Z.gif"
+    },
+    {
+      "ts": 1790328600,
+      "datetime": "20260925T094130Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T094130Z.gif"
+    },
+    {
+      "ts": 1790330400,
+      "datetime": "20260925T101433Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T101433Z.gif"
+    },
+    {
+      "ts": 1790332200,
+      "datetime": "20260925T104201Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T104201Z.gif"
+    },
+    {
+      "ts": 1790334900,
+      "datetime": "20260925T112009Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T112009Z.gif"
+    },
+    {
+      "ts": 1790336700,
+      "datetime": "20260925T115343Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T115343Z.gif"
+    },
+    {
+      "ts": 1790337600,
+      "datetime": "20260925T120928Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T120928Z.gif"
+    },
+    {
+      "ts": 1790339400,
+      "datetime": "20260925T123709Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T123709Z.gif"
+    },
+    {
+      "ts": 1790341200,
+      "datetime": "20260925T130710Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T130710Z.gif"
+    },
+    {
+      "ts": 1790343900,
+      "datetime": "20260925T135113Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T135113Z.gif"
+    },
+    {
+      "ts": 1790347500,
+      "datetime": "20260925T145546Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T145546Z.gif"
+    },
+    {
+      "ts": 1790350200,
+      "datetime": "20260925T153810Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T153810Z.gif"
+    },
+    {
+      "ts": 1790351100,
+      "datetime": "20260925T154914Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T154914Z.gif"
+    },
+    {
+      "ts": 1790356500,
+      "datetime": "20260925T172346Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T172346Z.gif"
+    },
+    {
+      "ts": 1790357400,
+      "datetime": "20260925T173830Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T173830Z.gif"
+    },
+    {
+      "ts": 1790358300,
+      "datetime": "20260925T175052Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T175052Z.gif"
+    },
+    {
+      "ts": 1790359200,
+      "datetime": "20260925T180939Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T180939Z.gif"
+    },
+    {
+      "ts": 1790361000,
+      "datetime": "20260925T183856Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T183856Z.gif"
+    },
+    {
+      "ts": 1790364600,
+      "datetime": "20260925T193600Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T193600Z.gif"
+    },
+    {
+      "ts": 1790365500,
+      "datetime": "20260925T195345Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T195345Z.gif"
+    },
+    {
+      "ts": 1790366400,
+      "datetime": "20260925T201003Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T201003Z.gif"
+    },
+    {
+      "ts": 1790368200,
+      "datetime": "20260925T203946Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T203946Z.gif"
+    },
+    {
+      "ts": 1790370000,
+      "datetime": "20260925T211034Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T211034Z.gif"
+    },
+    {
+      "ts": 1790371800,
+      "datetime": "20260925T214541Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T214541Z.gif"
+    },
+    {
+      "ts": 1790373600,
+      "datetime": "20260925T221248Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T221248Z.gif"
+    },
+    {
+      "ts": 1790375400,
+      "datetime": "20260925T224013Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T224013Z.gif"
+    },
+    {
+      "ts": 1790377200,
+      "datetime": "20260925T231035Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T231035Z.gif"
+    },
+    {
+      "ts": 1790379000,
+      "datetime": "20260925T234013Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260925T234013Z.gif"
+    },
+    {
+      "ts": 1790380800,
+      "datetime": "20260926T001211Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T001211Z.gif"
+    },
+    {
+      "ts": 1790382600,
+      "datetime": "20260926T004301Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T004301Z.gif"
+    },
+    {
+      "ts": 1790384400,
+      "datetime": "20260926T011300Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T011300Z.gif"
+    },
+    {
+      "ts": 1790386200,
+      "datetime": "20260926T014436Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T014436Z.gif"
+    },
+    {
+      "ts": 1790388000,
+      "datetime": "20260926T021221Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T021221Z.gif"
+    },
+    {
+      "ts": 1790389800,
+      "datetime": "20260926T024118Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T024118Z.gif"
+    },
+    {
+      "ts": 1790391600,
+      "datetime": "20260926T031233Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T031233Z.gif"
+    },
+    {
+      "ts": 1790393400,
+      "datetime": "20260926T034200Z",
+      "date": "20260925",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260925/gif/20260926T034200Z.gif"
+    },
+    {
+      "ts": 1790395200,
+      "datetime": "20260926T041213Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T041213Z.gif"
+    },
+    {
+      "ts": 1790397000,
+      "datetime": "20260926T044138Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T044138Z.gif"
+    },
+    {
+      "ts": 1790398800,
+      "datetime": "20260926T051309Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T051309Z.gif"
+    },
+    {
+      "ts": 1790400600,
+      "datetime": "20260926T053824Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T053824Z.gif"
+    },
+    {
+      "ts": 1790402400,
+      "datetime": "20260926T060815Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T060815Z.gif"
+    },
+    {
+      "ts": 1790404200,
+      "datetime": "20260926T063644Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T063644Z.gif"
+    },
+    {
+      "ts": 1790406000,
+      "datetime": "20260926T070652Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T070652Z.gif"
+    },
+    {
+      "ts": 1790407800,
+      "datetime": "20260926T073711Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T073711Z.gif"
+    },
+    {
+      "ts": 1790409600,
+      "datetime": "20260926T080935Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T080935Z.gif"
+    },
+    {
+      "ts": 1790411400,
+      "datetime": "20260926T083720Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T083720Z.gif"
+    },
+    {
+      "ts": 1790413200,
+      "datetime": "20260926T090832Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T090832Z.gif"
+    },
+    {
+      "ts": 1790415000,
+      "datetime": "20260926T093746Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T093746Z.gif"
+    },
+    {
+      "ts": 1790416800,
+      "datetime": "20260926T100855Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T100855Z.gif"
+    },
+    {
+      "ts": 1790418600,
+      "datetime": "20260926T104020Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T104020Z.gif"
+    },
+    {
+      "ts": 1790420400,
+      "datetime": "20260926T111047Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T111047Z.gif"
+    },
+    {
+      "ts": 1790422200,
+      "datetime": "20260926T113929Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T113929Z.gif"
+    },
+    {
+      "ts": 1790424000,
+      "datetime": "20260926T120907Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T120907Z.gif"
+    },
+    {
+      "ts": 1790425800,
+      "datetime": "20260926T123903Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T123903Z.gif"
+    },
+    {
+      "ts": 1790427600,
+      "datetime": "20260926T131204Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T131204Z.gif"
+    },
+    {
+      "ts": 1790429400,
+      "datetime": "20260926T133932Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T133932Z.gif"
+    },
+    {
+      "ts": 1790431200,
+      "datetime": "20260926T140951Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T140951Z.gif"
+    },
+    {
+      "ts": 1790435700,
+      "datetime": "20260926T152515Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T152515Z.gif"
+    },
+    {
+      "ts": 1790436600,
+      "datetime": "20260926T154000Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T154000Z.gif"
+    },
+    {
+      "ts": 1790438400,
+      "datetime": "20260926T161034Z",
+      "date": "20260926",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/miami/KMIA/20260926/gif/20260926T161034Z.gif"
+    }
+  ]
+}
