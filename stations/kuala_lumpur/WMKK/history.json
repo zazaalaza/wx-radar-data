@@ -1,0 +1,935 @@
+{
+  "icao": "WMKK",
+  "captures": [
+    {
+      "ts": 1790784000,
+      "datetime": "20260930T160215Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T160215Z.gif"
+    },
+    {
+      "ts": 1790785800,
+      "datetime": "20260930T164456Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T164456Z.gif"
+    },
+    {
+      "ts": 1790788500,
+      "datetime": "20260930T173116Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T173116Z.gif"
+    },
+    {
+      "ts": 1790789400,
+      "datetime": "20260930T174540Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T174540Z.gif"
+    },
+    {
+      "ts": 1790794800,
+      "datetime": "20260930T190409Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T190409Z.gif"
+    },
+    {
+      "ts": 1790795700,
+      "datetime": "20260930T192100Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T192100Z.gif"
+    },
+    {
+      "ts": 1790796600,
+      "datetime": "20260930T194319Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T194319Z.gif"
+    },
+    {
+      "ts": 1790799300,
+      "datetime": "20260930T203022Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T203022Z.gif"
+    },
+    {
+      "ts": 1790801100,
+      "datetime": "20260930T204702Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T204702Z.gif"
+    },
+    {
+      "ts": 1790802000,
+      "datetime": "20260930T211216Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T211216Z.gif"
+    },
+    {
+      "ts": 1790803800,
+      "datetime": "20260930T213543Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T213543Z.gif"
+    },
+    {
+      "ts": 1790805600,
+      "datetime": "20260930T220602Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T220602Z.gif"
+    },
+    {
+      "ts": 1790807400,
+      "datetime": "20260930T223611Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T223611Z.gif"
+    },
+    {
+      "ts": 1790809200,
+      "datetime": "20260930T230824Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T230824Z.gif"
+    },
+    {
+      "ts": 1790811000,
+      "datetime": "20260930T233655Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20260930T233655Z.gif"
+    },
+    {
+      "ts": 1790812800,
+      "datetime": "20261001T000645Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T000645Z.gif"
+    },
+    {
+      "ts": 1790814600,
+      "datetime": "20261001T003725Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T003725Z.gif"
+    },
+    {
+      "ts": 1790816400,
+      "datetime": "20261001T010806Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T010806Z.gif"
+    },
+    {
+      "ts": 1790818200,
+      "datetime": "20261001T013816Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T013816Z.gif"
+    },
+    {
+      "ts": 1790820000,
+      "datetime": "20261001T020742Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T020742Z.gif"
+    },
+    {
+      "ts": 1790821800,
+      "datetime": "20261001T023816Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T023816Z.gif"
+    },
+    {
+      "ts": 1790823600,
+      "datetime": "20261001T030839Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T030839Z.gif"
+    },
+    {
+      "ts": 1790825400,
+      "datetime": "20261001T034122Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T034122Z.gif"
+    },
+    {
+      "ts": 1790827200,
+      "datetime": "20261001T040832Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T040832Z.gif"
+    },
+    {
+      "ts": 1790829000,
+      "datetime": "20261001T043852Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T043852Z.gif"
+    },
+    {
+      "ts": 1790831700,
+      "datetime": "20261001T053128Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T053128Z.gif"
+    },
+    {
+      "ts": 1790833500,
+      "datetime": "20261001T054853Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T054853Z.gif"
+    },
+    {
+      "ts": 1790834400,
+      "datetime": "20261001T060819Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T060819Z.gif"
+    },
+    {
+      "ts": 1790836200,
+      "datetime": "20261001T064215Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T064215Z.gif"
+    },
+    {
+      "ts": 1790838000,
+      "datetime": "20261001T070926Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T070926Z.gif"
+    },
+    {
+      "ts": 1790839800,
+      "datetime": "20261001T073901Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T073901Z.gif"
+    },
+    {
+      "ts": 1790841600,
+      "datetime": "20261001T081210Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T081210Z.gif"
+    },
+    {
+      "ts": 1790843400,
+      "datetime": "20261001T084130Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T084130Z.gif"
+    },
+    {
+      "ts": 1790845200,
+      "datetime": "20261001T091317Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T091317Z.gif"
+    },
+    {
+      "ts": 1790847000,
+      "datetime": "20261001T094019Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T094019Z.gif"
+    },
+    {
+      "ts": 1790848800,
+      "datetime": "20261001T101014Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T101014Z.gif"
+    },
+    {
+      "ts": 1790850600,
+      "datetime": "20261001T104016Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T104016Z.gif"
+    },
+    {
+      "ts": 1790852400,
+      "datetime": "20261001T111055Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T111055Z.gif"
+    },
+    {
+      "ts": 1790854200,
+      "datetime": "20261001T114048Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T114048Z.gif"
+    },
+    {
+      "ts": 1790856000,
+      "datetime": "20261001T121107Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T121107Z.gif"
+    },
+    {
+      "ts": 1790858700,
+      "datetime": "20261001T125450Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T125450Z.gif"
+    },
+    {
+      "ts": 1790859600,
+      "datetime": "20261001T131408Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T131408Z.gif"
+    },
+    {
+      "ts": 1790861400,
+      "datetime": "20261001T134501Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T134501Z.gif"
+    },
+    {
+      "ts": 1790863200,
+      "datetime": "20261001T141240Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T141240Z.gif"
+    },
+    {
+      "ts": 1790866800,
+      "datetime": "20261001T150409Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T150409Z.gif"
+    },
+    {
+      "ts": 1790868600,
+      "datetime": "20261001T153136Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261001/gif/20261001T153136Z.gif"
+    },
+    {
+      "ts": 1790872200,
+      "datetime": "20261001T163343Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T163343Z.gif"
+    },
+    {
+      "ts": 1790875800,
+      "datetime": "20261001T173307Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T173307Z.gif"
+    },
+    {
+      "ts": 1790877600,
+      "datetime": "20261001T180938Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T180938Z.gif"
+    },
+    {
+      "ts": 1790880300,
+      "datetime": "20261001T185824Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T185824Z.gif"
+    },
+    {
+      "ts": 1790883900,
+      "datetime": "20261001T200040Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T200040Z.gif"
+    },
+    {
+      "ts": 1790885700,
+      "datetime": "20261001T201707Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T201707Z.gif"
+    },
+    {
+      "ts": 1790886600,
+      "datetime": "20261001T203731Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T203731Z.gif"
+    },
+    {
+      "ts": 1790888400,
+      "datetime": "20261001T211002Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T211002Z.gif"
+    },
+    {
+      "ts": 1790890200,
+      "datetime": "20261001T213815Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T213815Z.gif"
+    },
+    {
+      "ts": 1790892900,
+      "datetime": "20261001T222129Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T222129Z.gif"
+    },
+    {
+      "ts": 1790893800,
+      "datetime": "20261001T224518Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T224518Z.gif"
+    },
+    {
+      "ts": 1790895600,
+      "datetime": "20261001T231145Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T231145Z.gif"
+    },
+    {
+      "ts": 1790897400,
+      "datetime": "20261001T233915Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261001T233915Z.gif"
+    },
+    {
+      "ts": 1790899200,
+      "datetime": "20261002T001355Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T001355Z.gif"
+    },
+    {
+      "ts": 1790901000,
+      "datetime": "20261002T003903Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T003903Z.gif"
+    },
+    {
+      "ts": 1790902800,
+      "datetime": "20261002T010825Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T010825Z.gif"
+    },
+    {
+      "ts": 1790904600,
+      "datetime": "20261002T013931Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T013931Z.gif"
+    },
+    {
+      "ts": 1790906400,
+      "datetime": "20261002T020916Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T020916Z.gif"
+    },
+    {
+      "ts": 1790908200,
+      "datetime": "20261002T023926Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T023926Z.gif"
+    },
+    {
+      "ts": 1790910000,
+      "datetime": "20261002T030919Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T030919Z.gif"
+    },
+    {
+      "ts": 1790911800,
+      "datetime": "20261002T034031Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T034031Z.gif"
+    },
+    {
+      "ts": 1790913600,
+      "datetime": "20261002T041023Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T041023Z.gif"
+    },
+    {
+      "ts": 1790915400,
+      "datetime": "20261002T044056Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T044056Z.gif"
+    },
+    {
+      "ts": 1790917200,
+      "datetime": "20261002T051011Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T051011Z.gif"
+    },
+    {
+      "ts": 1790919000,
+      "datetime": "20261002T054027Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T054027Z.gif"
+    },
+    {
+      "ts": 1790920800,
+      "datetime": "20261002T061008Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T061008Z.gif"
+    },
+    {
+      "ts": 1790922600,
+      "datetime": "20261002T064035Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T064035Z.gif"
+    },
+    {
+      "ts": 1790924400,
+      "datetime": "20261002T071049Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T071049Z.gif"
+    },
+    {
+      "ts": 1790926200,
+      "datetime": "20261002T074023Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T074023Z.gif"
+    },
+    {
+      "ts": 1790928000,
+      "datetime": "20261002T081302Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T081302Z.gif"
+    },
+    {
+      "ts": 1790929800,
+      "datetime": "20261002T084046Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T084046Z.gif"
+    },
+    {
+      "ts": 1790931600,
+      "datetime": "20261002T091420Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T091420Z.gif"
+    },
+    {
+      "ts": 1790933400,
+      "datetime": "20261002T094042Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T094042Z.gif"
+    },
+    {
+      "ts": 1790935200,
+      "datetime": "20261002T101524Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T101524Z.gif"
+    },
+    {
+      "ts": 1790937000,
+      "datetime": "20261002T104238Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T104238Z.gif"
+    },
+    {
+      "ts": 1790938800,
+      "datetime": "20261002T110626Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T110626Z.gif"
+    },
+    {
+      "ts": 1790940600,
+      "datetime": "20261002T113613Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T113613Z.gif"
+    },
+    {
+      "ts": 1790942400,
+      "datetime": "20261002T120746Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T120746Z.gif"
+    },
+    {
+      "ts": 1790944200,
+      "datetime": "20261002T123632Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T123632Z.gif"
+    },
+    {
+      "ts": 1790946000,
+      "datetime": "20261002T130655Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T130655Z.gif"
+    },
+    {
+      "ts": 1790947800,
+      "datetime": "20261002T133711Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T133711Z.gif"
+    },
+    {
+      "ts": 1790950500,
+      "datetime": "20261002T142549Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T142549Z.gif"
+    },
+    {
+      "ts": 1790951400,
+      "datetime": "20261002T144112Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T144112Z.gif"
+    },
+    {
+      "ts": 1790953200,
+      "datetime": "20261002T151148Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T151148Z.gif"
+    },
+    {
+      "ts": 1790955000,
+      "datetime": "20261002T154209Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261002/gif/20261002T154209Z.gif"
+    },
+    {
+      "ts": 1790956800,
+      "datetime": "20261002T161345Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T161345Z.gif"
+    },
+    {
+      "ts": 1790959500,
+      "datetime": "20261002T165635Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T165635Z.gif"
+    },
+    {
+      "ts": 1790962200,
+      "datetime": "20261002T174047Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T174047Z.gif"
+    },
+    {
+      "ts": 1790964900,
+      "datetime": "20261002T182159Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T182159Z.gif"
+    },
+    {
+      "ts": 1790965800,
+      "datetime": "20261002T184009Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T184009Z.gif"
+    },
+    {
+      "ts": 1790971200,
+      "datetime": "20261002T200454Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T200454Z.gif"
+    },
+    {
+      "ts": 1790973900,
+      "datetime": "20261002T204849Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T204849Z.gif"
+    },
+    {
+      "ts": 1790977500,
+      "datetime": "20261002T215119Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T215119Z.gif"
+    },
+    {
+      "ts": 1790978400,
+      "datetime": "20261002T220937Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T220937Z.gif"
+    },
+    {
+      "ts": 1790980200,
+      "datetime": "20261002T223945Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T223945Z.gif"
+    },
+    {
+      "ts": 1790982000,
+      "datetime": "20261002T231044Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T231044Z.gif"
+    },
+    {
+      "ts": 1790983800,
+      "datetime": "20261002T233930Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261002T233930Z.gif"
+    },
+    {
+      "ts": 1790985600,
+      "datetime": "20261003T000948Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T000948Z.gif"
+    },
+    {
+      "ts": 1790987400,
+      "datetime": "20261003T004033Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T004033Z.gif"
+    },
+    {
+      "ts": 1790989200,
+      "datetime": "20261003T011235Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T011235Z.gif"
+    },
+    {
+      "ts": 1790991000,
+      "datetime": "20261003T014045Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T014045Z.gif"
+    },
+    {
+      "ts": 1790992800,
+      "datetime": "20261003T021053Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T021053Z.gif"
+    },
+    {
+      "ts": 1790994600,
+      "datetime": "20261003T024105Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T024105Z.gif"
+    },
+    {
+      "ts": 1790996400,
+      "datetime": "20261003T031158Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T031158Z.gif"
+    },
+    {
+      "ts": 1790998200,
+      "datetime": "20261003T034118Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T034118Z.gif"
+    },
+    {
+      "ts": 1791000000,
+      "datetime": "20261003T041055Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T041055Z.gif"
+    },
+    {
+      "ts": 1791001800,
+      "datetime": "20261003T044109Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T044109Z.gif"
+    },
+    {
+      "ts": 1791003600,
+      "datetime": "20261003T051127Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T051127Z.gif"
+    },
+    {
+      "ts": 1791005400,
+      "datetime": "20261003T054534Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T054534Z.gif"
+    },
+    {
+      "ts": 1791007200,
+      "datetime": "20261003T061405Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T061405Z.gif"
+    },
+    {
+      "ts": 1791009000,
+      "datetime": "20261003T064145Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T064145Z.gif"
+    },
+    {
+      "ts": 1791010800,
+      "datetime": "20261003T070521Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T070521Z.gif"
+    },
+    {
+      "ts": 1791012600,
+      "datetime": "20261003T073534Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T073534Z.gif"
+    },
+    {
+      "ts": 1791014400,
+      "datetime": "20261003T080547Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T080547Z.gif"
+    },
+    {
+      "ts": 1791016200,
+      "datetime": "20261003T083729Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T083729Z.gif"
+    },
+    {
+      "ts": 1791018000,
+      "datetime": "20261003T090702Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T090702Z.gif"
+    },
+    {
+      "ts": 1791019800,
+      "datetime": "20261003T093548Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T093548Z.gif"
+    },
+    {
+      "ts": 1791021600,
+      "datetime": "20261003T100827Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T100827Z.gif"
+    },
+    {
+      "ts": 1791023400,
+      "datetime": "20261003T103816Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T103816Z.gif"
+    },
+    {
+      "ts": 1791025200,
+      "datetime": "20261003T110720Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T110720Z.gif"
+    },
+    {
+      "ts": 1791027000,
+      "datetime": "20261003T113838Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T113838Z.gif"
+    },
+    {
+      "ts": 1791028800,
+      "datetime": "20261003T121156Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T121156Z.gif"
+    },
+    {
+      "ts": 1791030600,
+      "datetime": "20261003T124116Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T124116Z.gif"
+    },
+    {
+      "ts": 1791032400,
+      "datetime": "20261003T130822Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T130822Z.gif"
+    },
+    {
+      "ts": 1791034200,
+      "datetime": "20261003T133820Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T133820Z.gif"
+    },
+    {
+      "ts": 1791036000,
+      "datetime": "20261003T140838Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T140838Z.gif"
+    },
+    {
+      "ts": 1791037800,
+      "datetime": "20261003T144005Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T144005Z.gif"
+    },
+    {
+      "ts": 1791039600,
+      "datetime": "20261003T150915Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T150915Z.gif"
+    },
+    {
+      "ts": 1791041400,
+      "datetime": "20261003T153927Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261003/gif/20261003T153927Z.gif"
+    },
+    {
+      "ts": 1791043200,
+      "datetime": "20261003T160917Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T160917Z.gif"
+    },
+    {
+      "ts": 1791045000,
+      "datetime": "20261003T163951Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T163951Z.gif"
+    },
+    {
+      "ts": 1791046800,
+      "datetime": "20261003T171142Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T171142Z.gif"
+    },
+    {
+      "ts": 1791048600,
+      "datetime": "20261003T174125Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T174125Z.gif"
+    },
+    {
+      "ts": 1791050400,
+      "datetime": "20261003T181410Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T181410Z.gif"
+    },
+    {
+      "ts": 1791052200,
+      "datetime": "20261003T183947Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T183947Z.gif"
+    },
+    {
+      "ts": 1791054000,
+      "datetime": "20261003T191216Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T191216Z.gif"
+    },
+    {
+      "ts": 1791055800,
+      "datetime": "20261003T194040Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T194040Z.gif"
+    },
+    {
+      "ts": 1791058500,
+      "datetime": "20261003T201827Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T201827Z.gif"
+    },
+    {
+      "ts": 1791059400,
+      "datetime": "20261003T204153Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T204153Z.gif"
+    },
+    {
+      "ts": 1791061200,
+      "datetime": "20261003T211134Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T211134Z.gif"
+    },
+    {
+      "ts": 1791063000,
+      "datetime": "20261003T214137Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T214137Z.gif"
+    },
+    {
+      "ts": 1791064800,
+      "datetime": "20261003T221309Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T221309Z.gif"
+    },
+    {
+      "ts": 1791066600,
+      "datetime": "20261003T224154Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T224154Z.gif"
+    },
+    {
+      "ts": 1791068400,
+      "datetime": "20261003T231114Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T231114Z.gif"
+    },
+    {
+      "ts": 1791070200,
+      "datetime": "20261003T234125Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261003T234125Z.gif"
+    },
+    {
+      "ts": 1791072000,
+      "datetime": "20261004T000613Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261004T000613Z.gif"
+    },
+    {
+      "ts": 1791073800,
+      "datetime": "20261004T003806Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261004T003806Z.gif"
+    },
+    {
+      "ts": 1791075600,
+      "datetime": "20261004T010642Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261004T010642Z.gif"
+    },
+    {
+      "ts": 1791077400,
+      "datetime": "20261004T014113Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/kuala_lumpur/WMKK/20261004/gif/20261004T014113Z.gif"
+    }
+  ]
+}

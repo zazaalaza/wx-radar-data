@@ -1,0 +1,881 @@
+{
+  "icao": "LTAC",
+  "captures": [
+    {
+      "ts": 1790802000,
+      "datetime": "20260930T211302Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T211302Z.gif"
+    },
+    {
+      "ts": 1790803800,
+      "datetime": "20260930T213606Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T213606Z.gif"
+    },
+    {
+      "ts": 1790805600,
+      "datetime": "20260930T220622Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T220622Z.gif"
+    },
+    {
+      "ts": 1790807400,
+      "datetime": "20260930T223631Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T223631Z.gif"
+    },
+    {
+      "ts": 1790809200,
+      "datetime": "20260930T230907Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T230907Z.gif"
+    },
+    {
+      "ts": 1790811000,
+      "datetime": "20260930T233739Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20260930T233739Z.gif"
+    },
+    {
+      "ts": 1790812800,
+      "datetime": "20261001T000707Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T000707Z.gif"
+    },
+    {
+      "ts": 1790814600,
+      "datetime": "20261001T003745Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T003745Z.gif"
+    },
+    {
+      "ts": 1790816400,
+      "datetime": "20261001T010851Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T010851Z.gif"
+    },
+    {
+      "ts": 1790818200,
+      "datetime": "20261001T013838Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T013838Z.gif"
+    },
+    {
+      "ts": 1790820000,
+      "datetime": "20261001T020807Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T020807Z.gif"
+    },
+    {
+      "ts": 1790821800,
+      "datetime": "20261001T023901Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T023901Z.gif"
+    },
+    {
+      "ts": 1790823600,
+      "datetime": "20261001T030900Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T030900Z.gif"
+    },
+    {
+      "ts": 1790825400,
+      "datetime": "20261001T034203Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T034203Z.gif"
+    },
+    {
+      "ts": 1790827200,
+      "datetime": "20261001T040856Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T040856Z.gif"
+    },
+    {
+      "ts": 1790829000,
+      "datetime": "20261001T043938Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T043938Z.gif"
+    },
+    {
+      "ts": 1790831700,
+      "datetime": "20261001T053213Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T053213Z.gif"
+    },
+    {
+      "ts": 1790833500,
+      "datetime": "20261001T054938Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T054938Z.gif"
+    },
+    {
+      "ts": 1790834400,
+      "datetime": "20261001T060842Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T060842Z.gif"
+    },
+    {
+      "ts": 1790836200,
+      "datetime": "20261001T064240Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T064240Z.gif"
+    },
+    {
+      "ts": 1790838000,
+      "datetime": "20261001T070946Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T070946Z.gif"
+    },
+    {
+      "ts": 1790839800,
+      "datetime": "20261001T073920Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T073920Z.gif"
+    },
+    {
+      "ts": 1790841600,
+      "datetime": "20261001T081254Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T081254Z.gif"
+    },
+    {
+      "ts": 1790843400,
+      "datetime": "20261001T084149Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T084149Z.gif"
+    },
+    {
+      "ts": 1790845200,
+      "datetime": "20261001T091340Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T091340Z.gif"
+    },
+    {
+      "ts": 1790847000,
+      "datetime": "20261001T094104Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T094104Z.gif"
+    },
+    {
+      "ts": 1790848800,
+      "datetime": "20261001T101034Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T101034Z.gif"
+    },
+    {
+      "ts": 1790850600,
+      "datetime": "20261001T104100Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T104100Z.gif"
+    },
+    {
+      "ts": 1790852400,
+      "datetime": "20261001T111116Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T111116Z.gif"
+    },
+    {
+      "ts": 1790854200,
+      "datetime": "20261001T114108Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T114108Z.gif"
+    },
+    {
+      "ts": 1790856000,
+      "datetime": "20261001T121128Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T121128Z.gif"
+    },
+    {
+      "ts": 1790858700,
+      "datetime": "20261001T125513Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T125513Z.gif"
+    },
+    {
+      "ts": 1790859600,
+      "datetime": "20261001T131429Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T131429Z.gif"
+    },
+    {
+      "ts": 1790861400,
+      "datetime": "20261001T134543Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T134543Z.gif"
+    },
+    {
+      "ts": 1790863200,
+      "datetime": "20261001T141305Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T141305Z.gif"
+    },
+    {
+      "ts": 1790866800,
+      "datetime": "20261001T150430Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T150430Z.gif"
+    },
+    {
+      "ts": 1790868600,
+      "datetime": "20261001T153157Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T153157Z.gif"
+    },
+    {
+      "ts": 1790872200,
+      "datetime": "20261001T163429Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T163429Z.gif"
+    },
+    {
+      "ts": 1790875800,
+      "datetime": "20261001T173339Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T173339Z.gif"
+    },
+    {
+      "ts": 1790877600,
+      "datetime": "20261001T181021Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T181021Z.gif"
+    },
+    {
+      "ts": 1790880300,
+      "datetime": "20261001T185844Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T185844Z.gif"
+    },
+    {
+      "ts": 1790883900,
+      "datetime": "20261001T200101Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T200101Z.gif"
+    },
+    {
+      "ts": 1790885700,
+      "datetime": "20261001T201729Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T201729Z.gif"
+    },
+    {
+      "ts": 1790886600,
+      "datetime": "20261001T203752Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261001/gif/20261001T203752Z.gif"
+    },
+    {
+      "ts": 1790888400,
+      "datetime": "20261001T211049Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T211049Z.gif"
+    },
+    {
+      "ts": 1790890200,
+      "datetime": "20261001T213838Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T213838Z.gif"
+    },
+    {
+      "ts": 1790892900,
+      "datetime": "20261001T222154Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T222154Z.gif"
+    },
+    {
+      "ts": 1790893800,
+      "datetime": "20261001T224540Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T224540Z.gif"
+    },
+    {
+      "ts": 1790895600,
+      "datetime": "20261001T231229Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T231229Z.gif"
+    },
+    {
+      "ts": 1790897400,
+      "datetime": "20261001T233938Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261001T233938Z.gif"
+    },
+    {
+      "ts": 1790899200,
+      "datetime": "20261002T001422Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T001422Z.gif"
+    },
+    {
+      "ts": 1790901000,
+      "datetime": "20261002T003945Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T003945Z.gif"
+    },
+    {
+      "ts": 1790902800,
+      "datetime": "20261002T010847Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T010847Z.gif"
+    },
+    {
+      "ts": 1790904600,
+      "datetime": "20261002T014012Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T014012Z.gif"
+    },
+    {
+      "ts": 1790906400,
+      "datetime": "20261002T020938Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T020938Z.gif"
+    },
+    {
+      "ts": 1790908200,
+      "datetime": "20261002T023948Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T023948Z.gif"
+    },
+    {
+      "ts": 1790910000,
+      "datetime": "20261002T030940Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T030940Z.gif"
+    },
+    {
+      "ts": 1790911800,
+      "datetime": "20261002T034058Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T034058Z.gif"
+    },
+    {
+      "ts": 1790913600,
+      "datetime": "20261002T041048Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T041048Z.gif"
+    },
+    {
+      "ts": 1790915400,
+      "datetime": "20261002T044136Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T044136Z.gif"
+    },
+    {
+      "ts": 1790917200,
+      "datetime": "20261002T051029Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T051029Z.gif"
+    },
+    {
+      "ts": 1790919000,
+      "datetime": "20261002T054048Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T054048Z.gif"
+    },
+    {
+      "ts": 1790920800,
+      "datetime": "20261002T061031Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T061031Z.gif"
+    },
+    {
+      "ts": 1790922600,
+      "datetime": "20261002T064057Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T064057Z.gif"
+    },
+    {
+      "ts": 1790924400,
+      "datetime": "20261002T071132Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T071132Z.gif"
+    },
+    {
+      "ts": 1790926200,
+      "datetime": "20261002T074041Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T074041Z.gif"
+    },
+    {
+      "ts": 1790928000,
+      "datetime": "20261002T081345Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T081345Z.gif"
+    },
+    {
+      "ts": 1790929800,
+      "datetime": "20261002T084107Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T084107Z.gif"
+    },
+    {
+      "ts": 1790931600,
+      "datetime": "20261002T091500Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T091500Z.gif"
+    },
+    {
+      "ts": 1790933400,
+      "datetime": "20261002T094103Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T094103Z.gif"
+    },
+    {
+      "ts": 1790935200,
+      "datetime": "20261002T101606Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T101606Z.gif"
+    },
+    {
+      "ts": 1790937000,
+      "datetime": "20261002T104257Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T104257Z.gif"
+    },
+    {
+      "ts": 1790938800,
+      "datetime": "20261002T110708Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T110708Z.gif"
+    },
+    {
+      "ts": 1790940600,
+      "datetime": "20261002T113631Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T113631Z.gif"
+    },
+    {
+      "ts": 1790942400,
+      "datetime": "20261002T120807Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T120807Z.gif"
+    },
+    {
+      "ts": 1790944200,
+      "datetime": "20261002T123654Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T123654Z.gif"
+    },
+    {
+      "ts": 1790946000,
+      "datetime": "20261002T130715Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T130715Z.gif"
+    },
+    {
+      "ts": 1790947800,
+      "datetime": "20261002T133751Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T133751Z.gif"
+    },
+    {
+      "ts": 1790950500,
+      "datetime": "20261002T142630Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T142630Z.gif"
+    },
+    {
+      "ts": 1790951400,
+      "datetime": "20261002T144135Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T144135Z.gif"
+    },
+    {
+      "ts": 1790953200,
+      "datetime": "20261002T151231Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T151231Z.gif"
+    },
+    {
+      "ts": 1790955000,
+      "datetime": "20261002T154233Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T154233Z.gif"
+    },
+    {
+      "ts": 1790956800,
+      "datetime": "20261002T161405Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T161405Z.gif"
+    },
+    {
+      "ts": 1790959500,
+      "datetime": "20261002T165703Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T165703Z.gif"
+    },
+    {
+      "ts": 1790962200,
+      "datetime": "20261002T174108Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T174108Z.gif"
+    },
+    {
+      "ts": 1790964900,
+      "datetime": "20261002T182225Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T182225Z.gif"
+    },
+    {
+      "ts": 1790965800,
+      "datetime": "20261002T184052Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T184052Z.gif"
+    },
+    {
+      "ts": 1790971200,
+      "datetime": "20261002T200520Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T200520Z.gif"
+    },
+    {
+      "ts": 1790973900,
+      "datetime": "20261002T204910Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261002/gif/20261002T204910Z.gif"
+    },
+    {
+      "ts": 1790977500,
+      "datetime": "20261002T215200Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261002T215200Z.gif"
+    },
+    {
+      "ts": 1790978400,
+      "datetime": "20261002T221004Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261002T221004Z.gif"
+    },
+    {
+      "ts": 1790980200,
+      "datetime": "20261002T224009Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261002T224009Z.gif"
+    },
+    {
+      "ts": 1790982000,
+      "datetime": "20261002T231104Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261002T231104Z.gif"
+    },
+    {
+      "ts": 1790983800,
+      "datetime": "20261002T233951Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261002T233951Z.gif"
+    },
+    {
+      "ts": 1790985600,
+      "datetime": "20261003T001010Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T001010Z.gif"
+    },
+    {
+      "ts": 1790987400,
+      "datetime": "20261003T004120Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T004120Z.gif"
+    },
+    {
+      "ts": 1790989200,
+      "datetime": "20261003T011300Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T011300Z.gif"
+    },
+    {
+      "ts": 1790991000,
+      "datetime": "20261003T014132Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T014132Z.gif"
+    },
+    {
+      "ts": 1790992800,
+      "datetime": "20261003T021112Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T021112Z.gif"
+    },
+    {
+      "ts": 1790994600,
+      "datetime": "20261003T024124Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T024124Z.gif"
+    },
+    {
+      "ts": 1790996400,
+      "datetime": "20261003T031241Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T031241Z.gif"
+    },
+    {
+      "ts": 1790998200,
+      "datetime": "20261003T034205Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T034205Z.gif"
+    },
+    {
+      "ts": 1791000000,
+      "datetime": "20261003T041116Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T041116Z.gif"
+    },
+    {
+      "ts": 1791001800,
+      "datetime": "20261003T044129Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T044129Z.gif"
+    },
+    {
+      "ts": 1791003600,
+      "datetime": "20261003T051147Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T051147Z.gif"
+    },
+    {
+      "ts": 1791005400,
+      "datetime": "20261003T054617Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T054617Z.gif"
+    },
+    {
+      "ts": 1791007200,
+      "datetime": "20261003T061428Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T061428Z.gif"
+    },
+    {
+      "ts": 1791009000,
+      "datetime": "20261003T064229Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T064229Z.gif"
+    },
+    {
+      "ts": 1791010800,
+      "datetime": "20261003T070543Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T070543Z.gif"
+    },
+    {
+      "ts": 1791012600,
+      "datetime": "20261003T073554Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T073554Z.gif"
+    },
+    {
+      "ts": 1791014400,
+      "datetime": "20261003T080608Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T080608Z.gif"
+    },
+    {
+      "ts": 1791016200,
+      "datetime": "20261003T083810Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T083810Z.gif"
+    },
+    {
+      "ts": 1791018000,
+      "datetime": "20261003T090721Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T090721Z.gif"
+    },
+    {
+      "ts": 1791019800,
+      "datetime": "20261003T093610Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T093610Z.gif"
+    },
+    {
+      "ts": 1791021600,
+      "datetime": "20261003T100912Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T100912Z.gif"
+    },
+    {
+      "ts": 1791023400,
+      "datetime": "20261003T103859Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T103859Z.gif"
+    },
+    {
+      "ts": 1791025200,
+      "datetime": "20261003T110739Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T110739Z.gif"
+    },
+    {
+      "ts": 1791027000,
+      "datetime": "20261003T113857Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T113857Z.gif"
+    },
+    {
+      "ts": 1791028800,
+      "datetime": "20261003T121238Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T121238Z.gif"
+    },
+    {
+      "ts": 1791030600,
+      "datetime": "20261003T124156Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T124156Z.gif"
+    },
+    {
+      "ts": 1791032400,
+      "datetime": "20261003T130905Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T130905Z.gif"
+    },
+    {
+      "ts": 1791034200,
+      "datetime": "20261003T133845Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T133845Z.gif"
+    },
+    {
+      "ts": 1791036000,
+      "datetime": "20261003T140901Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T140901Z.gif"
+    },
+    {
+      "ts": 1791037800,
+      "datetime": "20261003T144023Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T144023Z.gif"
+    },
+    {
+      "ts": 1791039600,
+      "datetime": "20261003T150934Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T150934Z.gif"
+    },
+    {
+      "ts": 1791041400,
+      "datetime": "20261003T153948Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T153948Z.gif"
+    },
+    {
+      "ts": 1791043200,
+      "datetime": "20261003T160935Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T160935Z.gif"
+    },
+    {
+      "ts": 1791045000,
+      "datetime": "20261003T164012Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T164012Z.gif"
+    },
+    {
+      "ts": 1791046800,
+      "datetime": "20261003T171224Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T171224Z.gif"
+    },
+    {
+      "ts": 1791048600,
+      "datetime": "20261003T174205Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T174205Z.gif"
+    },
+    {
+      "ts": 1791050400,
+      "datetime": "20261003T181432Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T181432Z.gif"
+    },
+    {
+      "ts": 1791052200,
+      "datetime": "20261003T184009Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T184009Z.gif"
+    },
+    {
+      "ts": 1791054000,
+      "datetime": "20261003T191301Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T191301Z.gif"
+    },
+    {
+      "ts": 1791055800,
+      "datetime": "20261003T194123Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T194123Z.gif"
+    },
+    {
+      "ts": 1791058500,
+      "datetime": "20261003T201927Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T201927Z.gif"
+    },
+    {
+      "ts": 1791059400,
+      "datetime": "20261003T204213Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261003/gif/20261003T204213Z.gif"
+    },
+    {
+      "ts": 1791061200,
+      "datetime": "20261003T211153Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T211153Z.gif"
+    },
+    {
+      "ts": 1791063000,
+      "datetime": "20261003T214221Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T214221Z.gif"
+    },
+    {
+      "ts": 1791064800,
+      "datetime": "20261003T221350Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T221350Z.gif"
+    },
+    {
+      "ts": 1791066600,
+      "datetime": "20261003T224237Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T224237Z.gif"
+    },
+    {
+      "ts": 1791068400,
+      "datetime": "20261003T231136Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T231136Z.gif"
+    },
+    {
+      "ts": 1791070200,
+      "datetime": "20261003T234150Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261003T234150Z.gif"
+    },
+    {
+      "ts": 1791072000,
+      "datetime": "20261004T000635Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261004T000635Z.gif"
+    },
+    {
+      "ts": 1791073800,
+      "datetime": "20261004T003830Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261004T003830Z.gif"
+    },
+    {
+      "ts": 1791075600,
+      "datetime": "20261004T010704Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261004T010704Z.gif"
+    },
+    {
+      "ts": 1791077400,
+      "datetime": "20261004T014134Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/ankara/LTAC/20261004/gif/20261004T014134Z.gif"
+    }
+  ]
+}

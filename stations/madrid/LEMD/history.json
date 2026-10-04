@@ -1,0 +1,869 @@
+{
+  "icao": "LEMD",
+  "captures": [
+    {
+      "ts": 1790805600,
+      "datetime": "20260930T220638Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20260930T220638Z.gif"
+    },
+    {
+      "ts": 1790807400,
+      "datetime": "20260930T223648Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20260930T223648Z.gif"
+    },
+    {
+      "ts": 1790809200,
+      "datetime": "20260930T230945Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20260930T230945Z.gif"
+    },
+    {
+      "ts": 1790811000,
+      "datetime": "20260930T233818Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20260930T233818Z.gif"
+    },
+    {
+      "ts": 1790812800,
+      "datetime": "20261001T000727Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T000727Z.gif"
+    },
+    {
+      "ts": 1790814600,
+      "datetime": "20261001T003809Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T003809Z.gif"
+    },
+    {
+      "ts": 1790816400,
+      "datetime": "20261001T010930Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T010930Z.gif"
+    },
+    {
+      "ts": 1790818200,
+      "datetime": "20261001T013859Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T013859Z.gif"
+    },
+    {
+      "ts": 1790820000,
+      "datetime": "20261001T020827Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T020827Z.gif"
+    },
+    {
+      "ts": 1790821800,
+      "datetime": "20261001T023941Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T023941Z.gif"
+    },
+    {
+      "ts": 1790823600,
+      "datetime": "20261001T030917Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T030917Z.gif"
+    },
+    {
+      "ts": 1790825400,
+      "datetime": "20261001T034240Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T034240Z.gif"
+    },
+    {
+      "ts": 1790827200,
+      "datetime": "20261001T040917Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T040917Z.gif"
+    },
+    {
+      "ts": 1790829000,
+      "datetime": "20261001T044019Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T044019Z.gif"
+    },
+    {
+      "ts": 1790831700,
+      "datetime": "20261001T053253Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T053253Z.gif"
+    },
+    {
+      "ts": 1790833500,
+      "datetime": "20261001T055018Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T055018Z.gif"
+    },
+    {
+      "ts": 1790834400,
+      "datetime": "20261001T060902Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T060902Z.gif"
+    },
+    {
+      "ts": 1790836200,
+      "datetime": "20261001T064301Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T064301Z.gif"
+    },
+    {
+      "ts": 1790838000,
+      "datetime": "20261001T071002Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T071002Z.gif"
+    },
+    {
+      "ts": 1790839800,
+      "datetime": "20261001T073937Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T073937Z.gif"
+    },
+    {
+      "ts": 1790841600,
+      "datetime": "20261001T081320Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T081320Z.gif"
+    },
+    {
+      "ts": 1790843400,
+      "datetime": "20261001T084205Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T084205Z.gif"
+    },
+    {
+      "ts": 1790845200,
+      "datetime": "20261001T091359Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T091359Z.gif"
+    },
+    {
+      "ts": 1790847000,
+      "datetime": "20261001T094142Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T094142Z.gif"
+    },
+    {
+      "ts": 1790848800,
+      "datetime": "20261001T101051Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T101051Z.gif"
+    },
+    {
+      "ts": 1790850600,
+      "datetime": "20261001T104139Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T104139Z.gif"
+    },
+    {
+      "ts": 1790852400,
+      "datetime": "20261001T111134Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T111134Z.gif"
+    },
+    {
+      "ts": 1790854200,
+      "datetime": "20261001T114125Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T114125Z.gif"
+    },
+    {
+      "ts": 1790856000,
+      "datetime": "20261001T121145Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T121145Z.gif"
+    },
+    {
+      "ts": 1790858700,
+      "datetime": "20261001T125531Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T125531Z.gif"
+    },
+    {
+      "ts": 1790859600,
+      "datetime": "20261001T131448Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T131448Z.gif"
+    },
+    {
+      "ts": 1790861400,
+      "datetime": "20261001T134620Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T134620Z.gif"
+    },
+    {
+      "ts": 1790863200,
+      "datetime": "20261001T141327Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T141327Z.gif"
+    },
+    {
+      "ts": 1790866800,
+      "datetime": "20261001T150450Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T150450Z.gif"
+    },
+    {
+      "ts": 1790868600,
+      "datetime": "20261001T153217Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T153217Z.gif"
+    },
+    {
+      "ts": 1790872200,
+      "datetime": "20261001T163511Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T163511Z.gif"
+    },
+    {
+      "ts": 1790875800,
+      "datetime": "20261001T173404Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T173404Z.gif"
+    },
+    {
+      "ts": 1790877600,
+      "datetime": "20261001T181059Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T181059Z.gif"
+    },
+    {
+      "ts": 1790880300,
+      "datetime": "20261001T185901Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T185901Z.gif"
+    },
+    {
+      "ts": 1790883900,
+      "datetime": "20261001T200120Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T200120Z.gif"
+    },
+    {
+      "ts": 1790885700,
+      "datetime": "20261001T201747Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T201747Z.gif"
+    },
+    {
+      "ts": 1790886600,
+      "datetime": "20261001T203810Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T203810Z.gif"
+    },
+    {
+      "ts": 1790888400,
+      "datetime": "20261001T211132Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T211132Z.gif"
+    },
+    {
+      "ts": 1790890200,
+      "datetime": "20261001T213858Z",
+      "date": "20261001",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261001/gif/20261001T213858Z.gif"
+    },
+    {
+      "ts": 1790892900,
+      "datetime": "20261001T222217Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261001T222217Z.gif"
+    },
+    {
+      "ts": 1790893800,
+      "datetime": "20261001T224558Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261001T224558Z.gif"
+    },
+    {
+      "ts": 1790895600,
+      "datetime": "20261001T231307Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261001T231307Z.gif"
+    },
+    {
+      "ts": 1790897400,
+      "datetime": "20261001T233957Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261001T233957Z.gif"
+    },
+    {
+      "ts": 1790899200,
+      "datetime": "20261002T001444Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T001444Z.gif"
+    },
+    {
+      "ts": 1790901000,
+      "datetime": "20261002T004024Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T004024Z.gif"
+    },
+    {
+      "ts": 1790902800,
+      "datetime": "20261002T010908Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T010908Z.gif"
+    },
+    {
+      "ts": 1790904600,
+      "datetime": "20261002T014050Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T014050Z.gif"
+    },
+    {
+      "ts": 1790906400,
+      "datetime": "20261002T020956Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T020956Z.gif"
+    },
+    {
+      "ts": 1790908200,
+      "datetime": "20261002T024007Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T024007Z.gif"
+    },
+    {
+      "ts": 1790910000,
+      "datetime": "20261002T030957Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T030957Z.gif"
+    },
+    {
+      "ts": 1790911800,
+      "datetime": "20261002T034121Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T034121Z.gif"
+    },
+    {
+      "ts": 1790913600,
+      "datetime": "20261002T041110Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T041110Z.gif"
+    },
+    {
+      "ts": 1790915400,
+      "datetime": "20261002T044211Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T044211Z.gif"
+    },
+    {
+      "ts": 1790917200,
+      "datetime": "20261002T051046Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T051046Z.gif"
+    },
+    {
+      "ts": 1790919000,
+      "datetime": "20261002T054106Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T054106Z.gif"
+    },
+    {
+      "ts": 1790920800,
+      "datetime": "20261002T061050Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T061050Z.gif"
+    },
+    {
+      "ts": 1790922600,
+      "datetime": "20261002T064115Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T064115Z.gif"
+    },
+    {
+      "ts": 1790924400,
+      "datetime": "20261002T071209Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T071209Z.gif"
+    },
+    {
+      "ts": 1790926200,
+      "datetime": "20261002T074057Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T074057Z.gif"
+    },
+    {
+      "ts": 1790928000,
+      "datetime": "20261002T081423Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T081423Z.gif"
+    },
+    {
+      "ts": 1790929800,
+      "datetime": "20261002T084123Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T084123Z.gif"
+    },
+    {
+      "ts": 1790931600,
+      "datetime": "20261002T091536Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T091536Z.gif"
+    },
+    {
+      "ts": 1790933400,
+      "datetime": "20261002T094120Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T094120Z.gif"
+    },
+    {
+      "ts": 1790935200,
+      "datetime": "20261002T101641Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T101641Z.gif"
+    },
+    {
+      "ts": 1790937000,
+      "datetime": "20261002T104312Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T104312Z.gif"
+    },
+    {
+      "ts": 1790938800,
+      "datetime": "20261002T110746Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T110746Z.gif"
+    },
+    {
+      "ts": 1790940600,
+      "datetime": "20261002T113647Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T113647Z.gif"
+    },
+    {
+      "ts": 1790942400,
+      "datetime": "20261002T120826Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T120826Z.gif"
+    },
+    {
+      "ts": 1790944200,
+      "datetime": "20261002T123711Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T123711Z.gif"
+    },
+    {
+      "ts": 1790946000,
+      "datetime": "20261002T130733Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T130733Z.gif"
+    },
+    {
+      "ts": 1790947800,
+      "datetime": "20261002T133829Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T133829Z.gif"
+    },
+    {
+      "ts": 1790950500,
+      "datetime": "20261002T142708Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T142708Z.gif"
+    },
+    {
+      "ts": 1790951400,
+      "datetime": "20261002T144154Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T144154Z.gif"
+    },
+    {
+      "ts": 1790953200,
+      "datetime": "20261002T151306Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T151306Z.gif"
+    },
+    {
+      "ts": 1790955000,
+      "datetime": "20261002T154253Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T154253Z.gif"
+    },
+    {
+      "ts": 1790956800,
+      "datetime": "20261002T161423Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T161423Z.gif"
+    },
+    {
+      "ts": 1790959500,
+      "datetime": "20261002T165731Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T165731Z.gif"
+    },
+    {
+      "ts": 1790962200,
+      "datetime": "20261002T174126Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T174126Z.gif"
+    },
+    {
+      "ts": 1790964900,
+      "datetime": "20261002T182244Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T182244Z.gif"
+    },
+    {
+      "ts": 1790965800,
+      "datetime": "20261002T184129Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T184129Z.gif"
+    },
+    {
+      "ts": 1790971200,
+      "datetime": "20261002T200544Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T200544Z.gif"
+    },
+    {
+      "ts": 1790973900,
+      "datetime": "20261002T204929Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T204929Z.gif"
+    },
+    {
+      "ts": 1790977500,
+      "datetime": "20261002T215240Z",
+      "date": "20261002",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261002/gif/20261002T215240Z.gif"
+    },
+    {
+      "ts": 1790978400,
+      "datetime": "20261002T221027Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261002T221027Z.gif"
+    },
+    {
+      "ts": 1790980200,
+      "datetime": "20261002T224030Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261002T224030Z.gif"
+    },
+    {
+      "ts": 1790982000,
+      "datetime": "20261002T231123Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261002T231123Z.gif"
+    },
+    {
+      "ts": 1790983800,
+      "datetime": "20261002T234011Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261002T234011Z.gif"
+    },
+    {
+      "ts": 1790985600,
+      "datetime": "20261003T001029Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T001029Z.gif"
+    },
+    {
+      "ts": 1790987400,
+      "datetime": "20261003T004200Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T004200Z.gif"
+    },
+    {
+      "ts": 1790989200,
+      "datetime": "20261003T011321Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T011321Z.gif"
+    },
+    {
+      "ts": 1790991000,
+      "datetime": "20261003T014213Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T014213Z.gif"
+    },
+    {
+      "ts": 1790992800,
+      "datetime": "20261003T021129Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T021129Z.gif"
+    },
+    {
+      "ts": 1790994600,
+      "datetime": "20261003T024140Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T024140Z.gif"
+    },
+    {
+      "ts": 1790996400,
+      "datetime": "20261003T031320Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T031320Z.gif"
+    },
+    {
+      "ts": 1790998200,
+      "datetime": "20261003T034247Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T034247Z.gif"
+    },
+    {
+      "ts": 1791000000,
+      "datetime": "20261003T041134Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T041134Z.gif"
+    },
+    {
+      "ts": 1791001800,
+      "datetime": "20261003T044146Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T044146Z.gif"
+    },
+    {
+      "ts": 1791003600,
+      "datetime": "20261003T051204Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T051204Z.gif"
+    },
+    {
+      "ts": 1791005400,
+      "datetime": "20261003T054653Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T054653Z.gif"
+    },
+    {
+      "ts": 1791007200,
+      "datetime": "20261003T061448Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T061448Z.gif"
+    },
+    {
+      "ts": 1791009000,
+      "datetime": "20261003T064308Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T064308Z.gif"
+    },
+    {
+      "ts": 1791010800,
+      "datetime": "20261003T070601Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T070601Z.gif"
+    },
+    {
+      "ts": 1791012600,
+      "datetime": "20261003T073612Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T073612Z.gif"
+    },
+    {
+      "ts": 1791014400,
+      "datetime": "20261003T080625Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T080625Z.gif"
+    },
+    {
+      "ts": 1791016200,
+      "datetime": "20261003T083846Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T083846Z.gif"
+    },
+    {
+      "ts": 1791018000,
+      "datetime": "20261003T090736Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T090736Z.gif"
+    },
+    {
+      "ts": 1791019800,
+      "datetime": "20261003T093628Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T093628Z.gif"
+    },
+    {
+      "ts": 1791021600,
+      "datetime": "20261003T100951Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T100951Z.gif"
+    },
+    {
+      "ts": 1791023400,
+      "datetime": "20261003T103937Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T103937Z.gif"
+    },
+    {
+      "ts": 1791025200,
+      "datetime": "20261003T110755Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T110755Z.gif"
+    },
+    {
+      "ts": 1791027000,
+      "datetime": "20261003T113912Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T113912Z.gif"
+    },
+    {
+      "ts": 1791028800,
+      "datetime": "20261003T121317Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T121317Z.gif"
+    },
+    {
+      "ts": 1791030600,
+      "datetime": "20261003T124234Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T124234Z.gif"
+    },
+    {
+      "ts": 1791032400,
+      "datetime": "20261003T130942Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T130942Z.gif"
+    },
+    {
+      "ts": 1791034200,
+      "datetime": "20261003T133906Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T133906Z.gif"
+    },
+    {
+      "ts": 1791036000,
+      "datetime": "20261003T140921Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T140921Z.gif"
+    },
+    {
+      "ts": 1791037800,
+      "datetime": "20261003T144040Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T144040Z.gif"
+    },
+    {
+      "ts": 1791039600,
+      "datetime": "20261003T150949Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T150949Z.gif"
+    },
+    {
+      "ts": 1791041400,
+      "datetime": "20261003T154006Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T154006Z.gif"
+    },
+    {
+      "ts": 1791043200,
+      "datetime": "20261003T160950Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T160950Z.gif"
+    },
+    {
+      "ts": 1791045000,
+      "datetime": "20261003T164030Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T164030Z.gif"
+    },
+    {
+      "ts": 1791046800,
+      "datetime": "20261003T171300Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T171300Z.gif"
+    },
+    {
+      "ts": 1791048600,
+      "datetime": "20261003T174240Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T174240Z.gif"
+    },
+    {
+      "ts": 1791050400,
+      "datetime": "20261003T181450Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T181450Z.gif"
+    },
+    {
+      "ts": 1791052200,
+      "datetime": "20261003T184028Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T184028Z.gif"
+    },
+    {
+      "ts": 1791054000,
+      "datetime": "20261003T191339Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T191339Z.gif"
+    },
+    {
+      "ts": 1791055800,
+      "datetime": "20261003T194200Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T194200Z.gif"
+    },
+    {
+      "ts": 1791058500,
+      "datetime": "20261003T201947Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T201947Z.gif"
+    },
+    {
+      "ts": 1791059400,
+      "datetime": "20261003T204230Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T204230Z.gif"
+    },
+    {
+      "ts": 1791061200,
+      "datetime": "20261003T211209Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T211209Z.gif"
+    },
+    {
+      "ts": 1791063000,
+      "datetime": "20261003T214257Z",
+      "date": "20261003",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261003/gif/20261003T214257Z.gif"
+    },
+    {
+      "ts": 1791064800,
+      "datetime": "20261003T221426Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261003T221426Z.gif"
+    },
+    {
+      "ts": 1791066600,
+      "datetime": "20261003T224315Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261003T224315Z.gif"
+    },
+    {
+      "ts": 1791068400,
+      "datetime": "20261003T231155Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261003T231155Z.gif"
+    },
+    {
+      "ts": 1791070200,
+      "datetime": "20261003T234210Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261003T234210Z.gif"
+    },
+    {
+      "ts": 1791072000,
+      "datetime": "20261004T000654Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261004T000654Z.gif"
+    },
+    {
+      "ts": 1791073800,
+      "datetime": "20261004T003851Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261004T003851Z.gif"
+    },
+    {
+      "ts": 1791075600,
+      "datetime": "20261004T010724Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261004T010724Z.gif"
+    },
+    {
+      "ts": 1791077400,
+      "datetime": "20261004T014153Z",
+      "date": "20261004",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/madrid/LEMD/20261004/gif/20261004T014153Z.gif"
+    }
+  ]
+}
