@@ -1,0 +1,989 @@
+{
+  "icao": "YSSY",
+  "captures": [
+    {
+      "ts": 1791378000,
+      "datetime": "20261007T130814Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T130814Z.gif"
+    },
+    {
+      "ts": 1791379800,
+      "datetime": "20261007T133659Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T133659Z.gif"
+    },
+    {
+      "ts": 1791381600,
+      "datetime": "20261007T140703Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T140703Z.gif"
+    },
+    {
+      "ts": 1791386100,
+      "datetime": "20261007T152359Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T152359Z.gif"
+    },
+    {
+      "ts": 1791390600,
+      "datetime": "20261007T163210Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T163210Z.gif"
+    },
+    {
+      "ts": 1791394200,
+      "datetime": "20261007T173705Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T173705Z.gif"
+    },
+    {
+      "ts": 1791401400,
+      "datetime": "20261007T194135Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T194135Z.gif"
+    },
+    {
+      "ts": 1791403200,
+      "datetime": "20261007T200852Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T200852Z.gif"
+    },
+    {
+      "ts": 1791405000,
+      "datetime": "20261007T203743Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T203743Z.gif"
+    },
+    {
+      "ts": 1791406800,
+      "datetime": "20261007T210811Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T210811Z.gif"
+    },
+    {
+      "ts": 1791411300,
+      "datetime": "20261007T222159Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T222159Z.gif"
+    },
+    {
+      "ts": 1791412200,
+      "datetime": "20261007T223704Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T223704Z.gif"
+    },
+    {
+      "ts": 1791414000,
+      "datetime": "20261007T231052Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T231052Z.gif"
+    },
+    {
+      "ts": 1791415800,
+      "datetime": "20261007T234008Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261007T234008Z.gif"
+    },
+    {
+      "ts": 1791417600,
+      "datetime": "20261008T000751Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T000751Z.gif"
+    },
+    {
+      "ts": 1791419400,
+      "datetime": "20261008T003903Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T003903Z.gif"
+    },
+    {
+      "ts": 1791421200,
+      "datetime": "20261008T010840Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T010840Z.gif"
+    },
+    {
+      "ts": 1791423000,
+      "datetime": "20261008T013741Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T013741Z.gif"
+    },
+    {
+      "ts": 1791424800,
+      "datetime": "20261008T020836Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T020836Z.gif"
+    },
+    {
+      "ts": 1791426600,
+      "datetime": "20261008T023834Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T023834Z.gif"
+    },
+    {
+      "ts": 1791428400,
+      "datetime": "20261008T030817Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T030817Z.gif"
+    },
+    {
+      "ts": 1791430200,
+      "datetime": "20261008T033819Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T033819Z.gif"
+    },
+    {
+      "ts": 1791432000,
+      "datetime": "20261008T040905Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T040905Z.gif"
+    },
+    {
+      "ts": 1791433800,
+      "datetime": "20261008T043736Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T043736Z.gif"
+    },
+    {
+      "ts": 1791435600,
+      "datetime": "20261008T050453Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T050453Z.gif"
+    },
+    {
+      "ts": 1791437400,
+      "datetime": "20261008T053413Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T053413Z.gif"
+    },
+    {
+      "ts": 1791439200,
+      "datetime": "20261008T060437Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T060437Z.gif"
+    },
+    {
+      "ts": 1791441000,
+      "datetime": "20261008T063540Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T063540Z.gif"
+    },
+    {
+      "ts": 1791442800,
+      "datetime": "20261008T070505Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T070505Z.gif"
+    },
+    {
+      "ts": 1791444600,
+      "datetime": "20261008T073629Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T073629Z.gif"
+    },
+    {
+      "ts": 1791446400,
+      "datetime": "20261008T080444Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T080444Z.gif"
+    },
+    {
+      "ts": 1791448200,
+      "datetime": "20261008T083520Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T083520Z.gif"
+    },
+    {
+      "ts": 1791450000,
+      "datetime": "20261008T090545Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T090545Z.gif"
+    },
+    {
+      "ts": 1791451800,
+      "datetime": "20261008T093634Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T093634Z.gif"
+    },
+    {
+      "ts": 1791453600,
+      "datetime": "20261008T100927Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T100927Z.gif"
+    },
+    {
+      "ts": 1791455400,
+      "datetime": "20261008T103702Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T103702Z.gif"
+    },
+    {
+      "ts": 1791457200,
+      "datetime": "20261008T110759Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T110759Z.gif"
+    },
+    {
+      "ts": 1791459000,
+      "datetime": "20261008T113612Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T113612Z.gif"
+    },
+    {
+      "ts": 1791460800,
+      "datetime": "20261008T121000Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T121000Z.gif"
+    },
+    {
+      "ts": 1791462600,
+      "datetime": "20261008T123622Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261008/gif/20261008T123622Z.gif"
+    },
+    {
+      "ts": 1791465300,
+      "datetime": "20261008T132340Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T132340Z.gif"
+    },
+    {
+      "ts": 1791466200,
+      "datetime": "20261008T133704Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T133704Z.gif"
+    },
+    {
+      "ts": 1791468000,
+      "datetime": "20261008T140842Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T140842Z.gif"
+    },
+    {
+      "ts": 1791473400,
+      "datetime": "20261008T153639Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T153639Z.gif"
+    },
+    {
+      "ts": 1791474300,
+      "datetime": "20261008T154946Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T154946Z.gif"
+    },
+    {
+      "ts": 1791475200,
+      "datetime": "20261008T160813Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T160813Z.gif"
+    },
+    {
+      "ts": 1791477000,
+      "datetime": "20261008T163729Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T163729Z.gif"
+    },
+    {
+      "ts": 1791480600,
+      "datetime": "20261008T174301Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T174301Z.gif"
+    },
+    {
+      "ts": 1791481500,
+      "datetime": "20261008T175411Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T175411Z.gif"
+    },
+    {
+      "ts": 1791482400,
+      "datetime": "20261008T180858Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T180858Z.gif"
+    },
+    {
+      "ts": 1791484200,
+      "datetime": "20261008T183723Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T183723Z.gif"
+    },
+    {
+      "ts": 1791486000,
+      "datetime": "20261008T190733Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T190733Z.gif"
+    },
+    {
+      "ts": 1791487800,
+      "datetime": "20261008T193858Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T193858Z.gif"
+    },
+    {
+      "ts": 1791489600,
+      "datetime": "20261008T201547Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T201547Z.gif"
+    },
+    {
+      "ts": 1791492300,
+      "datetime": "20261008T205533Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T205533Z.gif"
+    },
+    {
+      "ts": 1791493200,
+      "datetime": "20261008T210815Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T210815Z.gif"
+    },
+    {
+      "ts": 1791495000,
+      "datetime": "20261008T213842Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T213842Z.gif"
+    },
+    {
+      "ts": 1791496800,
+      "datetime": "20261008T220926Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T220926Z.gif"
+    },
+    {
+      "ts": 1791498600,
+      "datetime": "20261008T223803Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T223803Z.gif"
+    },
+    {
+      "ts": 1791500400,
+      "datetime": "20261008T230812Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T230812Z.gif"
+    },
+    {
+      "ts": 1791502200,
+      "datetime": "20261008T233821Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261008T233821Z.gif"
+    },
+    {
+      "ts": 1791504000,
+      "datetime": "20261009T000400Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T000400Z.gif"
+    },
+    {
+      "ts": 1791505800,
+      "datetime": "20261009T003349Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T003349Z.gif"
+    },
+    {
+      "ts": 1791507600,
+      "datetime": "20261009T010538Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T010538Z.gif"
+    },
+    {
+      "ts": 1791509400,
+      "datetime": "20261009T013610Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T013610Z.gif"
+    },
+    {
+      "ts": 1791511200,
+      "datetime": "20261009T020502Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T020502Z.gif"
+    },
+    {
+      "ts": 1791513000,
+      "datetime": "20261009T023445Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T023445Z.gif"
+    },
+    {
+      "ts": 1791514800,
+      "datetime": "20261009T030605Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T030605Z.gif"
+    },
+    {
+      "ts": 1791516600,
+      "datetime": "20261009T033531Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T033531Z.gif"
+    },
+    {
+      "ts": 1791518400,
+      "datetime": "20261009T040515Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T040515Z.gif"
+    },
+    {
+      "ts": 1791520200,
+      "datetime": "20261009T043636Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T043636Z.gif"
+    },
+    {
+      "ts": 1791522000,
+      "datetime": "20261009T050620Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T050620Z.gif"
+    },
+    {
+      "ts": 1791523800,
+      "datetime": "20261009T053601Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T053601Z.gif"
+    },
+    {
+      "ts": 1791525600,
+      "datetime": "20261009T060631Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T060631Z.gif"
+    },
+    {
+      "ts": 1791527400,
+      "datetime": "20261009T063628Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T063628Z.gif"
+    },
+    {
+      "ts": 1791529200,
+      "datetime": "20261009T070623Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T070623Z.gif"
+    },
+    {
+      "ts": 1791531000,
+      "datetime": "20261009T073601Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T073601Z.gif"
+    },
+    {
+      "ts": 1791532800,
+      "datetime": "20261009T080649Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T080649Z.gif"
+    },
+    {
+      "ts": 1791534600,
+      "datetime": "20261009T083547Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T083547Z.gif"
+    },
+    {
+      "ts": 1791536400,
+      "datetime": "20261009T090746Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T090746Z.gif"
+    },
+    {
+      "ts": 1791538200,
+      "datetime": "20261009T093701Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T093701Z.gif"
+    },
+    {
+      "ts": 1791540000,
+      "datetime": "20261009T100809Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T100809Z.gif"
+    },
+    {
+      "ts": 1791541800,
+      "datetime": "20261009T104358Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T104358Z.gif"
+    },
+    {
+      "ts": 1791543600,
+      "datetime": "20261009T110627Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T110627Z.gif"
+    },
+    {
+      "ts": 1791545400,
+      "datetime": "20261009T113708Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T113708Z.gif"
+    },
+    {
+      "ts": 1791547200,
+      "datetime": "20261009T120736Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T120736Z.gif"
+    },
+    {
+      "ts": 1791549000,
+      "datetime": "20261009T123800Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261009/gif/20261009T123800Z.gif"
+    },
+    {
+      "ts": 1791550800,
+      "datetime": "20261009T130952Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T130952Z.gif"
+    },
+    {
+      "ts": 1791552600,
+      "datetime": "20261009T133757Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T133757Z.gif"
+    },
+    {
+      "ts": 1791554400,
+      "datetime": "20261009T140833Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T140833Z.gif"
+    },
+    {
+      "ts": 1791557100,
+      "datetime": "20261009T144741Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T144741Z.gif"
+    },
+    {
+      "ts": 1791558000,
+      "datetime": "20261009T150902Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T150902Z.gif"
+    },
+    {
+      "ts": 1791559800,
+      "datetime": "20261009T153821Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T153821Z.gif"
+    },
+    {
+      "ts": 1791561600,
+      "datetime": "20261009T160840Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T160840Z.gif"
+    },
+    {
+      "ts": 1791563400,
+      "datetime": "20261009T163849Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T163849Z.gif"
+    },
+    {
+      "ts": 1791565200,
+      "datetime": "20261009T170936Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T170936Z.gif"
+    },
+    {
+      "ts": 1791567000,
+      "datetime": "20261009T173451Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T173451Z.gif"
+    },
+    {
+      "ts": 1791568800,
+      "datetime": "20261009T180426Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T180426Z.gif"
+    },
+    {
+      "ts": 1791570600,
+      "datetime": "20261009T183503Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T183503Z.gif"
+    },
+    {
+      "ts": 1791572400,
+      "datetime": "20261009T190513Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T190513Z.gif"
+    },
+    {
+      "ts": 1791574200,
+      "datetime": "20261009T193537Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T193537Z.gif"
+    },
+    {
+      "ts": 1791576000,
+      "datetime": "20261009T200742Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T200742Z.gif"
+    },
+    {
+      "ts": 1791577800,
+      "datetime": "20261009T204408Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T204408Z.gif"
+    },
+    {
+      "ts": 1791579600,
+      "datetime": "20261009T210708Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T210708Z.gif"
+    },
+    {
+      "ts": 1791581400,
+      "datetime": "20261009T213554Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T213554Z.gif"
+    },
+    {
+      "ts": 1791584100,
+      "datetime": "20261009T221810Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T221810Z.gif"
+    },
+    {
+      "ts": 1791585000,
+      "datetime": "20261009T223612Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T223612Z.gif"
+    },
+    {
+      "ts": 1791586800,
+      "datetime": "20261009T230848Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T230848Z.gif"
+    },
+    {
+      "ts": 1791588600,
+      "datetime": "20261009T233746Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261009T233746Z.gif"
+    },
+    {
+      "ts": 1791590400,
+      "datetime": "20261010T000805Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T000805Z.gif"
+    },
+    {
+      "ts": 1791592200,
+      "datetime": "20261010T003735Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T003735Z.gif"
+    },
+    {
+      "ts": 1791594000,
+      "datetime": "20261010T010624Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T010624Z.gif"
+    },
+    {
+      "ts": 1791595800,
+      "datetime": "20261010T013659Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T013659Z.gif"
+    },
+    {
+      "ts": 1791597600,
+      "datetime": "20261010T021546Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T021546Z.gif"
+    },
+    {
+      "ts": 1791599400,
+      "datetime": "20261010T023728Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T023728Z.gif"
+    },
+    {
+      "ts": 1791601200,
+      "datetime": "20261010T030826Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T030826Z.gif"
+    },
+    {
+      "ts": 1791603000,
+      "datetime": "20261010T033714Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T033714Z.gif"
+    },
+    {
+      "ts": 1791604800,
+      "datetime": "20261010T040657Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T040657Z.gif"
+    },
+    {
+      "ts": 1791606600,
+      "datetime": "20261010T043731Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T043731Z.gif"
+    },
+    {
+      "ts": 1791608400,
+      "datetime": "20261010T050745Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T050745Z.gif"
+    },
+    {
+      "ts": 1791610200,
+      "datetime": "20261010T053737Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T053737Z.gif"
+    },
+    {
+      "ts": 1791612000,
+      "datetime": "20261010T060825Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T060825Z.gif"
+    },
+    {
+      "ts": 1791613800,
+      "datetime": "20261010T063756Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T063756Z.gif"
+    },
+    {
+      "ts": 1791615600,
+      "datetime": "20261010T071144Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T071144Z.gif"
+    },
+    {
+      "ts": 1791617400,
+      "datetime": "20261010T073821Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T073821Z.gif"
+    },
+    {
+      "ts": 1791619200,
+      "datetime": "20261010T080833Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T080833Z.gif"
+    },
+    {
+      "ts": 1791621000,
+      "datetime": "20261010T083841Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T083841Z.gif"
+    },
+    {
+      "ts": 1791622800,
+      "datetime": "20261010T091125Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T091125Z.gif"
+    },
+    {
+      "ts": 1791624600,
+      "datetime": "20261010T093849Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T093849Z.gif"
+    },
+    {
+      "ts": 1791626400,
+      "datetime": "20261010T100759Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T100759Z.gif"
+    },
+    {
+      "ts": 1791628200,
+      "datetime": "20261010T103834Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T103834Z.gif"
+    },
+    {
+      "ts": 1791630000,
+      "datetime": "20261010T110450Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T110450Z.gif"
+    },
+    {
+      "ts": 1791631800,
+      "datetime": "20261010T113626Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T113626Z.gif"
+    },
+    {
+      "ts": 1791633600,
+      "datetime": "20261010T120536Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T120536Z.gif"
+    },
+    {
+      "ts": 1791635400,
+      "datetime": "20261010T123525Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261010/gif/20261010T123525Z.gif"
+    },
+    {
+      "ts": 1791637200,
+      "datetime": "20261010T130623Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T130623Z.gif"
+    },
+    {
+      "ts": 1791639000,
+      "datetime": "20261010T133534Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T133534Z.gif"
+    },
+    {
+      "ts": 1791640800,
+      "datetime": "20261010T140648Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T140648Z.gif"
+    },
+    {
+      "ts": 1791642600,
+      "datetime": "20261010T143632Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T143632Z.gif"
+    },
+    {
+      "ts": 1791644400,
+      "datetime": "20261010T150659Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T150659Z.gif"
+    },
+    {
+      "ts": 1791646200,
+      "datetime": "20261010T153630Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T153630Z.gif"
+    },
+    {
+      "ts": 1791648000,
+      "datetime": "20261010T160649Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T160649Z.gif"
+    },
+    {
+      "ts": 1791649800,
+      "datetime": "20261010T163729Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T163729Z.gif"
+    },
+    {
+      "ts": 1791651600,
+      "datetime": "20261010T171025Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T171025Z.gif"
+    },
+    {
+      "ts": 1791653400,
+      "datetime": "20261010T173647Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T173647Z.gif"
+    },
+    {
+      "ts": 1791655200,
+      "datetime": "20261010T180736Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T180736Z.gif"
+    },
+    {
+      "ts": 1791657000,
+      "datetime": "20261010T183726Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T183726Z.gif"
+    },
+    {
+      "ts": 1791658800,
+      "datetime": "20261010T190814Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T190814Z.gif"
+    },
+    {
+      "ts": 1791660600,
+      "datetime": "20261010T193740Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T193740Z.gif"
+    },
+    {
+      "ts": 1791662400,
+      "datetime": "20261010T201200Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T201200Z.gif"
+    },
+    {
+      "ts": 1791664200,
+      "datetime": "20261010T203725Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T203725Z.gif"
+    },
+    {
+      "ts": 1791666000,
+      "datetime": "20261010T210800Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T210800Z.gif"
+    },
+    {
+      "ts": 1791667800,
+      "datetime": "20261010T213752Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T213752Z.gif"
+    },
+    {
+      "ts": 1791669600,
+      "datetime": "20261010T220825Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T220825Z.gif"
+    },
+    {
+      "ts": 1791671400,
+      "datetime": "20261010T223800Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T223800Z.gif"
+    },
+    {
+      "ts": 1791673200,
+      "datetime": "20261010T230854Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T230854Z.gif"
+    },
+    {
+      "ts": 1791675000,
+      "datetime": "20261010T233828Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261010T233828Z.gif"
+    },
+    {
+      "ts": 1791676800,
+      "datetime": "20261011T000842Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T000842Z.gif"
+    },
+    {
+      "ts": 1791678600,
+      "datetime": "20261011T003756Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T003756Z.gif"
+    },
+    {
+      "ts": 1791680400,
+      "datetime": "20261011T010852Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T010852Z.gif"
+    },
+    {
+      "ts": 1791682200,
+      "datetime": "20261011T013853Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T013853Z.gif"
+    },
+    {
+      "ts": 1791684000,
+      "datetime": "20261011T020921Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T020921Z.gif"
+    },
+    {
+      "ts": 1791685800,
+      "datetime": "20261011T023911Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T023911Z.gif"
+    },
+    {
+      "ts": 1791687600,
+      "datetime": "20261011T030941Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/sydney/YSSY/20261011/gif/20261011T030941Z.gif"
+    }
+  ]
+}

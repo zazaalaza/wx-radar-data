@@ -1,0 +1,947 @@
+{
+  "icao": "OMDB",
+  "captures": [
+    {
+      "ts": 1791403200,
+      "datetime": "20261007T200926Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T200926Z.gif"
+    },
+    {
+      "ts": 1791405000,
+      "datetime": "20261007T203824Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T203824Z.gif"
+    },
+    {
+      "ts": 1791406800,
+      "datetime": "20261007T210852Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T210852Z.gif"
+    },
+    {
+      "ts": 1791411300,
+      "datetime": "20261007T222235Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T222235Z.gif"
+    },
+    {
+      "ts": 1791412200,
+      "datetime": "20261007T223739Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T223739Z.gif"
+    },
+    {
+      "ts": 1791414000,
+      "datetime": "20261007T231204Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T231204Z.gif"
+    },
+    {
+      "ts": 1791415800,
+      "datetime": "20261007T234043Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261007T234043Z.gif"
+    },
+    {
+      "ts": 1791417600,
+      "datetime": "20261008T000903Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T000903Z.gif"
+    },
+    {
+      "ts": 1791419400,
+      "datetime": "20261008T004010Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T004010Z.gif"
+    },
+    {
+      "ts": 1791421200,
+      "datetime": "20261008T010922Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T010922Z.gif"
+    },
+    {
+      "ts": 1791423000,
+      "datetime": "20261008T013854Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T013854Z.gif"
+    },
+    {
+      "ts": 1791424800,
+      "datetime": "20261008T020951Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T020951Z.gif"
+    },
+    {
+      "ts": 1791426600,
+      "datetime": "20261008T023914Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T023914Z.gif"
+    },
+    {
+      "ts": 1791428400,
+      "datetime": "20261008T030848Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T030848Z.gif"
+    },
+    {
+      "ts": 1791430200,
+      "datetime": "20261008T033855Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T033855Z.gif"
+    },
+    {
+      "ts": 1791432000,
+      "datetime": "20261008T041014Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T041014Z.gif"
+    },
+    {
+      "ts": 1791433800,
+      "datetime": "20261008T043810Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T043810Z.gif"
+    },
+    {
+      "ts": 1791435600,
+      "datetime": "20261008T050612Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T050612Z.gif"
+    },
+    {
+      "ts": 1791437400,
+      "datetime": "20261008T053452Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T053452Z.gif"
+    },
+    {
+      "ts": 1791439200,
+      "datetime": "20261008T060511Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T060511Z.gif"
+    },
+    {
+      "ts": 1791441000,
+      "datetime": "20261008T063647Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T063647Z.gif"
+    },
+    {
+      "ts": 1791442800,
+      "datetime": "20261008T070543Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T070543Z.gif"
+    },
+    {
+      "ts": 1791444600,
+      "datetime": "20261008T073741Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T073741Z.gif"
+    },
+    {
+      "ts": 1791446400,
+      "datetime": "20261008T080520Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T080520Z.gif"
+    },
+    {
+      "ts": 1791448200,
+      "datetime": "20261008T083635Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T083635Z.gif"
+    },
+    {
+      "ts": 1791450000,
+      "datetime": "20261008T090616Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T090616Z.gif"
+    },
+    {
+      "ts": 1791451800,
+      "datetime": "20261008T093744Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T093744Z.gif"
+    },
+    {
+      "ts": 1791453600,
+      "datetime": "20261008T101040Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T101040Z.gif"
+    },
+    {
+      "ts": 1791455400,
+      "datetime": "20261008T103734Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T103734Z.gif"
+    },
+    {
+      "ts": 1791457200,
+      "datetime": "20261008T110913Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T110913Z.gif"
+    },
+    {
+      "ts": 1791459000,
+      "datetime": "20261008T113724Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T113724Z.gif"
+    },
+    {
+      "ts": 1791460800,
+      "datetime": "20261008T121114Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T121114Z.gif"
+    },
+    {
+      "ts": 1791462600,
+      "datetime": "20261008T123658Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T123658Z.gif"
+    },
+    {
+      "ts": 1791465300,
+      "datetime": "20261008T132451Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T132451Z.gif"
+    },
+    {
+      "ts": 1791466200,
+      "datetime": "20261008T133816Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T133816Z.gif"
+    },
+    {
+      "ts": 1791468000,
+      "datetime": "20261008T140920Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T140920Z.gif"
+    },
+    {
+      "ts": 1791473400,
+      "datetime": "20261008T153751Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T153751Z.gif"
+    },
+    {
+      "ts": 1791474300,
+      "datetime": "20261008T155021Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T155021Z.gif"
+    },
+    {
+      "ts": 1791475200,
+      "datetime": "20261008T160850Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T160850Z.gif"
+    },
+    {
+      "ts": 1791477000,
+      "datetime": "20261008T163808Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T163808Z.gif"
+    },
+    {
+      "ts": 1791480600,
+      "datetime": "20261008T174340Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T174340Z.gif"
+    },
+    {
+      "ts": 1791481500,
+      "datetime": "20261008T175523Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T175523Z.gif"
+    },
+    {
+      "ts": 1791482400,
+      "datetime": "20261008T181013Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T181013Z.gif"
+    },
+    {
+      "ts": 1791484200,
+      "datetime": "20261008T183756Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T183756Z.gif"
+    },
+    {
+      "ts": 1791486000,
+      "datetime": "20261008T190808Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T190808Z.gif"
+    },
+    {
+      "ts": 1791487800,
+      "datetime": "20261008T194013Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261008/gif/20261008T194013Z.gif"
+    },
+    {
+      "ts": 1791489600,
+      "datetime": "20261008T201624Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T201624Z.gif"
+    },
+    {
+      "ts": 1791492300,
+      "datetime": "20261008T205607Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T205607Z.gif"
+    },
+    {
+      "ts": 1791493200,
+      "datetime": "20261008T210855Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T210855Z.gif"
+    },
+    {
+      "ts": 1791495000,
+      "datetime": "20261008T213915Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T213915Z.gif"
+    },
+    {
+      "ts": 1791496800,
+      "datetime": "20261008T221041Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T221041Z.gif"
+    },
+    {
+      "ts": 1791498600,
+      "datetime": "20261008T223840Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T223840Z.gif"
+    },
+    {
+      "ts": 1791500400,
+      "datetime": "20261008T230848Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T230848Z.gif"
+    },
+    {
+      "ts": 1791502200,
+      "datetime": "20261008T233858Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261008T233858Z.gif"
+    },
+    {
+      "ts": 1791504000,
+      "datetime": "20261009T000514Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T000514Z.gif"
+    },
+    {
+      "ts": 1791505800,
+      "datetime": "20261009T003428Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T003428Z.gif"
+    },
+    {
+      "ts": 1791507600,
+      "datetime": "20261009T010646Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T010646Z.gif"
+    },
+    {
+      "ts": 1791509400,
+      "datetime": "20261009T013717Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T013717Z.gif"
+    },
+    {
+      "ts": 1791511200,
+      "datetime": "20261009T020622Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T020622Z.gif"
+    },
+    {
+      "ts": 1791513000,
+      "datetime": "20261009T023559Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T023559Z.gif"
+    },
+    {
+      "ts": 1791514800,
+      "datetime": "20261009T030712Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T030712Z.gif"
+    },
+    {
+      "ts": 1791516600,
+      "datetime": "20261009T033640Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T033640Z.gif"
+    },
+    {
+      "ts": 1791518400,
+      "datetime": "20261009T040553Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T040553Z.gif"
+    },
+    {
+      "ts": 1791520200,
+      "datetime": "20261009T043745Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T043745Z.gif"
+    },
+    {
+      "ts": 1791522000,
+      "datetime": "20261009T050734Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T050734Z.gif"
+    },
+    {
+      "ts": 1791523800,
+      "datetime": "20261009T053638Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T053638Z.gif"
+    },
+    {
+      "ts": 1791525600,
+      "datetime": "20261009T060700Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T060700Z.gif"
+    },
+    {
+      "ts": 1791527400,
+      "datetime": "20261009T063740Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T063740Z.gif"
+    },
+    {
+      "ts": 1791529200,
+      "datetime": "20261009T070655Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T070655Z.gif"
+    },
+    {
+      "ts": 1791531000,
+      "datetime": "20261009T073638Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T073638Z.gif"
+    },
+    {
+      "ts": 1791532800,
+      "datetime": "20261009T080800Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T080800Z.gif"
+    },
+    {
+      "ts": 1791534600,
+      "datetime": "20261009T083621Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T083621Z.gif"
+    },
+    {
+      "ts": 1791536400,
+      "datetime": "20261009T090853Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T090853Z.gif"
+    },
+    {
+      "ts": 1791538200,
+      "datetime": "20261009T093731Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T093731Z.gif"
+    },
+    {
+      "ts": 1791540000,
+      "datetime": "20261009T100847Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T100847Z.gif"
+    },
+    {
+      "ts": 1791541800,
+      "datetime": "20261009T104435Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T104435Z.gif"
+    },
+    {
+      "ts": 1791543600,
+      "datetime": "20261009T110700Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T110700Z.gif"
+    },
+    {
+      "ts": 1791545400,
+      "datetime": "20261009T113739Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T113739Z.gif"
+    },
+    {
+      "ts": 1791547200,
+      "datetime": "20261009T120806Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T120806Z.gif"
+    },
+    {
+      "ts": 1791549000,
+      "datetime": "20261009T123833Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T123833Z.gif"
+    },
+    {
+      "ts": 1791550800,
+      "datetime": "20261009T131057Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T131057Z.gif"
+    },
+    {
+      "ts": 1791552600,
+      "datetime": "20261009T133832Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T133832Z.gif"
+    },
+    {
+      "ts": 1791554400,
+      "datetime": "20261009T140941Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T140941Z.gif"
+    },
+    {
+      "ts": 1791557100,
+      "datetime": "20261009T144850Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T144850Z.gif"
+    },
+    {
+      "ts": 1791558000,
+      "datetime": "20261009T150938Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T150938Z.gif"
+    },
+    {
+      "ts": 1791559800,
+      "datetime": "20261009T153902Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T153902Z.gif"
+    },
+    {
+      "ts": 1791561600,
+      "datetime": "20261009T160913Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T160913Z.gif"
+    },
+    {
+      "ts": 1791563400,
+      "datetime": "20261009T163958Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T163958Z.gif"
+    },
+    {
+      "ts": 1791565200,
+      "datetime": "20261009T171048Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T171048Z.gif"
+    },
+    {
+      "ts": 1791567000,
+      "datetime": "20261009T173530Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T173530Z.gif"
+    },
+    {
+      "ts": 1791568800,
+      "datetime": "20261009T180503Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T180503Z.gif"
+    },
+    {
+      "ts": 1791570600,
+      "datetime": "20261009T183543Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T183543Z.gif"
+    },
+    {
+      "ts": 1791572400,
+      "datetime": "20261009T190546Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T190546Z.gif"
+    },
+    {
+      "ts": 1791574200,
+      "datetime": "20261009T193653Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261009/gif/20261009T193653Z.gif"
+    },
+    {
+      "ts": 1791576000,
+      "datetime": "20261009T200855Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T200855Z.gif"
+    },
+    {
+      "ts": 1791577800,
+      "datetime": "20261009T204456Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T204456Z.gif"
+    },
+    {
+      "ts": 1791579600,
+      "datetime": "20261009T210826Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T210826Z.gif"
+    },
+    {
+      "ts": 1791581400,
+      "datetime": "20261009T213710Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T213710Z.gif"
+    },
+    {
+      "ts": 1791584100,
+      "datetime": "20261009T221939Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T221939Z.gif"
+    },
+    {
+      "ts": 1791585000,
+      "datetime": "20261009T223723Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T223723Z.gif"
+    },
+    {
+      "ts": 1791586800,
+      "datetime": "20261009T231001Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T231001Z.gif"
+    },
+    {
+      "ts": 1791588600,
+      "datetime": "20261009T233856Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261009T233856Z.gif"
+    },
+    {
+      "ts": 1791590400,
+      "datetime": "20261010T000912Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T000912Z.gif"
+    },
+    {
+      "ts": 1791592200,
+      "datetime": "20261010T003815Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T003815Z.gif"
+    },
+    {
+      "ts": 1791594000,
+      "datetime": "20261010T010703Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T010703Z.gif"
+    },
+    {
+      "ts": 1791595800,
+      "datetime": "20261010T013739Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T013739Z.gif"
+    },
+    {
+      "ts": 1791597600,
+      "datetime": "20261010T021629Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T021629Z.gif"
+    },
+    {
+      "ts": 1791599400,
+      "datetime": "20261010T023842Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T023842Z.gif"
+    },
+    {
+      "ts": 1791601200,
+      "datetime": "20261010T030909Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T030909Z.gif"
+    },
+    {
+      "ts": 1791603000,
+      "datetime": "20261010T033753Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T033753Z.gif"
+    },
+    {
+      "ts": 1791604800,
+      "datetime": "20261010T040739Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T040739Z.gif"
+    },
+    {
+      "ts": 1791606600,
+      "datetime": "20261010T043848Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T043848Z.gif"
+    },
+    {
+      "ts": 1791608400,
+      "datetime": "20261010T050815Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T050815Z.gif"
+    },
+    {
+      "ts": 1791610200,
+      "datetime": "20261010T053809Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T053809Z.gif"
+    },
+    {
+      "ts": 1791612000,
+      "datetime": "20261010T060900Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T060900Z.gif"
+    },
+    {
+      "ts": 1791613800,
+      "datetime": "20261010T063829Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T063829Z.gif"
+    },
+    {
+      "ts": 1791615600,
+      "datetime": "20261010T071220Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T071220Z.gif"
+    },
+    {
+      "ts": 1791617400,
+      "datetime": "20261010T073933Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T073933Z.gif"
+    },
+    {
+      "ts": 1791619200,
+      "datetime": "20261010T080903Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T080903Z.gif"
+    },
+    {
+      "ts": 1791621000,
+      "datetime": "20261010T083957Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T083957Z.gif"
+    },
+    {
+      "ts": 1791622800,
+      "datetime": "20261010T091232Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T091232Z.gif"
+    },
+    {
+      "ts": 1791624600,
+      "datetime": "20261010T093957Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T093957Z.gif"
+    },
+    {
+      "ts": 1791626400,
+      "datetime": "20261010T100835Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T100835Z.gif"
+    },
+    {
+      "ts": 1791628200,
+      "datetime": "20261010T103911Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T103911Z.gif"
+    },
+    {
+      "ts": 1791630000,
+      "datetime": "20261010T110524Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T110524Z.gif"
+    },
+    {
+      "ts": 1791631800,
+      "datetime": "20261010T113733Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T113733Z.gif"
+    },
+    {
+      "ts": 1791633600,
+      "datetime": "20261010T120646Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T120646Z.gif"
+    },
+    {
+      "ts": 1791635400,
+      "datetime": "20261010T123555Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T123555Z.gif"
+    },
+    {
+      "ts": 1791637200,
+      "datetime": "20261010T130656Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T130656Z.gif"
+    },
+    {
+      "ts": 1791639000,
+      "datetime": "20261010T133604Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T133604Z.gif"
+    },
+    {
+      "ts": 1791640800,
+      "datetime": "20261010T140751Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T140751Z.gif"
+    },
+    {
+      "ts": 1791642600,
+      "datetime": "20261010T143738Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T143738Z.gif"
+    },
+    {
+      "ts": 1791644400,
+      "datetime": "20261010T150734Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T150734Z.gif"
+    },
+    {
+      "ts": 1791646200,
+      "datetime": "20261010T153701Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T153701Z.gif"
+    },
+    {
+      "ts": 1791648000,
+      "datetime": "20261010T160720Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T160720Z.gif"
+    },
+    {
+      "ts": 1791649800,
+      "datetime": "20261010T163837Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T163837Z.gif"
+    },
+    {
+      "ts": 1791651600,
+      "datetime": "20261010T171131Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T171131Z.gif"
+    },
+    {
+      "ts": 1791653400,
+      "datetime": "20261010T173720Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T173720Z.gif"
+    },
+    {
+      "ts": 1791655200,
+      "datetime": "20261010T180844Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T180844Z.gif"
+    },
+    {
+      "ts": 1791657000,
+      "datetime": "20261010T183836Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T183836Z.gif"
+    },
+    {
+      "ts": 1791658800,
+      "datetime": "20261010T190849Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T190849Z.gif"
+    },
+    {
+      "ts": 1791660600,
+      "datetime": "20261010T193813Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261010/gif/20261010T193813Z.gif"
+    },
+    {
+      "ts": 1791662400,
+      "datetime": "20261010T201308Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T201308Z.gif"
+    },
+    {
+      "ts": 1791664200,
+      "datetime": "20261010T203834Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T203834Z.gif"
+    },
+    {
+      "ts": 1791666000,
+      "datetime": "20261010T210834Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T210834Z.gif"
+    },
+    {
+      "ts": 1791667800,
+      "datetime": "20261010T213828Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T213828Z.gif"
+    },
+    {
+      "ts": 1791669600,
+      "datetime": "20261010T220857Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T220857Z.gif"
+    },
+    {
+      "ts": 1791671400,
+      "datetime": "20261010T223835Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T223835Z.gif"
+    },
+    {
+      "ts": 1791673200,
+      "datetime": "20261010T231003Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T231003Z.gif"
+    },
+    {
+      "ts": 1791675000,
+      "datetime": "20261010T233904Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261010T233904Z.gif"
+    },
+    {
+      "ts": 1791676800,
+      "datetime": "20261011T000947Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T000947Z.gif"
+    },
+    {
+      "ts": 1791678600,
+      "datetime": "20261011T003831Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T003831Z.gif"
+    },
+    {
+      "ts": 1791680400,
+      "datetime": "20261011T010931Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T010931Z.gif"
+    },
+    {
+      "ts": 1791682200,
+      "datetime": "20261011T013924Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T013924Z.gif"
+    },
+    {
+      "ts": 1791684000,
+      "datetime": "20261011T021002Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T021002Z.gif"
+    },
+    {
+      "ts": 1791685800,
+      "datetime": "20261011T023949Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T023949Z.gif"
+    },
+    {
+      "ts": 1791687600,
+      "datetime": "20261011T031009Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dubai/OMDB/20261011/gif/20261011T031009Z.gif"
+    }
+  ]
+}

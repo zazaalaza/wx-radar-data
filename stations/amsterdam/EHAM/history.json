@@ -1,0 +1,929 @@
+{
+  "icao": "EHAM",
+  "captures": [
+    {
+      "ts": 1791411300,
+      "datetime": "20261007T222255Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261007T222255Z.gif"
+    },
+    {
+      "ts": 1791412200,
+      "datetime": "20261007T223800Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261007T223800Z.gif"
+    },
+    {
+      "ts": 1791414000,
+      "datetime": "20261007T231246Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261007T231246Z.gif"
+    },
+    {
+      "ts": 1791415800,
+      "datetime": "20261007T234104Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261007T234104Z.gif"
+    },
+    {
+      "ts": 1791417600,
+      "datetime": "20261008T000945Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T000945Z.gif"
+    },
+    {
+      "ts": 1791419400,
+      "datetime": "20261008T004048Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T004048Z.gif"
+    },
+    {
+      "ts": 1791421200,
+      "datetime": "20261008T010946Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T010946Z.gif"
+    },
+    {
+      "ts": 1791423000,
+      "datetime": "20261008T013936Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T013936Z.gif"
+    },
+    {
+      "ts": 1791424800,
+      "datetime": "20261008T021033Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T021033Z.gif"
+    },
+    {
+      "ts": 1791426600,
+      "datetime": "20261008T023937Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T023937Z.gif"
+    },
+    {
+      "ts": 1791428400,
+      "datetime": "20261008T030906Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T030906Z.gif"
+    },
+    {
+      "ts": 1791430200,
+      "datetime": "20261008T033917Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T033917Z.gif"
+    },
+    {
+      "ts": 1791432000,
+      "datetime": "20261008T041054Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T041054Z.gif"
+    },
+    {
+      "ts": 1791433800,
+      "datetime": "20261008T043828Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T043828Z.gif"
+    },
+    {
+      "ts": 1791435600,
+      "datetime": "20261008T050653Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T050653Z.gif"
+    },
+    {
+      "ts": 1791437400,
+      "datetime": "20261008T053514Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T053514Z.gif"
+    },
+    {
+      "ts": 1791439200,
+      "datetime": "20261008T060530Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T060530Z.gif"
+    },
+    {
+      "ts": 1791441000,
+      "datetime": "20261008T063726Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T063726Z.gif"
+    },
+    {
+      "ts": 1791442800,
+      "datetime": "20261008T070605Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T070605Z.gif"
+    },
+    {
+      "ts": 1791444600,
+      "datetime": "20261008T073823Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T073823Z.gif"
+    },
+    {
+      "ts": 1791446400,
+      "datetime": "20261008T080540Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T080540Z.gif"
+    },
+    {
+      "ts": 1791448200,
+      "datetime": "20261008T083720Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T083720Z.gif"
+    },
+    {
+      "ts": 1791450000,
+      "datetime": "20261008T090634Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T090634Z.gif"
+    },
+    {
+      "ts": 1791451800,
+      "datetime": "20261008T093825Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T093825Z.gif"
+    },
+    {
+      "ts": 1791453600,
+      "datetime": "20261008T101122Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T101122Z.gif"
+    },
+    {
+      "ts": 1791455400,
+      "datetime": "20261008T103752Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T103752Z.gif"
+    },
+    {
+      "ts": 1791457200,
+      "datetime": "20261008T110956Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T110956Z.gif"
+    },
+    {
+      "ts": 1791459000,
+      "datetime": "20261008T113805Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T113805Z.gif"
+    },
+    {
+      "ts": 1791460800,
+      "datetime": "20261008T121155Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T121155Z.gif"
+    },
+    {
+      "ts": 1791462600,
+      "datetime": "20261008T123718Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T123718Z.gif"
+    },
+    {
+      "ts": 1791465300,
+      "datetime": "20261008T132529Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T132529Z.gif"
+    },
+    {
+      "ts": 1791466200,
+      "datetime": "20261008T133857Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T133857Z.gif"
+    },
+    {
+      "ts": 1791468000,
+      "datetime": "20261008T140940Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T140940Z.gif"
+    },
+    {
+      "ts": 1791473400,
+      "datetime": "20261008T153831Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T153831Z.gif"
+    },
+    {
+      "ts": 1791474300,
+      "datetime": "20261008T155039Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T155039Z.gif"
+    },
+    {
+      "ts": 1791475200,
+      "datetime": "20261008T160911Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T160911Z.gif"
+    },
+    {
+      "ts": 1791477000,
+      "datetime": "20261008T163827Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T163827Z.gif"
+    },
+    {
+      "ts": 1791480600,
+      "datetime": "20261008T174401Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T174401Z.gif"
+    },
+    {
+      "ts": 1791481500,
+      "datetime": "20261008T175604Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T175604Z.gif"
+    },
+    {
+      "ts": 1791482400,
+      "datetime": "20261008T181055Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T181055Z.gif"
+    },
+    {
+      "ts": 1791484200,
+      "datetime": "20261008T183815Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T183815Z.gif"
+    },
+    {
+      "ts": 1791486000,
+      "datetime": "20261008T190827Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T190827Z.gif"
+    },
+    {
+      "ts": 1791487800,
+      "datetime": "20261008T194054Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T194054Z.gif"
+    },
+    {
+      "ts": 1791489600,
+      "datetime": "20261008T201644Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T201644Z.gif"
+    },
+    {
+      "ts": 1791492300,
+      "datetime": "20261008T205628Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T205628Z.gif"
+    },
+    {
+      "ts": 1791493200,
+      "datetime": "20261008T210918Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T210918Z.gif"
+    },
+    {
+      "ts": 1791495000,
+      "datetime": "20261008T213933Z",
+      "date": "20261008",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261008/gif/20261008T213933Z.gif"
+    },
+    {
+      "ts": 1791496800,
+      "datetime": "20261008T221123Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261008T221123Z.gif"
+    },
+    {
+      "ts": 1791498600,
+      "datetime": "20261008T223901Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261008T223901Z.gif"
+    },
+    {
+      "ts": 1791500400,
+      "datetime": "20261008T230908Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261008T230908Z.gif"
+    },
+    {
+      "ts": 1791502200,
+      "datetime": "20261008T233919Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261008T233919Z.gif"
+    },
+    {
+      "ts": 1791504000,
+      "datetime": "20261009T000557Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T000557Z.gif"
+    },
+    {
+      "ts": 1791505800,
+      "datetime": "20261009T003453Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T003453Z.gif"
+    },
+    {
+      "ts": 1791507600,
+      "datetime": "20261009T010725Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T010725Z.gif"
+    },
+    {
+      "ts": 1791509400,
+      "datetime": "20261009T013756Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T013756Z.gif"
+    },
+    {
+      "ts": 1791511200,
+      "datetime": "20261009T020704Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T020704Z.gif"
+    },
+    {
+      "ts": 1791513000,
+      "datetime": "20261009T023638Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T023638Z.gif"
+    },
+    {
+      "ts": 1791514800,
+      "datetime": "20261009T030751Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T030751Z.gif"
+    },
+    {
+      "ts": 1791516600,
+      "datetime": "20261009T033719Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T033719Z.gif"
+    },
+    {
+      "ts": 1791518400,
+      "datetime": "20261009T040615Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T040615Z.gif"
+    },
+    {
+      "ts": 1791520200,
+      "datetime": "20261009T043825Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T043825Z.gif"
+    },
+    {
+      "ts": 1791522000,
+      "datetime": "20261009T050817Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T050817Z.gif"
+    },
+    {
+      "ts": 1791523800,
+      "datetime": "20261009T053659Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T053659Z.gif"
+    },
+    {
+      "ts": 1791525600,
+      "datetime": "20261009T060717Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T060717Z.gif"
+    },
+    {
+      "ts": 1791527400,
+      "datetime": "20261009T063822Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T063822Z.gif"
+    },
+    {
+      "ts": 1791529200,
+      "datetime": "20261009T070714Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T070714Z.gif"
+    },
+    {
+      "ts": 1791531000,
+      "datetime": "20261009T073659Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T073659Z.gif"
+    },
+    {
+      "ts": 1791532800,
+      "datetime": "20261009T080840Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T080840Z.gif"
+    },
+    {
+      "ts": 1791534600,
+      "datetime": "20261009T083641Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T083641Z.gif"
+    },
+    {
+      "ts": 1791536400,
+      "datetime": "20261009T090930Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T090930Z.gif"
+    },
+    {
+      "ts": 1791538200,
+      "datetime": "20261009T093747Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T093747Z.gif"
+    },
+    {
+      "ts": 1791540000,
+      "datetime": "20261009T100908Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T100908Z.gif"
+    },
+    {
+      "ts": 1791541800,
+      "datetime": "20261009T104455Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T104455Z.gif"
+    },
+    {
+      "ts": 1791543600,
+      "datetime": "20261009T110718Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T110718Z.gif"
+    },
+    {
+      "ts": 1791545400,
+      "datetime": "20261009T113757Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T113757Z.gif"
+    },
+    {
+      "ts": 1791547200,
+      "datetime": "20261009T120823Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T120823Z.gif"
+    },
+    {
+      "ts": 1791549000,
+      "datetime": "20261009T123851Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T123851Z.gif"
+    },
+    {
+      "ts": 1791550800,
+      "datetime": "20261009T131133Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T131133Z.gif"
+    },
+    {
+      "ts": 1791552600,
+      "datetime": "20261009T133850Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T133850Z.gif"
+    },
+    {
+      "ts": 1791554400,
+      "datetime": "20261009T141019Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T141019Z.gif"
+    },
+    {
+      "ts": 1791557100,
+      "datetime": "20261009T144926Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T144926Z.gif"
+    },
+    {
+      "ts": 1791558000,
+      "datetime": "20261009T150957Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T150957Z.gif"
+    },
+    {
+      "ts": 1791559800,
+      "datetime": "20261009T153924Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T153924Z.gif"
+    },
+    {
+      "ts": 1791561600,
+      "datetime": "20261009T160931Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T160931Z.gif"
+    },
+    {
+      "ts": 1791563400,
+      "datetime": "20261009T164037Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T164037Z.gif"
+    },
+    {
+      "ts": 1791565200,
+      "datetime": "20261009T171129Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T171129Z.gif"
+    },
+    {
+      "ts": 1791567000,
+      "datetime": "20261009T173551Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T173551Z.gif"
+    },
+    {
+      "ts": 1791568800,
+      "datetime": "20261009T180523Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T180523Z.gif"
+    },
+    {
+      "ts": 1791570600,
+      "datetime": "20261009T183604Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T183604Z.gif"
+    },
+    {
+      "ts": 1791572400,
+      "datetime": "20261009T190603Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T190603Z.gif"
+    },
+    {
+      "ts": 1791574200,
+      "datetime": "20261009T193734Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T193734Z.gif"
+    },
+    {
+      "ts": 1791576000,
+      "datetime": "20261009T200935Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T200935Z.gif"
+    },
+    {
+      "ts": 1791577800,
+      "datetime": "20261009T204523Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T204523Z.gif"
+    },
+    {
+      "ts": 1791579600,
+      "datetime": "20261009T210908Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T210908Z.gif"
+    },
+    {
+      "ts": 1791581400,
+      "datetime": "20261009T213754Z",
+      "date": "20261009",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261009/gif/20261009T213754Z.gif"
+    },
+    {
+      "ts": 1791584100,
+      "datetime": "20261009T222029Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261009T222029Z.gif"
+    },
+    {
+      "ts": 1791585000,
+      "datetime": "20261009T223758Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261009T223758Z.gif"
+    },
+    {
+      "ts": 1791586800,
+      "datetime": "20261009T231041Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261009T231041Z.gif"
+    },
+    {
+      "ts": 1791588600,
+      "datetime": "20261009T233936Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261009T233936Z.gif"
+    },
+    {
+      "ts": 1791590400,
+      "datetime": "20261010T000951Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T000951Z.gif"
+    },
+    {
+      "ts": 1791592200,
+      "datetime": "20261010T003837Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T003837Z.gif"
+    },
+    {
+      "ts": 1791594000,
+      "datetime": "20261010T010726Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T010726Z.gif"
+    },
+    {
+      "ts": 1791595800,
+      "datetime": "20261010T013803Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T013803Z.gif"
+    },
+    {
+      "ts": 1791597600,
+      "datetime": "20261010T021654Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T021654Z.gif"
+    },
+    {
+      "ts": 1791599400,
+      "datetime": "20261010T023924Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T023924Z.gif"
+    },
+    {
+      "ts": 1791601200,
+      "datetime": "20261010T030934Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T030934Z.gif"
+    },
+    {
+      "ts": 1791603000,
+      "datetime": "20261010T033816Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T033816Z.gif"
+    },
+    {
+      "ts": 1791604800,
+      "datetime": "20261010T040804Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T040804Z.gif"
+    },
+    {
+      "ts": 1791606600,
+      "datetime": "20261010T043932Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T043932Z.gif"
+    },
+    {
+      "ts": 1791608400,
+      "datetime": "20261010T050832Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T050832Z.gif"
+    },
+    {
+      "ts": 1791610200,
+      "datetime": "20261010T053828Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T053828Z.gif"
+    },
+    {
+      "ts": 1791612000,
+      "datetime": "20261010T060919Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T060919Z.gif"
+    },
+    {
+      "ts": 1791613800,
+      "datetime": "20261010T063847Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T063847Z.gif"
+    },
+    {
+      "ts": 1791615600,
+      "datetime": "20261010T071240Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T071240Z.gif"
+    },
+    {
+      "ts": 1791617400,
+      "datetime": "20261010T074015Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T074015Z.gif"
+    },
+    {
+      "ts": 1791619200,
+      "datetime": "20261010T080919Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T080919Z.gif"
+    },
+    {
+      "ts": 1791621000,
+      "datetime": "20261010T084038Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T084038Z.gif"
+    },
+    {
+      "ts": 1791622800,
+      "datetime": "20261010T091310Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T091310Z.gif"
+    },
+    {
+      "ts": 1791624600,
+      "datetime": "20261010T094035Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T094035Z.gif"
+    },
+    {
+      "ts": 1791626400,
+      "datetime": "20261010T100855Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T100855Z.gif"
+    },
+    {
+      "ts": 1791628200,
+      "datetime": "20261010T103931Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T103931Z.gif"
+    },
+    {
+      "ts": 1791630000,
+      "datetime": "20261010T110544Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T110544Z.gif"
+    },
+    {
+      "ts": 1791631800,
+      "datetime": "20261010T113813Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T113813Z.gif"
+    },
+    {
+      "ts": 1791633600,
+      "datetime": "20261010T120726Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T120726Z.gif"
+    },
+    {
+      "ts": 1791635400,
+      "datetime": "20261010T123612Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T123612Z.gif"
+    },
+    {
+      "ts": 1791637200,
+      "datetime": "20261010T130713Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T130713Z.gif"
+    },
+    {
+      "ts": 1791639000,
+      "datetime": "20261010T133621Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T133621Z.gif"
+    },
+    {
+      "ts": 1791640800,
+      "datetime": "20261010T140827Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T140827Z.gif"
+    },
+    {
+      "ts": 1791642600,
+      "datetime": "20261010T143815Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T143815Z.gif"
+    },
+    {
+      "ts": 1791644400,
+      "datetime": "20261010T150752Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T150752Z.gif"
+    },
+    {
+      "ts": 1791646200,
+      "datetime": "20261010T153718Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T153718Z.gif"
+    },
+    {
+      "ts": 1791648000,
+      "datetime": "20261010T160736Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T160736Z.gif"
+    },
+    {
+      "ts": 1791649800,
+      "datetime": "20261010T163914Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T163914Z.gif"
+    },
+    {
+      "ts": 1791651600,
+      "datetime": "20261010T171207Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T171207Z.gif"
+    },
+    {
+      "ts": 1791653400,
+      "datetime": "20261010T173738Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T173738Z.gif"
+    },
+    {
+      "ts": 1791655200,
+      "datetime": "20261010T180921Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T180921Z.gif"
+    },
+    {
+      "ts": 1791657000,
+      "datetime": "20261010T183914Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T183914Z.gif"
+    },
+    {
+      "ts": 1791658800,
+      "datetime": "20261010T190908Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T190908Z.gif"
+    },
+    {
+      "ts": 1791660600,
+      "datetime": "20261010T193831Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T193831Z.gif"
+    },
+    {
+      "ts": 1791662400,
+      "datetime": "20261010T201344Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T201344Z.gif"
+    },
+    {
+      "ts": 1791664200,
+      "datetime": "20261010T203912Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T203912Z.gif"
+    },
+    {
+      "ts": 1791666000,
+      "datetime": "20261010T210852Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T210852Z.gif"
+    },
+    {
+      "ts": 1791667800,
+      "datetime": "20261010T213849Z",
+      "date": "20261010",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261010/gif/20261010T213849Z.gif"
+    },
+    {
+      "ts": 1791669600,
+      "datetime": "20261010T220915Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261010T220915Z.gif"
+    },
+    {
+      "ts": 1791671400,
+      "datetime": "20261010T223855Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261010T223855Z.gif"
+    },
+    {
+      "ts": 1791673200,
+      "datetime": "20261010T231042Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261010T231042Z.gif"
+    },
+    {
+      "ts": 1791675000,
+      "datetime": "20261010T233923Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261010T233923Z.gif"
+    },
+    {
+      "ts": 1791676800,
+      "datetime": "20261011T001027Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T001027Z.gif"
+    },
+    {
+      "ts": 1791678600,
+      "datetime": "20261011T003854Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T003854Z.gif"
+    },
+    {
+      "ts": 1791680400,
+      "datetime": "20261011T010953Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T010953Z.gif"
+    },
+    {
+      "ts": 1791682200,
+      "datetime": "20261011T013942Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T013942Z.gif"
+    },
+    {
+      "ts": 1791684000,
+      "datetime": "20261011T021024Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T021024Z.gif"
+    },
+    {
+      "ts": 1791685800,
+      "datetime": "20261011T024010Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T024010Z.gif"
+    },
+    {
+      "ts": 1791687600,
+      "datetime": "20261011T031027Z",
+      "date": "20261011",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/amsterdam/EHAM/20261011/gif/20261011T031027Z.gif"
+    }
+  ]
+}
