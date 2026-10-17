@@ -1,0 +1,959 @@
+{
+  "icao": "RKSI",
+  "captures": [
+    {
+      "ts": 1791990000,
+      "datetime": "20261014T151428Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T151428Z.gif"
+    },
+    {
+      "ts": 1791991800,
+      "datetime": "20261014T154207Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T154207Z.gif"
+    },
+    {
+      "ts": 1791994500,
+      "datetime": "20261014T161726Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T161726Z.gif"
+    },
+    {
+      "ts": 1791995400,
+      "datetime": "20261014T164136Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T164136Z.gif"
+    },
+    {
+      "ts": 1791997200,
+      "datetime": "20261014T171125Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T171125Z.gif"
+    },
+    {
+      "ts": 1791999000,
+      "datetime": "20261014T174305Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T174305Z.gif"
+    },
+    {
+      "ts": 1792000800,
+      "datetime": "20261014T181152Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T181152Z.gif"
+    },
+    {
+      "ts": 1792002600,
+      "datetime": "20261014T184158Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T184158Z.gif"
+    },
+    {
+      "ts": 1792004400,
+      "datetime": "20261014T191237Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T191237Z.gif"
+    },
+    {
+      "ts": 1792006200,
+      "datetime": "20261014T193754Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T193754Z.gif"
+    },
+    {
+      "ts": 1792008000,
+      "datetime": "20261014T200632Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T200632Z.gif"
+    },
+    {
+      "ts": 1792009800,
+      "datetime": "20261014T203625Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T203625Z.gif"
+    },
+    {
+      "ts": 1792011600,
+      "datetime": "20261014T211418Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T211418Z.gif"
+    },
+    {
+      "ts": 1792015200,
+      "datetime": "20261014T220650Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T220650Z.gif"
+    },
+    {
+      "ts": 1792017000,
+      "datetime": "20261014T223647Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T223647Z.gif"
+    },
+    {
+      "ts": 1792018800,
+      "datetime": "20261014T230748Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T230748Z.gif"
+    },
+    {
+      "ts": 1792020600,
+      "datetime": "20261014T234148Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261014T234148Z.gif"
+    },
+    {
+      "ts": 1792022400,
+      "datetime": "20261015T000730Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T000730Z.gif"
+    },
+    {
+      "ts": 1792024200,
+      "datetime": "20261015T003943Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T003943Z.gif"
+    },
+    {
+      "ts": 1792026000,
+      "datetime": "20261015T010753Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T010753Z.gif"
+    },
+    {
+      "ts": 1792027800,
+      "datetime": "20261015T013905Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T013905Z.gif"
+    },
+    {
+      "ts": 1792029600,
+      "datetime": "20261015T021204Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T021204Z.gif"
+    },
+    {
+      "ts": 1792031400,
+      "datetime": "20261015T023743Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T023743Z.gif"
+    },
+    {
+      "ts": 1792033200,
+      "datetime": "20261015T030741Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T030741Z.gif"
+    },
+    {
+      "ts": 1792035000,
+      "datetime": "20261015T033831Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T033831Z.gif"
+    },
+    {
+      "ts": 1792036800,
+      "datetime": "20261015T040910Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T040910Z.gif"
+    },
+    {
+      "ts": 1792038600,
+      "datetime": "20261015T043915Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T043915Z.gif"
+    },
+    {
+      "ts": 1792040400,
+      "datetime": "20261015T050936Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T050936Z.gif"
+    },
+    {
+      "ts": 1792042200,
+      "datetime": "20261015T053851Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T053851Z.gif"
+    },
+    {
+      "ts": 1792044000,
+      "datetime": "20261015T060941Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T060941Z.gif"
+    },
+    {
+      "ts": 1792045800,
+      "datetime": "20261015T063924Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T063924Z.gif"
+    },
+    {
+      "ts": 1792047600,
+      "datetime": "20261015T071038Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T071038Z.gif"
+    },
+    {
+      "ts": 1792049400,
+      "datetime": "20261015T073934Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T073934Z.gif"
+    },
+    {
+      "ts": 1792051200,
+      "datetime": "20261015T081147Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T081147Z.gif"
+    },
+    {
+      "ts": 1792053000,
+      "datetime": "20261015T084324Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T084324Z.gif"
+    },
+    {
+      "ts": 1792054800,
+      "datetime": "20261015T091023Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T091023Z.gif"
+    },
+    {
+      "ts": 1792057500,
+      "datetime": "20261015T095903Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T095903Z.gif"
+    },
+    {
+      "ts": 1792059300,
+      "datetime": "20261015T101710Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T101710Z.gif"
+    },
+    {
+      "ts": 1792062900,
+      "datetime": "20261015T112559Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T112559Z.gif"
+    },
+    {
+      "ts": 1792063800,
+      "datetime": "20261015T114046Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T114046Z.gif"
+    },
+    {
+      "ts": 1792065600,
+      "datetime": "20261015T121045Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T121045Z.gif"
+    },
+    {
+      "ts": 1792067400,
+      "datetime": "20261015T124127Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T124127Z.gif"
+    },
+    {
+      "ts": 1792070100,
+      "datetime": "20261015T131701Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T131701Z.gif"
+    },
+    {
+      "ts": 1792071000,
+      "datetime": "20261015T134127Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T134127Z.gif"
+    },
+    {
+      "ts": 1792072800,
+      "datetime": "20261015T141200Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T141200Z.gif"
+    },
+    {
+      "ts": 1792074600,
+      "datetime": "20261015T143619Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261015/gif/20261015T143619Z.gif"
+    },
+    {
+      "ts": 1792076400,
+      "datetime": "20261015T150638Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T150638Z.gif"
+    },
+    {
+      "ts": 1792078200,
+      "datetime": "20261015T153702Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T153702Z.gif"
+    },
+    {
+      "ts": 1792080000,
+      "datetime": "20261015T160805Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T160805Z.gif"
+    },
+    {
+      "ts": 1792081800,
+      "datetime": "20261015T163816Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T163816Z.gif"
+    },
+    {
+      "ts": 1792083600,
+      "datetime": "20261015T171058Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T171058Z.gif"
+    },
+    {
+      "ts": 1792085400,
+      "datetime": "20261015T173848Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T173848Z.gif"
+    },
+    {
+      "ts": 1792088100,
+      "datetime": "20261015T181628Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T181628Z.gif"
+    },
+    {
+      "ts": 1792089000,
+      "datetime": "20261015T183751Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T183751Z.gif"
+    },
+    {
+      "ts": 1792090800,
+      "datetime": "20261015T191417Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T191417Z.gif"
+    },
+    {
+      "ts": 1792092600,
+      "datetime": "20261015T193822Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T193822Z.gif"
+    },
+    {
+      "ts": 1792094400,
+      "datetime": "20261015T201005Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T201005Z.gif"
+    },
+    {
+      "ts": 1792096200,
+      "datetime": "20261015T204051Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T204051Z.gif"
+    },
+    {
+      "ts": 1792098000,
+      "datetime": "20261015T210902Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T210902Z.gif"
+    },
+    {
+      "ts": 1792099800,
+      "datetime": "20261015T213855Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T213855Z.gif"
+    },
+    {
+      "ts": 1792101600,
+      "datetime": "20261015T220926Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T220926Z.gif"
+    },
+    {
+      "ts": 1792103400,
+      "datetime": "20261015T223907Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T223907Z.gif"
+    },
+    {
+      "ts": 1792105200,
+      "datetime": "20261015T230911Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T230911Z.gif"
+    },
+    {
+      "ts": 1792107000,
+      "datetime": "20261015T233925Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261015T233925Z.gif"
+    },
+    {
+      "ts": 1792108800,
+      "datetime": "20261016T000855Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T000855Z.gif"
+    },
+    {
+      "ts": 1792110600,
+      "datetime": "20261016T004132Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T004132Z.gif"
+    },
+    {
+      "ts": 1792112400,
+      "datetime": "20261016T011307Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T011307Z.gif"
+    },
+    {
+      "ts": 1792114200,
+      "datetime": "20261016T013933Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T013933Z.gif"
+    },
+    {
+      "ts": 1792116000,
+      "datetime": "20261016T021320Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T021320Z.gif"
+    },
+    {
+      "ts": 1792117800,
+      "datetime": "20261016T024334Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T024334Z.gif"
+    },
+    {
+      "ts": 1792119600,
+      "datetime": "20261016T031046Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T031046Z.gif"
+    },
+    {
+      "ts": 1792121400,
+      "datetime": "20261016T034012Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T034012Z.gif"
+    },
+    {
+      "ts": 1792123200,
+      "datetime": "20261016T041121Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T041121Z.gif"
+    },
+    {
+      "ts": 1792125000,
+      "datetime": "20261016T044228Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T044228Z.gif"
+    },
+    {
+      "ts": 1792126800,
+      "datetime": "20261016T051045Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T051045Z.gif"
+    },
+    {
+      "ts": 1792128600,
+      "datetime": "20261016T054053Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T054053Z.gif"
+    },
+    {
+      "ts": 1792130400,
+      "datetime": "20261016T061312Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T061312Z.gif"
+    },
+    {
+      "ts": 1792132200,
+      "datetime": "20261016T064053Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T064053Z.gif"
+    },
+    {
+      "ts": 1792134000,
+      "datetime": "20261016T071032Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T071032Z.gif"
+    },
+    {
+      "ts": 1792135800,
+      "datetime": "20261016T074137Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T074137Z.gif"
+    },
+    {
+      "ts": 1792137600,
+      "datetime": "20261016T080628Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T080628Z.gif"
+    },
+    {
+      "ts": 1792139400,
+      "datetime": "20261016T083907Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T083907Z.gif"
+    },
+    {
+      "ts": 1792141200,
+      "datetime": "20261016T090648Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T090648Z.gif"
+    },
+    {
+      "ts": 1792143000,
+      "datetime": "20261016T093620Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T093620Z.gif"
+    },
+    {
+      "ts": 1792144800,
+      "datetime": "20261016T100730Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T100730Z.gif"
+    },
+    {
+      "ts": 1792146600,
+      "datetime": "20261016T103653Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T103653Z.gif"
+    },
+    {
+      "ts": 1792148400,
+      "datetime": "20261016T110714Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T110714Z.gif"
+    },
+    {
+      "ts": 1792150200,
+      "datetime": "20261016T113704Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T113704Z.gif"
+    },
+    {
+      "ts": 1792152000,
+      "datetime": "20261016T120746Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T120746Z.gif"
+    },
+    {
+      "ts": 1792153800,
+      "datetime": "20261016T123727Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T123727Z.gif"
+    },
+    {
+      "ts": 1792155600,
+      "datetime": "20261016T130822Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T130822Z.gif"
+    },
+    {
+      "ts": 1792157400,
+      "datetime": "20261016T133942Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T133942Z.gif"
+    },
+    {
+      "ts": 1792159200,
+      "datetime": "20261016T140845Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T140845Z.gif"
+    },
+    {
+      "ts": 1792161000,
+      "datetime": "20261016T143815Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261016/gif/20261016T143815Z.gif"
+    },
+    {
+      "ts": 1792162800,
+      "datetime": "20261016T150902Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T150902Z.gif"
+    },
+    {
+      "ts": 1792164600,
+      "datetime": "20261016T153850Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T153850Z.gif"
+    },
+    {
+      "ts": 1792166400,
+      "datetime": "20261016T160920Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T160920Z.gif"
+    },
+    {
+      "ts": 1792168200,
+      "datetime": "20261016T164258Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T164258Z.gif"
+    },
+    {
+      "ts": 1792170000,
+      "datetime": "20261016T171158Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T171158Z.gif"
+    },
+    {
+      "ts": 1792171800,
+      "datetime": "20261016T173947Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T173947Z.gif"
+    },
+    {
+      "ts": 1792173600,
+      "datetime": "20261016T180953Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T180953Z.gif"
+    },
+    {
+      "ts": 1792175400,
+      "datetime": "20261016T183953Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T183953Z.gif"
+    },
+    {
+      "ts": 1792177200,
+      "datetime": "20261016T191110Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T191110Z.gif"
+    },
+    {
+      "ts": 1792180800,
+      "datetime": "20261016T201319Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T201319Z.gif"
+    },
+    {
+      "ts": 1792182600,
+      "datetime": "20261016T204141Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T204141Z.gif"
+    },
+    {
+      "ts": 1792184400,
+      "datetime": "20261016T211123Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T211123Z.gif"
+    },
+    {
+      "ts": 1792186200,
+      "datetime": "20261016T214155Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T214155Z.gif"
+    },
+    {
+      "ts": 1792188900,
+      "datetime": "20261016T221806Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T221806Z.gif"
+    },
+    {
+      "ts": 1792189800,
+      "datetime": "20261016T224032Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T224032Z.gif"
+    },
+    {
+      "ts": 1792192500,
+      "datetime": "20261016T231625Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T231625Z.gif"
+    },
+    {
+      "ts": 1792193400,
+      "datetime": "20261016T234014Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261016T234014Z.gif"
+    },
+    {
+      "ts": 1792195200,
+      "datetime": "20261017T001114Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T001114Z.gif"
+    },
+    {
+      "ts": 1792197000,
+      "datetime": "20261017T004026Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T004026Z.gif"
+    },
+    {
+      "ts": 1792198800,
+      "datetime": "20261017T011234Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T011234Z.gif"
+    },
+    {
+      "ts": 1792200600,
+      "datetime": "20261017T014058Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T014058Z.gif"
+    },
+    {
+      "ts": 1792202400,
+      "datetime": "20261017T021123Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T021123Z.gif"
+    },
+    {
+      "ts": 1792204200,
+      "datetime": "20261017T023603Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T023603Z.gif"
+    },
+    {
+      "ts": 1792206000,
+      "datetime": "20261017T030629Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T030629Z.gif"
+    },
+    {
+      "ts": 1792207800,
+      "datetime": "20261017T033632Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T033632Z.gif"
+    },
+    {
+      "ts": 1792209600,
+      "datetime": "20261017T040741Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T040741Z.gif"
+    },
+    {
+      "ts": 1792211400,
+      "datetime": "20261017T043558Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T043558Z.gif"
+    },
+    {
+      "ts": 1792213200,
+      "datetime": "20261017T050712Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T050712Z.gif"
+    },
+    {
+      "ts": 1792215000,
+      "datetime": "20261017T053712Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T053712Z.gif"
+    },
+    {
+      "ts": 1792216800,
+      "datetime": "20261017T060739Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T060739Z.gif"
+    },
+    {
+      "ts": 1792218600,
+      "datetime": "20261017T063710Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T063710Z.gif"
+    },
+    {
+      "ts": 1792221300,
+      "datetime": "20261017T071701Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T071701Z.gif"
+    },
+    {
+      "ts": 1792222200,
+      "datetime": "20261017T073736Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T073736Z.gif"
+    },
+    {
+      "ts": 1792224000,
+      "datetime": "20261017T080942Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T080942Z.gif"
+    },
+    {
+      "ts": 1792225800,
+      "datetime": "20261017T083815Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T083815Z.gif"
+    },
+    {
+      "ts": 1792227600,
+      "datetime": "20261017T091019Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T091019Z.gif"
+    },
+    {
+      "ts": 1792229400,
+      "datetime": "20261017T094027Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T094027Z.gif"
+    },
+    {
+      "ts": 1792231200,
+      "datetime": "20261017T100852Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T100852Z.gif"
+    },
+    {
+      "ts": 1792233000,
+      "datetime": "20261017T103900Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T103900Z.gif"
+    },
+    {
+      "ts": 1792234800,
+      "datetime": "20261017T110942Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T110942Z.gif"
+    },
+    {
+      "ts": 1792236600,
+      "datetime": "20261017T114205Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T114205Z.gif"
+    },
+    {
+      "ts": 1792239300,
+      "datetime": "20261017T122103Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T122103Z.gif"
+    },
+    {
+      "ts": 1792240200,
+      "datetime": "20261017T123945Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T123945Z.gif"
+    },
+    {
+      "ts": 1792242000,
+      "datetime": "20261017T131014Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T131014Z.gif"
+    },
+    {
+      "ts": 1792243800,
+      "datetime": "20261017T133949Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T133949Z.gif"
+    },
+    {
+      "ts": 1792245600,
+      "datetime": "20261017T141047Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T141047Z.gif"
+    },
+    {
+      "ts": 1792247400,
+      "datetime": "20261017T144234Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261017/gif/20261017T144234Z.gif"
+    },
+    {
+      "ts": 1792249200,
+      "datetime": "20261017T151326Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T151326Z.gif"
+    },
+    {
+      "ts": 1792251000,
+      "datetime": "20261017T154037Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T154037Z.gif"
+    },
+    {
+      "ts": 1792252800,
+      "datetime": "20261017T161024Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T161024Z.gif"
+    },
+    {
+      "ts": 1792254600,
+      "datetime": "20261017T164058Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T164058Z.gif"
+    },
+    {
+      "ts": 1792256400,
+      "datetime": "20261017T171107Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T171107Z.gif"
+    },
+    {
+      "ts": 1792258200,
+      "datetime": "20261017T174107Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T174107Z.gif"
+    },
+    {
+      "ts": 1792260000,
+      "datetime": "20261017T181117Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T181117Z.gif"
+    },
+    {
+      "ts": 1792261800,
+      "datetime": "20261017T184055Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T184055Z.gif"
+    },
+    {
+      "ts": 1792263600,
+      "datetime": "20261017T191111Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T191111Z.gif"
+    },
+    {
+      "ts": 1792265400,
+      "datetime": "20261017T193641Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T193641Z.gif"
+    },
+    {
+      "ts": 1792267200,
+      "datetime": "20261017T200604Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T200604Z.gif"
+    },
+    {
+      "ts": 1792269000,
+      "datetime": "20261017T203606Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T203606Z.gif"
+    },
+    {
+      "ts": 1792270800,
+      "datetime": "20261017T210606Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T210606Z.gif"
+    },
+    {
+      "ts": 1792272600,
+      "datetime": "20261017T213610Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T213610Z.gif"
+    },
+    {
+      "ts": 1792274400,
+      "datetime": "20261017T220636Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T220636Z.gif"
+    },
+    {
+      "ts": 1792276200,
+      "datetime": "20261017T223852Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T223852Z.gif"
+    },
+    {
+      "ts": 1792278000,
+      "datetime": "20261017T230709Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T230709Z.gif"
+    },
+    {
+      "ts": 1792279800,
+      "datetime": "20261017T233714Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/seoul/RKSI/20261018/gif/20261017T233714Z.gif"
+    }
+  ]
+}

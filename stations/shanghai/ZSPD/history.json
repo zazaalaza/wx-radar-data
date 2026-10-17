@@ -1,0 +1,947 @@
+{
+  "icao": "ZSPD",
+  "captures": [
+    {
+      "ts": 1791994500,
+      "datetime": "20261014T161805Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T161805Z.gif"
+    },
+    {
+      "ts": 1791995400,
+      "datetime": "20261014T164213Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T164213Z.gif"
+    },
+    {
+      "ts": 1791997200,
+      "datetime": "20261014T171145Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T171145Z.gif"
+    },
+    {
+      "ts": 1791999000,
+      "datetime": "20261014T174324Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T174324Z.gif"
+    },
+    {
+      "ts": 1792000800,
+      "datetime": "20261014T181216Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T181216Z.gif"
+    },
+    {
+      "ts": 1792002600,
+      "datetime": "20261014T184223Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T184223Z.gif"
+    },
+    {
+      "ts": 1792004400,
+      "datetime": "20261014T191318Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T191318Z.gif"
+    },
+    {
+      "ts": 1792006200,
+      "datetime": "20261014T193836Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T193836Z.gif"
+    },
+    {
+      "ts": 1792008000,
+      "datetime": "20261014T200654Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T200654Z.gif"
+    },
+    {
+      "ts": 1792009800,
+      "datetime": "20261014T203651Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T203651Z.gif"
+    },
+    {
+      "ts": 1792011600,
+      "datetime": "20261014T211459Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T211459Z.gif"
+    },
+    {
+      "ts": 1792015200,
+      "datetime": "20261014T220710Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T220710Z.gif"
+    },
+    {
+      "ts": 1792017000,
+      "datetime": "20261014T223706Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T223706Z.gif"
+    },
+    {
+      "ts": 1792018800,
+      "datetime": "20261014T230809Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T230809Z.gif"
+    },
+    {
+      "ts": 1792020600,
+      "datetime": "20261014T234223Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261014T234223Z.gif"
+    },
+    {
+      "ts": 1792022400,
+      "datetime": "20261015T000750Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T000750Z.gif"
+    },
+    {
+      "ts": 1792024200,
+      "datetime": "20261015T004001Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T004001Z.gif"
+    },
+    {
+      "ts": 1792026000,
+      "datetime": "20261015T010812Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T010812Z.gif"
+    },
+    {
+      "ts": 1792027800,
+      "datetime": "20261015T013942Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T013942Z.gif"
+    },
+    {
+      "ts": 1792029600,
+      "datetime": "20261015T021237Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T021237Z.gif"
+    },
+    {
+      "ts": 1792031400,
+      "datetime": "20261015T023820Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T023820Z.gif"
+    },
+    {
+      "ts": 1792033200,
+      "datetime": "20261015T030800Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T030800Z.gif"
+    },
+    {
+      "ts": 1792035000,
+      "datetime": "20261015T033851Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T033851Z.gif"
+    },
+    {
+      "ts": 1792036800,
+      "datetime": "20261015T040943Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T040943Z.gif"
+    },
+    {
+      "ts": 1792038600,
+      "datetime": "20261015T043934Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T043934Z.gif"
+    },
+    {
+      "ts": 1792040400,
+      "datetime": "20261015T050959Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T050959Z.gif"
+    },
+    {
+      "ts": 1792042200,
+      "datetime": "20261015T053911Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T053911Z.gif"
+    },
+    {
+      "ts": 1792044000,
+      "datetime": "20261015T061018Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T061018Z.gif"
+    },
+    {
+      "ts": 1792045800,
+      "datetime": "20261015T063957Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T063957Z.gif"
+    },
+    {
+      "ts": 1792047600,
+      "datetime": "20261015T071056Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T071056Z.gif"
+    },
+    {
+      "ts": 1792049400,
+      "datetime": "20261015T073950Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T073950Z.gif"
+    },
+    {
+      "ts": 1792051200,
+      "datetime": "20261015T081222Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T081222Z.gif"
+    },
+    {
+      "ts": 1792053000,
+      "datetime": "20261015T084358Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T084358Z.gif"
+    },
+    {
+      "ts": 1792054800,
+      "datetime": "20261015T091059Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T091059Z.gif"
+    },
+    {
+      "ts": 1792057500,
+      "datetime": "20261015T095940Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T095940Z.gif"
+    },
+    {
+      "ts": 1792059300,
+      "datetime": "20261015T101746Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T101746Z.gif"
+    },
+    {
+      "ts": 1792062900,
+      "datetime": "20261015T112616Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T112616Z.gif"
+    },
+    {
+      "ts": 1792063800,
+      "datetime": "20261015T114104Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T114104Z.gif"
+    },
+    {
+      "ts": 1792065600,
+      "datetime": "20261015T121103Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T121103Z.gif"
+    },
+    {
+      "ts": 1792067400,
+      "datetime": "20261015T124144Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T124144Z.gif"
+    },
+    {
+      "ts": 1792070100,
+      "datetime": "20261015T131736Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T131736Z.gif"
+    },
+    {
+      "ts": 1792071000,
+      "datetime": "20261015T134146Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T134146Z.gif"
+    },
+    {
+      "ts": 1792072800,
+      "datetime": "20261015T141217Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T141217Z.gif"
+    },
+    {
+      "ts": 1792074600,
+      "datetime": "20261015T143636Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T143636Z.gif"
+    },
+    {
+      "ts": 1792076400,
+      "datetime": "20261015T150657Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T150657Z.gif"
+    },
+    {
+      "ts": 1792078200,
+      "datetime": "20261015T153722Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261015/gif/20261015T153722Z.gif"
+    },
+    {
+      "ts": 1792080000,
+      "datetime": "20261015T160827Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T160827Z.gif"
+    },
+    {
+      "ts": 1792081800,
+      "datetime": "20261015T163836Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T163836Z.gif"
+    },
+    {
+      "ts": 1792083600,
+      "datetime": "20261015T171133Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T171133Z.gif"
+    },
+    {
+      "ts": 1792085400,
+      "datetime": "20261015T173924Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T173924Z.gif"
+    },
+    {
+      "ts": 1792088100,
+      "datetime": "20261015T181706Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T181706Z.gif"
+    },
+    {
+      "ts": 1792089000,
+      "datetime": "20261015T183810Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T183810Z.gif"
+    },
+    {
+      "ts": 1792090800,
+      "datetime": "20261015T191438Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T191438Z.gif"
+    },
+    {
+      "ts": 1792092600,
+      "datetime": "20261015T193842Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T193842Z.gif"
+    },
+    {
+      "ts": 1792094400,
+      "datetime": "20261015T201042Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T201042Z.gif"
+    },
+    {
+      "ts": 1792096200,
+      "datetime": "20261015T204125Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T204125Z.gif"
+    },
+    {
+      "ts": 1792098000,
+      "datetime": "20261015T210922Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T210922Z.gif"
+    },
+    {
+      "ts": 1792099800,
+      "datetime": "20261015T213916Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T213916Z.gif"
+    },
+    {
+      "ts": 1792101600,
+      "datetime": "20261015T220948Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T220948Z.gif"
+    },
+    {
+      "ts": 1792103400,
+      "datetime": "20261015T223928Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T223928Z.gif"
+    },
+    {
+      "ts": 1792105200,
+      "datetime": "20261015T230933Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T230933Z.gif"
+    },
+    {
+      "ts": 1792107000,
+      "datetime": "20261015T233951Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261015T233951Z.gif"
+    },
+    {
+      "ts": 1792108800,
+      "datetime": "20261016T000917Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T000917Z.gif"
+    },
+    {
+      "ts": 1792110600,
+      "datetime": "20261016T004203Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T004203Z.gif"
+    },
+    {
+      "ts": 1792112400,
+      "datetime": "20261016T011329Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T011329Z.gif"
+    },
+    {
+      "ts": 1792114200,
+      "datetime": "20261016T014007Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T014007Z.gif"
+    },
+    {
+      "ts": 1792116000,
+      "datetime": "20261016T021354Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T021354Z.gif"
+    },
+    {
+      "ts": 1792117800,
+      "datetime": "20261016T024407Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T024407Z.gif"
+    },
+    {
+      "ts": 1792119600,
+      "datetime": "20261016T031102Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T031102Z.gif"
+    },
+    {
+      "ts": 1792121400,
+      "datetime": "20261016T034031Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T034031Z.gif"
+    },
+    {
+      "ts": 1792123200,
+      "datetime": "20261016T041156Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T041156Z.gif"
+    },
+    {
+      "ts": 1792125000,
+      "datetime": "20261016T044301Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T044301Z.gif"
+    },
+    {
+      "ts": 1792126800,
+      "datetime": "20261016T051102Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T051102Z.gif"
+    },
+    {
+      "ts": 1792128600,
+      "datetime": "20261016T054112Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T054112Z.gif"
+    },
+    {
+      "ts": 1792130400,
+      "datetime": "20261016T061330Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T061330Z.gif"
+    },
+    {
+      "ts": 1792132200,
+      "datetime": "20261016T064107Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T064107Z.gif"
+    },
+    {
+      "ts": 1792134000,
+      "datetime": "20261016T071050Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T071050Z.gif"
+    },
+    {
+      "ts": 1792135800,
+      "datetime": "20261016T074151Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T074151Z.gif"
+    },
+    {
+      "ts": 1792137600,
+      "datetime": "20261016T080704Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T080704Z.gif"
+    },
+    {
+      "ts": 1792139400,
+      "datetime": "20261016T083939Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T083939Z.gif"
+    },
+    {
+      "ts": 1792141200,
+      "datetime": "20261016T090708Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T090708Z.gif"
+    },
+    {
+      "ts": 1792143000,
+      "datetime": "20261016T093655Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T093655Z.gif"
+    },
+    {
+      "ts": 1792144800,
+      "datetime": "20261016T100748Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T100748Z.gif"
+    },
+    {
+      "ts": 1792146600,
+      "datetime": "20261016T103709Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T103709Z.gif"
+    },
+    {
+      "ts": 1792148400,
+      "datetime": "20261016T110729Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T110729Z.gif"
+    },
+    {
+      "ts": 1792150200,
+      "datetime": "20261016T113720Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T113720Z.gif"
+    },
+    {
+      "ts": 1792152000,
+      "datetime": "20261016T120804Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T120804Z.gif"
+    },
+    {
+      "ts": 1792153800,
+      "datetime": "20261016T123743Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T123743Z.gif"
+    },
+    {
+      "ts": 1792155600,
+      "datetime": "20261016T130838Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T130838Z.gif"
+    },
+    {
+      "ts": 1792157400,
+      "datetime": "20261016T134002Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T134002Z.gif"
+    },
+    {
+      "ts": 1792159200,
+      "datetime": "20261016T140902Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T140902Z.gif"
+    },
+    {
+      "ts": 1792161000,
+      "datetime": "20261016T143836Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T143836Z.gif"
+    },
+    {
+      "ts": 1792162800,
+      "datetime": "20261016T150920Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T150920Z.gif"
+    },
+    {
+      "ts": 1792164600,
+      "datetime": "20261016T153909Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261016/gif/20261016T153909Z.gif"
+    },
+    {
+      "ts": 1792166400,
+      "datetime": "20261016T160942Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T160942Z.gif"
+    },
+    {
+      "ts": 1792168200,
+      "datetime": "20261016T164334Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T164334Z.gif"
+    },
+    {
+      "ts": 1792170000,
+      "datetime": "20261016T171231Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T171231Z.gif"
+    },
+    {
+      "ts": 1792171800,
+      "datetime": "20261016T174005Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T174005Z.gif"
+    },
+    {
+      "ts": 1792173600,
+      "datetime": "20261016T181011Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T181011Z.gif"
+    },
+    {
+      "ts": 1792175400,
+      "datetime": "20261016T184014Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T184014Z.gif"
+    },
+    {
+      "ts": 1792177200,
+      "datetime": "20261016T191131Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T191131Z.gif"
+    },
+    {
+      "ts": 1792180800,
+      "datetime": "20261016T201340Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T201340Z.gif"
+    },
+    {
+      "ts": 1792182600,
+      "datetime": "20261016T204159Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T204159Z.gif"
+    },
+    {
+      "ts": 1792184400,
+      "datetime": "20261016T211158Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T211158Z.gif"
+    },
+    {
+      "ts": 1792186200,
+      "datetime": "20261016T214229Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T214229Z.gif"
+    },
+    {
+      "ts": 1792188900,
+      "datetime": "20261016T221827Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T221827Z.gif"
+    },
+    {
+      "ts": 1792189800,
+      "datetime": "20261016T224108Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T224108Z.gif"
+    },
+    {
+      "ts": 1792192500,
+      "datetime": "20261016T231700Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T231700Z.gif"
+    },
+    {
+      "ts": 1792193400,
+      "datetime": "20261016T234035Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261016T234035Z.gif"
+    },
+    {
+      "ts": 1792195200,
+      "datetime": "20261017T001131Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T001131Z.gif"
+    },
+    {
+      "ts": 1792197000,
+      "datetime": "20261017T004044Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T004044Z.gif"
+    },
+    {
+      "ts": 1792198800,
+      "datetime": "20261017T011252Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T011252Z.gif"
+    },
+    {
+      "ts": 1792200600,
+      "datetime": "20261017T014131Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T014131Z.gif"
+    },
+    {
+      "ts": 1792202400,
+      "datetime": "20261017T021140Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T021140Z.gif"
+    },
+    {
+      "ts": 1792204200,
+      "datetime": "20261017T023621Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T023621Z.gif"
+    },
+    {
+      "ts": 1792206000,
+      "datetime": "20261017T030646Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T030646Z.gif"
+    },
+    {
+      "ts": 1792207800,
+      "datetime": "20261017T033647Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T033647Z.gif"
+    },
+    {
+      "ts": 1792209600,
+      "datetime": "20261017T040817Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T040817Z.gif"
+    },
+    {
+      "ts": 1792211400,
+      "datetime": "20261017T043616Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T043616Z.gif"
+    },
+    {
+      "ts": 1792213200,
+      "datetime": "20261017T050729Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T050729Z.gif"
+    },
+    {
+      "ts": 1792215000,
+      "datetime": "20261017T053730Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T053730Z.gif"
+    },
+    {
+      "ts": 1792216800,
+      "datetime": "20261017T060814Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T060814Z.gif"
+    },
+    {
+      "ts": 1792218600,
+      "datetime": "20261017T063725Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T063725Z.gif"
+    },
+    {
+      "ts": 1792221300,
+      "datetime": "20261017T071721Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T071721Z.gif"
+    },
+    {
+      "ts": 1792222200,
+      "datetime": "20261017T073752Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T073752Z.gif"
+    },
+    {
+      "ts": 1792224000,
+      "datetime": "20261017T081016Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T081016Z.gif"
+    },
+    {
+      "ts": 1792225800,
+      "datetime": "20261017T083830Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T083830Z.gif"
+    },
+    {
+      "ts": 1792227600,
+      "datetime": "20261017T091054Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T091054Z.gif"
+    },
+    {
+      "ts": 1792229400,
+      "datetime": "20261017T094059Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T094059Z.gif"
+    },
+    {
+      "ts": 1792231200,
+      "datetime": "20261017T100907Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T100907Z.gif"
+    },
+    {
+      "ts": 1792233000,
+      "datetime": "20261017T103936Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T103936Z.gif"
+    },
+    {
+      "ts": 1792234800,
+      "datetime": "20261017T110957Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T110957Z.gif"
+    },
+    {
+      "ts": 1792236600,
+      "datetime": "20261017T114238Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T114238Z.gif"
+    },
+    {
+      "ts": 1792239300,
+      "datetime": "20261017T122137Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T122137Z.gif"
+    },
+    {
+      "ts": 1792240200,
+      "datetime": "20261017T124000Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T124000Z.gif"
+    },
+    {
+      "ts": 1792242000,
+      "datetime": "20261017T131047Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T131047Z.gif"
+    },
+    {
+      "ts": 1792243800,
+      "datetime": "20261017T134004Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T134004Z.gif"
+    },
+    {
+      "ts": 1792245600,
+      "datetime": "20261017T141119Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T141119Z.gif"
+    },
+    {
+      "ts": 1792247400,
+      "datetime": "20261017T144305Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T144305Z.gif"
+    },
+    {
+      "ts": 1792249200,
+      "datetime": "20261017T151358Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T151358Z.gif"
+    },
+    {
+      "ts": 1792251000,
+      "datetime": "20261017T154056Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261017/gif/20261017T154056Z.gif"
+    },
+    {
+      "ts": 1792252800,
+      "datetime": "20261017T161041Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T161041Z.gif"
+    },
+    {
+      "ts": 1792254600,
+      "datetime": "20261017T164132Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T164132Z.gif"
+    },
+    {
+      "ts": 1792256400,
+      "datetime": "20261017T171140Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T171140Z.gif"
+    },
+    {
+      "ts": 1792258200,
+      "datetime": "20261017T174140Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T174140Z.gif"
+    },
+    {
+      "ts": 1792260000,
+      "datetime": "20261017T181132Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T181132Z.gif"
+    },
+    {
+      "ts": 1792261800,
+      "datetime": "20261017T184111Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T184111Z.gif"
+    },
+    {
+      "ts": 1792263600,
+      "datetime": "20261017T191127Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T191127Z.gif"
+    },
+    {
+      "ts": 1792265400,
+      "datetime": "20261017T193701Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T193701Z.gif"
+    },
+    {
+      "ts": 1792267200,
+      "datetime": "20261017T200620Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T200620Z.gif"
+    },
+    {
+      "ts": 1792269000,
+      "datetime": "20261017T203624Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T203624Z.gif"
+    },
+    {
+      "ts": 1792270800,
+      "datetime": "20261017T210623Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T210623Z.gif"
+    },
+    {
+      "ts": 1792272600,
+      "datetime": "20261017T213626Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T213626Z.gif"
+    },
+    {
+      "ts": 1792274400,
+      "datetime": "20261017T220654Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T220654Z.gif"
+    },
+    {
+      "ts": 1792276200,
+      "datetime": "20261017T223925Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T223925Z.gif"
+    },
+    {
+      "ts": 1792278000,
+      "datetime": "20261017T230744Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T230744Z.gif"
+    },
+    {
+      "ts": 1792279800,
+      "datetime": "20261017T233748Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/shanghai/ZSPD/20261018/gif/20261017T233748Z.gif"
+    }
+  ]
+}

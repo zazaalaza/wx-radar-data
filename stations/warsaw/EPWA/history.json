@@ -1,0 +1,881 @@
+{
+  "icao": "EPWA",
+  "captures": [
+    {
+      "ts": 1792015200,
+      "datetime": "20261014T220743Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261014T220743Z.gif"
+    },
+    {
+      "ts": 1792017000,
+      "datetime": "20261014T223739Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261014T223739Z.gif"
+    },
+    {
+      "ts": 1792018800,
+      "datetime": "20261014T230845Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261014T230845Z.gif"
+    },
+    {
+      "ts": 1792020600,
+      "datetime": "20261014T234325Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261014T234325Z.gif"
+    },
+    {
+      "ts": 1792022400,
+      "datetime": "20261015T000828Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T000828Z.gif"
+    },
+    {
+      "ts": 1792024200,
+      "datetime": "20261015T004031Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T004031Z.gif"
+    },
+    {
+      "ts": 1792026000,
+      "datetime": "20261015T010844Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T010844Z.gif"
+    },
+    {
+      "ts": 1792027800,
+      "datetime": "20261015T014045Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T014045Z.gif"
+    },
+    {
+      "ts": 1792029600,
+      "datetime": "20261015T021336Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T021336Z.gif"
+    },
+    {
+      "ts": 1792031400,
+      "datetime": "20261015T023922Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T023922Z.gif"
+    },
+    {
+      "ts": 1792033200,
+      "datetime": "20261015T030832Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T030832Z.gif"
+    },
+    {
+      "ts": 1792035000,
+      "datetime": "20261015T033925Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T033925Z.gif"
+    },
+    {
+      "ts": 1792036800,
+      "datetime": "20261015T041042Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T041042Z.gif"
+    },
+    {
+      "ts": 1792038600,
+      "datetime": "20261015T044008Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T044008Z.gif"
+    },
+    {
+      "ts": 1792040400,
+      "datetime": "20261015T051034Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T051034Z.gif"
+    },
+    {
+      "ts": 1792042200,
+      "datetime": "20261015T053943Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T053943Z.gif"
+    },
+    {
+      "ts": 1792044000,
+      "datetime": "20261015T061123Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T061123Z.gif"
+    },
+    {
+      "ts": 1792045800,
+      "datetime": "20261015T064056Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T064056Z.gif"
+    },
+    {
+      "ts": 1792047600,
+      "datetime": "20261015T071126Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T071126Z.gif"
+    },
+    {
+      "ts": 1792049400,
+      "datetime": "20261015T074016Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T074016Z.gif"
+    },
+    {
+      "ts": 1792051200,
+      "datetime": "20261015T081321Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T081321Z.gif"
+    },
+    {
+      "ts": 1792053000,
+      "datetime": "20261015T084459Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T084459Z.gif"
+    },
+    {
+      "ts": 1792054800,
+      "datetime": "20261015T091200Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T091200Z.gif"
+    },
+    {
+      "ts": 1792057500,
+      "datetime": "20261015T100041Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T100041Z.gif"
+    },
+    {
+      "ts": 1792059300,
+      "datetime": "20261015T101851Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T101851Z.gif"
+    },
+    {
+      "ts": 1792062900,
+      "datetime": "20261015T112645Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T112645Z.gif"
+    },
+    {
+      "ts": 1792063800,
+      "datetime": "20261015T114135Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T114135Z.gif"
+    },
+    {
+      "ts": 1792065600,
+      "datetime": "20261015T121134Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T121134Z.gif"
+    },
+    {
+      "ts": 1792067400,
+      "datetime": "20261015T124213Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T124213Z.gif"
+    },
+    {
+      "ts": 1792070100,
+      "datetime": "20261015T131838Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T131838Z.gif"
+    },
+    {
+      "ts": 1792071000,
+      "datetime": "20261015T134218Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T134218Z.gif"
+    },
+    {
+      "ts": 1792072800,
+      "datetime": "20261015T141244Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T141244Z.gif"
+    },
+    {
+      "ts": 1792074600,
+      "datetime": "20261015T143704Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T143704Z.gif"
+    },
+    {
+      "ts": 1792076400,
+      "datetime": "20261015T150725Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T150725Z.gif"
+    },
+    {
+      "ts": 1792078200,
+      "datetime": "20261015T153756Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T153756Z.gif"
+    },
+    {
+      "ts": 1792080000,
+      "datetime": "20261015T160904Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T160904Z.gif"
+    },
+    {
+      "ts": 1792081800,
+      "datetime": "20261015T163911Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T163911Z.gif"
+    },
+    {
+      "ts": 1792083600,
+      "datetime": "20261015T171230Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T171230Z.gif"
+    },
+    {
+      "ts": 1792085400,
+      "datetime": "20261015T174021Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T174021Z.gif"
+    },
+    {
+      "ts": 1792088100,
+      "datetime": "20261015T181808Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T181808Z.gif"
+    },
+    {
+      "ts": 1792089000,
+      "datetime": "20261015T183840Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T183840Z.gif"
+    },
+    {
+      "ts": 1792090800,
+      "datetime": "20261015T191514Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T191514Z.gif"
+    },
+    {
+      "ts": 1792092600,
+      "datetime": "20261015T193917Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T193917Z.gif"
+    },
+    {
+      "ts": 1792094400,
+      "datetime": "20261015T201143Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T201143Z.gif"
+    },
+    {
+      "ts": 1792096200,
+      "datetime": "20261015T204223Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T204223Z.gif"
+    },
+    {
+      "ts": 1792098000,
+      "datetime": "20261015T210953Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T210953Z.gif"
+    },
+    {
+      "ts": 1792099800,
+      "datetime": "20261015T213952Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261015/gif/20261015T213952Z.gif"
+    },
+    {
+      "ts": 1792101600,
+      "datetime": "20261015T221023Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261015T221023Z.gif"
+    },
+    {
+      "ts": 1792103400,
+      "datetime": "20261015T224005Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261015T224005Z.gif"
+    },
+    {
+      "ts": 1792105200,
+      "datetime": "20261015T231013Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261015T231013Z.gif"
+    },
+    {
+      "ts": 1792107000,
+      "datetime": "20261015T234031Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261015T234031Z.gif"
+    },
+    {
+      "ts": 1792108800,
+      "datetime": "20261016T000953Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T000953Z.gif"
+    },
+    {
+      "ts": 1792110600,
+      "datetime": "20261016T004304Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T004304Z.gif"
+    },
+    {
+      "ts": 1792112400,
+      "datetime": "20261016T011406Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T011406Z.gif"
+    },
+    {
+      "ts": 1792114200,
+      "datetime": "20261016T014107Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T014107Z.gif"
+    },
+    {
+      "ts": 1792116000,
+      "datetime": "20261016T021452Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T021452Z.gif"
+    },
+    {
+      "ts": 1792117800,
+      "datetime": "20261016T024500Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T024500Z.gif"
+    },
+    {
+      "ts": 1792119600,
+      "datetime": "20261016T031130Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T031130Z.gif"
+    },
+    {
+      "ts": 1792121400,
+      "datetime": "20261016T034103Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T034103Z.gif"
+    },
+    {
+      "ts": 1792123200,
+      "datetime": "20261016T041255Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T041255Z.gif"
+    },
+    {
+      "ts": 1792125000,
+      "datetime": "20261016T044356Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T044356Z.gif"
+    },
+    {
+      "ts": 1792126800,
+      "datetime": "20261016T051130Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T051130Z.gif"
+    },
+    {
+      "ts": 1792128600,
+      "datetime": "20261016T054144Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T054144Z.gif"
+    },
+    {
+      "ts": 1792130400,
+      "datetime": "20261016T061402Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T061402Z.gif"
+    },
+    {
+      "ts": 1792132200,
+      "datetime": "20261016T064133Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T064133Z.gif"
+    },
+    {
+      "ts": 1792134000,
+      "datetime": "20261016T071121Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T071121Z.gif"
+    },
+    {
+      "ts": 1792135800,
+      "datetime": "20261016T074217Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T074217Z.gif"
+    },
+    {
+      "ts": 1792137600,
+      "datetime": "20261016T080808Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T080808Z.gif"
+    },
+    {
+      "ts": 1792139400,
+      "datetime": "20261016T084034Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T084034Z.gif"
+    },
+    {
+      "ts": 1792141200,
+      "datetime": "20261016T090741Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T090741Z.gif"
+    },
+    {
+      "ts": 1792143000,
+      "datetime": "20261016T093755Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T093755Z.gif"
+    },
+    {
+      "ts": 1792144800,
+      "datetime": "20261016T100818Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T100818Z.gif"
+    },
+    {
+      "ts": 1792146600,
+      "datetime": "20261016T103735Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T103735Z.gif"
+    },
+    {
+      "ts": 1792148400,
+      "datetime": "20261016T110756Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T110756Z.gif"
+    },
+    {
+      "ts": 1792150200,
+      "datetime": "20261016T113750Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T113750Z.gif"
+    },
+    {
+      "ts": 1792152000,
+      "datetime": "20261016T120833Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T120833Z.gif"
+    },
+    {
+      "ts": 1792153800,
+      "datetime": "20261016T123809Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T123809Z.gif"
+    },
+    {
+      "ts": 1792155600,
+      "datetime": "20261016T130905Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T130905Z.gif"
+    },
+    {
+      "ts": 1792157400,
+      "datetime": "20261016T134038Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T134038Z.gif"
+    },
+    {
+      "ts": 1792159200,
+      "datetime": "20261016T140929Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T140929Z.gif"
+    },
+    {
+      "ts": 1792161000,
+      "datetime": "20261016T143909Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T143909Z.gif"
+    },
+    {
+      "ts": 1792162800,
+      "datetime": "20261016T150949Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T150949Z.gif"
+    },
+    {
+      "ts": 1792164600,
+      "datetime": "20261016T153942Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T153942Z.gif"
+    },
+    {
+      "ts": 1792166400,
+      "datetime": "20261016T161017Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T161017Z.gif"
+    },
+    {
+      "ts": 1792168200,
+      "datetime": "20261016T164433Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T164433Z.gif"
+    },
+    {
+      "ts": 1792170000,
+      "datetime": "20261016T171330Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T171330Z.gif"
+    },
+    {
+      "ts": 1792171800,
+      "datetime": "20261016T174035Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T174035Z.gif"
+    },
+    {
+      "ts": 1792173600,
+      "datetime": "20261016T181041Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T181041Z.gif"
+    },
+    {
+      "ts": 1792175400,
+      "datetime": "20261016T184048Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T184048Z.gif"
+    },
+    {
+      "ts": 1792177200,
+      "datetime": "20261016T191204Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T191204Z.gif"
+    },
+    {
+      "ts": 1792180800,
+      "datetime": "20261016T201414Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T201414Z.gif"
+    },
+    {
+      "ts": 1792182600,
+      "datetime": "20261016T204231Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T204231Z.gif"
+    },
+    {
+      "ts": 1792184400,
+      "datetime": "20261016T211302Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T211302Z.gif"
+    },
+    {
+      "ts": 1792186200,
+      "datetime": "20261016T214331Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261016/gif/20261016T214331Z.gif"
+    },
+    {
+      "ts": 1792188900,
+      "datetime": "20261016T221901Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261016T221901Z.gif"
+    },
+    {
+      "ts": 1792189800,
+      "datetime": "20261016T224206Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261016T224206Z.gif"
+    },
+    {
+      "ts": 1792192500,
+      "datetime": "20261016T231800Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261016T231800Z.gif"
+    },
+    {
+      "ts": 1792193400,
+      "datetime": "20261016T234112Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261016T234112Z.gif"
+    },
+    {
+      "ts": 1792195200,
+      "datetime": "20261017T001201Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T001201Z.gif"
+    },
+    {
+      "ts": 1792197000,
+      "datetime": "20261017T004114Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T004114Z.gif"
+    },
+    {
+      "ts": 1792198800,
+      "datetime": "20261017T011324Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T011324Z.gif"
+    },
+    {
+      "ts": 1792200600,
+      "datetime": "20261017T014227Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T014227Z.gif"
+    },
+    {
+      "ts": 1792202400,
+      "datetime": "20261017T021211Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T021211Z.gif"
+    },
+    {
+      "ts": 1792204200,
+      "datetime": "20261017T023652Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T023652Z.gif"
+    },
+    {
+      "ts": 1792206000,
+      "datetime": "20261017T030717Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T030717Z.gif"
+    },
+    {
+      "ts": 1792207800,
+      "datetime": "20261017T033715Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T033715Z.gif"
+    },
+    {
+      "ts": 1792209600,
+      "datetime": "20261017T040916Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T040916Z.gif"
+    },
+    {
+      "ts": 1792211400,
+      "datetime": "20261017T043646Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T043646Z.gif"
+    },
+    {
+      "ts": 1792213200,
+      "datetime": "20261017T050801Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T050801Z.gif"
+    },
+    {
+      "ts": 1792215000,
+      "datetime": "20261017T053802Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T053802Z.gif"
+    },
+    {
+      "ts": 1792216800,
+      "datetime": "20261017T060914Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T060914Z.gif"
+    },
+    {
+      "ts": 1792218600,
+      "datetime": "20261017T063749Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T063749Z.gif"
+    },
+    {
+      "ts": 1792221300,
+      "datetime": "20261017T071753Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T071753Z.gif"
+    },
+    {
+      "ts": 1792222200,
+      "datetime": "20261017T073820Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T073820Z.gif"
+    },
+    {
+      "ts": 1792224000,
+      "datetime": "20261017T081115Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T081115Z.gif"
+    },
+    {
+      "ts": 1792225800,
+      "datetime": "20261017T083856Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T083856Z.gif"
+    },
+    {
+      "ts": 1792227600,
+      "datetime": "20261017T091150Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T091150Z.gif"
+    },
+    {
+      "ts": 1792229400,
+      "datetime": "20261017T094154Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T094154Z.gif"
+    },
+    {
+      "ts": 1792231200,
+      "datetime": "20261017T100932Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T100932Z.gif"
+    },
+    {
+      "ts": 1792233000,
+      "datetime": "20261017T104036Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T104036Z.gif"
+    },
+    {
+      "ts": 1792234800,
+      "datetime": "20261017T111023Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T111023Z.gif"
+    },
+    {
+      "ts": 1792236600,
+      "datetime": "20261017T114337Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T114337Z.gif"
+    },
+    {
+      "ts": 1792239300,
+      "datetime": "20261017T122235Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T122235Z.gif"
+    },
+    {
+      "ts": 1792240200,
+      "datetime": "20261017T124027Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T124027Z.gif"
+    },
+    {
+      "ts": 1792242000,
+      "datetime": "20261017T131144Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T131144Z.gif"
+    },
+    {
+      "ts": 1792243800,
+      "datetime": "20261017T134029Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T134029Z.gif"
+    },
+    {
+      "ts": 1792245600,
+      "datetime": "20261017T141211Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T141211Z.gif"
+    },
+    {
+      "ts": 1792247400,
+      "datetime": "20261017T144400Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T144400Z.gif"
+    },
+    {
+      "ts": 1792249200,
+      "datetime": "20261017T151452Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T151452Z.gif"
+    },
+    {
+      "ts": 1792251000,
+      "datetime": "20261017T154127Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T154127Z.gif"
+    },
+    {
+      "ts": 1792252800,
+      "datetime": "20261017T161111Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T161111Z.gif"
+    },
+    {
+      "ts": 1792254600,
+      "datetime": "20261017T164230Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T164230Z.gif"
+    },
+    {
+      "ts": 1792256400,
+      "datetime": "20261017T171238Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T171238Z.gif"
+    },
+    {
+      "ts": 1792258200,
+      "datetime": "20261017T174239Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T174239Z.gif"
+    },
+    {
+      "ts": 1792260000,
+      "datetime": "20261017T181158Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T181158Z.gif"
+    },
+    {
+      "ts": 1792261800,
+      "datetime": "20261017T184139Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T184139Z.gif"
+    },
+    {
+      "ts": 1792263600,
+      "datetime": "20261017T191154Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T191154Z.gif"
+    },
+    {
+      "ts": 1792265400,
+      "datetime": "20261017T193732Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T193732Z.gif"
+    },
+    {
+      "ts": 1792267200,
+      "datetime": "20261017T200647Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T200647Z.gif"
+    },
+    {
+      "ts": 1792269000,
+      "datetime": "20261017T203655Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T203655Z.gif"
+    },
+    {
+      "ts": 1792270800,
+      "datetime": "20261017T210650Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T210650Z.gif"
+    },
+    {
+      "ts": 1792272600,
+      "datetime": "20261017T213654Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261017/gif/20261017T213654Z.gif"
+    },
+    {
+      "ts": 1792274400,
+      "datetime": "20261017T220726Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261018/gif/20261017T220726Z.gif"
+    },
+    {
+      "ts": 1792276200,
+      "datetime": "20261017T224023Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261018/gif/20261017T224023Z.gif"
+    },
+    {
+      "ts": 1792278000,
+      "datetime": "20261017T230845Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261018/gif/20261017T230845Z.gif"
+    },
+    {
+      "ts": 1792279800,
+      "datetime": "20261017T233848Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/warsaw/EPWA/20261018/gif/20261017T233848Z.gif"
+    }
+  ]
+}

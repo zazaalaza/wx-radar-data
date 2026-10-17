@@ -1,0 +1,887 @@
+{
+  "icao": "LTFM",
+  "captures": [
+    {
+      "ts": 1792011600,
+      "datetime": "20261014T211547Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261014T211547Z.gif"
+    },
+    {
+      "ts": 1792015200,
+      "datetime": "20261014T220734Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261014T220734Z.gif"
+    },
+    {
+      "ts": 1792017000,
+      "datetime": "20261014T223730Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261014T223730Z.gif"
+    },
+    {
+      "ts": 1792018800,
+      "datetime": "20261014T230835Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261014T230835Z.gif"
+    },
+    {
+      "ts": 1792020600,
+      "datetime": "20261014T234308Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261014T234308Z.gif"
+    },
+    {
+      "ts": 1792022400,
+      "datetime": "20261015T000817Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T000817Z.gif"
+    },
+    {
+      "ts": 1792024200,
+      "datetime": "20261015T004022Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T004022Z.gif"
+    },
+    {
+      "ts": 1792026000,
+      "datetime": "20261015T010835Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T010835Z.gif"
+    },
+    {
+      "ts": 1792027800,
+      "datetime": "20261015T014028Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T014028Z.gif"
+    },
+    {
+      "ts": 1792029600,
+      "datetime": "20261015T021320Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T021320Z.gif"
+    },
+    {
+      "ts": 1792031400,
+      "datetime": "20261015T023905Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T023905Z.gif"
+    },
+    {
+      "ts": 1792033200,
+      "datetime": "20261015T030823Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T030823Z.gif"
+    },
+    {
+      "ts": 1792035000,
+      "datetime": "20261015T033916Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T033916Z.gif"
+    },
+    {
+      "ts": 1792036800,
+      "datetime": "20261015T041026Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T041026Z.gif"
+    },
+    {
+      "ts": 1792038600,
+      "datetime": "20261015T043959Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T043959Z.gif"
+    },
+    {
+      "ts": 1792040400,
+      "datetime": "20261015T051024Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T051024Z.gif"
+    },
+    {
+      "ts": 1792042200,
+      "datetime": "20261015T053934Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T053934Z.gif"
+    },
+    {
+      "ts": 1792044000,
+      "datetime": "20261015T061106Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T061106Z.gif"
+    },
+    {
+      "ts": 1792045800,
+      "datetime": "20261015T064040Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T064040Z.gif"
+    },
+    {
+      "ts": 1792047600,
+      "datetime": "20261015T071117Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T071117Z.gif"
+    },
+    {
+      "ts": 1792049400,
+      "datetime": "20261015T074009Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T074009Z.gif"
+    },
+    {
+      "ts": 1792051200,
+      "datetime": "20261015T081304Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T081304Z.gif"
+    },
+    {
+      "ts": 1792053000,
+      "datetime": "20261015T084442Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T084442Z.gif"
+    },
+    {
+      "ts": 1792054800,
+      "datetime": "20261015T091143Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T091143Z.gif"
+    },
+    {
+      "ts": 1792057500,
+      "datetime": "20261015T100024Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T100024Z.gif"
+    },
+    {
+      "ts": 1792059300,
+      "datetime": "20261015T101834Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T101834Z.gif"
+    },
+    {
+      "ts": 1792062900,
+      "datetime": "20261015T112637Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T112637Z.gif"
+    },
+    {
+      "ts": 1792063800,
+      "datetime": "20261015T114126Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T114126Z.gif"
+    },
+    {
+      "ts": 1792065600,
+      "datetime": "20261015T121126Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T121126Z.gif"
+    },
+    {
+      "ts": 1792067400,
+      "datetime": "20261015T124205Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T124205Z.gif"
+    },
+    {
+      "ts": 1792070100,
+      "datetime": "20261015T131821Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T131821Z.gif"
+    },
+    {
+      "ts": 1792071000,
+      "datetime": "20261015T134209Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T134209Z.gif"
+    },
+    {
+      "ts": 1792072800,
+      "datetime": "20261015T141237Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T141237Z.gif"
+    },
+    {
+      "ts": 1792074600,
+      "datetime": "20261015T143656Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T143656Z.gif"
+    },
+    {
+      "ts": 1792076400,
+      "datetime": "20261015T150717Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T150717Z.gif"
+    },
+    {
+      "ts": 1792078200,
+      "datetime": "20261015T153747Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T153747Z.gif"
+    },
+    {
+      "ts": 1792080000,
+      "datetime": "20261015T160854Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T160854Z.gif"
+    },
+    {
+      "ts": 1792081800,
+      "datetime": "20261015T163901Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T163901Z.gif"
+    },
+    {
+      "ts": 1792083600,
+      "datetime": "20261015T171214Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T171214Z.gif"
+    },
+    {
+      "ts": 1792085400,
+      "datetime": "20261015T174005Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T174005Z.gif"
+    },
+    {
+      "ts": 1792088100,
+      "datetime": "20261015T181751Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T181751Z.gif"
+    },
+    {
+      "ts": 1792089000,
+      "datetime": "20261015T183831Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T183831Z.gif"
+    },
+    {
+      "ts": 1792090800,
+      "datetime": "20261015T191504Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T191504Z.gif"
+    },
+    {
+      "ts": 1792092600,
+      "datetime": "20261015T193907Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T193907Z.gif"
+    },
+    {
+      "ts": 1792094400,
+      "datetime": "20261015T201126Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T201126Z.gif"
+    },
+    {
+      "ts": 1792096200,
+      "datetime": "20261015T204207Z",
+      "date": "20261015",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261015/gif/20261015T204207Z.gif"
+    },
+    {
+      "ts": 1792098000,
+      "datetime": "20261015T210944Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T210944Z.gif"
+    },
+    {
+      "ts": 1792099800,
+      "datetime": "20261015T213942Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T213942Z.gif"
+    },
+    {
+      "ts": 1792101600,
+      "datetime": "20261015T221013Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T221013Z.gif"
+    },
+    {
+      "ts": 1792103400,
+      "datetime": "20261015T223954Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T223954Z.gif"
+    },
+    {
+      "ts": 1792105200,
+      "datetime": "20261015T231001Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T231001Z.gif"
+    },
+    {
+      "ts": 1792107000,
+      "datetime": "20261015T234018Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261015T234018Z.gif"
+    },
+    {
+      "ts": 1792108800,
+      "datetime": "20261016T000943Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T000943Z.gif"
+    },
+    {
+      "ts": 1792110600,
+      "datetime": "20261016T004248Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T004248Z.gif"
+    },
+    {
+      "ts": 1792112400,
+      "datetime": "20261016T011356Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T011356Z.gif"
+    },
+    {
+      "ts": 1792114200,
+      "datetime": "20261016T014050Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T014050Z.gif"
+    },
+    {
+      "ts": 1792116000,
+      "datetime": "20261016T021436Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T021436Z.gif"
+    },
+    {
+      "ts": 1792117800,
+      "datetime": "20261016T024446Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T024446Z.gif"
+    },
+    {
+      "ts": 1792119600,
+      "datetime": "20261016T031123Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T031123Z.gif"
+    },
+    {
+      "ts": 1792121400,
+      "datetime": "20261016T034055Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T034055Z.gif"
+    },
+    {
+      "ts": 1792123200,
+      "datetime": "20261016T041239Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T041239Z.gif"
+    },
+    {
+      "ts": 1792125000,
+      "datetime": "20261016T044341Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T044341Z.gif"
+    },
+    {
+      "ts": 1792126800,
+      "datetime": "20261016T051122Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T051122Z.gif"
+    },
+    {
+      "ts": 1792128600,
+      "datetime": "20261016T054135Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T054135Z.gif"
+    },
+    {
+      "ts": 1792130400,
+      "datetime": "20261016T061353Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T061353Z.gif"
+    },
+    {
+      "ts": 1792132200,
+      "datetime": "20261016T064126Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T064126Z.gif"
+    },
+    {
+      "ts": 1792134000,
+      "datetime": "20261016T071113Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T071113Z.gif"
+    },
+    {
+      "ts": 1792135800,
+      "datetime": "20261016T074210Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T074210Z.gif"
+    },
+    {
+      "ts": 1792137600,
+      "datetime": "20261016T080751Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T080751Z.gif"
+    },
+    {
+      "ts": 1792139400,
+      "datetime": "20261016T084019Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T084019Z.gif"
+    },
+    {
+      "ts": 1792141200,
+      "datetime": "20261016T090732Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T090732Z.gif"
+    },
+    {
+      "ts": 1792143000,
+      "datetime": "20261016T093738Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T093738Z.gif"
+    },
+    {
+      "ts": 1792144800,
+      "datetime": "20261016T100809Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T100809Z.gif"
+    },
+    {
+      "ts": 1792146600,
+      "datetime": "20261016T103727Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T103727Z.gif"
+    },
+    {
+      "ts": 1792148400,
+      "datetime": "20261016T110749Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T110749Z.gif"
+    },
+    {
+      "ts": 1792150200,
+      "datetime": "20261016T113742Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T113742Z.gif"
+    },
+    {
+      "ts": 1792152000,
+      "datetime": "20261016T120825Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T120825Z.gif"
+    },
+    {
+      "ts": 1792153800,
+      "datetime": "20261016T123802Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T123802Z.gif"
+    },
+    {
+      "ts": 1792155600,
+      "datetime": "20261016T130858Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T130858Z.gif"
+    },
+    {
+      "ts": 1792157400,
+      "datetime": "20261016T134028Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T134028Z.gif"
+    },
+    {
+      "ts": 1792159200,
+      "datetime": "20261016T140922Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T140922Z.gif"
+    },
+    {
+      "ts": 1792161000,
+      "datetime": "20261016T143900Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T143900Z.gif"
+    },
+    {
+      "ts": 1792162800,
+      "datetime": "20261016T150941Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T150941Z.gif"
+    },
+    {
+      "ts": 1792164600,
+      "datetime": "20261016T153932Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T153932Z.gif"
+    },
+    {
+      "ts": 1792166400,
+      "datetime": "20261016T161007Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T161007Z.gif"
+    },
+    {
+      "ts": 1792168200,
+      "datetime": "20261016T164418Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T164418Z.gif"
+    },
+    {
+      "ts": 1792170000,
+      "datetime": "20261016T171314Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T171314Z.gif"
+    },
+    {
+      "ts": 1792171800,
+      "datetime": "20261016T174027Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T174027Z.gif"
+    },
+    {
+      "ts": 1792173600,
+      "datetime": "20261016T181033Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T181033Z.gif"
+    },
+    {
+      "ts": 1792175400,
+      "datetime": "20261016T184037Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T184037Z.gif"
+    },
+    {
+      "ts": 1792177200,
+      "datetime": "20261016T191155Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T191155Z.gif"
+    },
+    {
+      "ts": 1792180800,
+      "datetime": "20261016T201404Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T201404Z.gif"
+    },
+    {
+      "ts": 1792182600,
+      "datetime": "20261016T204223Z",
+      "date": "20261016",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261016/gif/20261016T204223Z.gif"
+    },
+    {
+      "ts": 1792184400,
+      "datetime": "20261016T211244Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T211244Z.gif"
+    },
+    {
+      "ts": 1792186200,
+      "datetime": "20261016T214313Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T214313Z.gif"
+    },
+    {
+      "ts": 1792188900,
+      "datetime": "20261016T221851Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T221851Z.gif"
+    },
+    {
+      "ts": 1792189800,
+      "datetime": "20261016T224150Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T224150Z.gif"
+    },
+    {
+      "ts": 1792192500,
+      "datetime": "20261016T231744Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T231744Z.gif"
+    },
+    {
+      "ts": 1792193400,
+      "datetime": "20261016T234101Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261016T234101Z.gif"
+    },
+    {
+      "ts": 1792195200,
+      "datetime": "20261017T001153Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T001153Z.gif"
+    },
+    {
+      "ts": 1792197000,
+      "datetime": "20261017T004106Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T004106Z.gif"
+    },
+    {
+      "ts": 1792198800,
+      "datetime": "20261017T011315Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T011315Z.gif"
+    },
+    {
+      "ts": 1792200600,
+      "datetime": "20261017T014212Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T014212Z.gif"
+    },
+    {
+      "ts": 1792202400,
+      "datetime": "20261017T021202Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T021202Z.gif"
+    },
+    {
+      "ts": 1792204200,
+      "datetime": "20261017T023644Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T023644Z.gif"
+    },
+    {
+      "ts": 1792206000,
+      "datetime": "20261017T030708Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T030708Z.gif"
+    },
+    {
+      "ts": 1792207800,
+      "datetime": "20261017T033707Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T033707Z.gif"
+    },
+    {
+      "ts": 1792209600,
+      "datetime": "20261017T040900Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T040900Z.gif"
+    },
+    {
+      "ts": 1792211400,
+      "datetime": "20261017T043638Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T043638Z.gif"
+    },
+    {
+      "ts": 1792213200,
+      "datetime": "20261017T050752Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T050752Z.gif"
+    },
+    {
+      "ts": 1792215000,
+      "datetime": "20261017T053753Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T053753Z.gif"
+    },
+    {
+      "ts": 1792216800,
+      "datetime": "20261017T060858Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T060858Z.gif"
+    },
+    {
+      "ts": 1792218600,
+      "datetime": "20261017T063742Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T063742Z.gif"
+    },
+    {
+      "ts": 1792221300,
+      "datetime": "20261017T071744Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T071744Z.gif"
+    },
+    {
+      "ts": 1792222200,
+      "datetime": "20261017T073812Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T073812Z.gif"
+    },
+    {
+      "ts": 1792224000,
+      "datetime": "20261017T081059Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T081059Z.gif"
+    },
+    {
+      "ts": 1792225800,
+      "datetime": "20261017T083849Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T083849Z.gif"
+    },
+    {
+      "ts": 1792227600,
+      "datetime": "20261017T091135Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T091135Z.gif"
+    },
+    {
+      "ts": 1792229400,
+      "datetime": "20261017T094140Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T094140Z.gif"
+    },
+    {
+      "ts": 1792231200,
+      "datetime": "20261017T100925Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T100925Z.gif"
+    },
+    {
+      "ts": 1792233000,
+      "datetime": "20261017T104019Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T104019Z.gif"
+    },
+    {
+      "ts": 1792234800,
+      "datetime": "20261017T111016Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T111016Z.gif"
+    },
+    {
+      "ts": 1792236600,
+      "datetime": "20261017T114320Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T114320Z.gif"
+    },
+    {
+      "ts": 1792239300,
+      "datetime": "20261017T122219Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T122219Z.gif"
+    },
+    {
+      "ts": 1792240200,
+      "datetime": "20261017T124020Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T124020Z.gif"
+    },
+    {
+      "ts": 1792242000,
+      "datetime": "20261017T131129Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T131129Z.gif"
+    },
+    {
+      "ts": 1792243800,
+      "datetime": "20261017T134022Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T134022Z.gif"
+    },
+    {
+      "ts": 1792245600,
+      "datetime": "20261017T141157Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T141157Z.gif"
+    },
+    {
+      "ts": 1792247400,
+      "datetime": "20261017T144345Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T144345Z.gif"
+    },
+    {
+      "ts": 1792249200,
+      "datetime": "20261017T151438Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T151438Z.gif"
+    },
+    {
+      "ts": 1792251000,
+      "datetime": "20261017T154118Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T154118Z.gif"
+    },
+    {
+      "ts": 1792252800,
+      "datetime": "20261017T161103Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T161103Z.gif"
+    },
+    {
+      "ts": 1792254600,
+      "datetime": "20261017T164214Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T164214Z.gif"
+    },
+    {
+      "ts": 1792256400,
+      "datetime": "20261017T171222Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T171222Z.gif"
+    },
+    {
+      "ts": 1792258200,
+      "datetime": "20261017T174223Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T174223Z.gif"
+    },
+    {
+      "ts": 1792260000,
+      "datetime": "20261017T181151Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T181151Z.gif"
+    },
+    {
+      "ts": 1792261800,
+      "datetime": "20261017T184131Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T184131Z.gif"
+    },
+    {
+      "ts": 1792263600,
+      "datetime": "20261017T191146Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T191146Z.gif"
+    },
+    {
+      "ts": 1792265400,
+      "datetime": "20261017T193723Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T193723Z.gif"
+    },
+    {
+      "ts": 1792267200,
+      "datetime": "20261017T200639Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T200639Z.gif"
+    },
+    {
+      "ts": 1792269000,
+      "datetime": "20261017T203646Z",
+      "date": "20261017",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261017/gif/20261017T203646Z.gif"
+    },
+    {
+      "ts": 1792270800,
+      "datetime": "20261017T210643Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T210643Z.gif"
+    },
+    {
+      "ts": 1792272600,
+      "datetime": "20261017T213647Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T213647Z.gif"
+    },
+    {
+      "ts": 1792274400,
+      "datetime": "20261017T220717Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T220717Z.gif"
+    },
+    {
+      "ts": 1792276200,
+      "datetime": "20261017T224007Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T224007Z.gif"
+    },
+    {
+      "ts": 1792278000,
+      "datetime": "20261017T230827Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T230827Z.gif"
+    },
+    {
+      "ts": 1792279800,
+      "datetime": "20261017T233831Z",
+      "date": "20261018",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/istanbul/LTFM/20261018/gif/20261017T233831Z.gif"
+    }
+  ]
+}
