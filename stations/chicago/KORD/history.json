@@ -1,0 +1,941 @@
+{
+  "icao": "KORD",
+  "captures": [
+    {
+      "ts": 1792558800,
+      "datetime": "20261021T051117Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T051117Z.gif"
+    },
+    {
+      "ts": 1792560600,
+      "datetime": "20261021T053854Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T053854Z.gif"
+    },
+    {
+      "ts": 1792562400,
+      "datetime": "20261021T060955Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T060955Z.gif"
+    },
+    {
+      "ts": 1792564200,
+      "datetime": "20261021T063901Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T063901Z.gif"
+    },
+    {
+      "ts": 1792566000,
+      "datetime": "20261021T070954Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T070954Z.gif"
+    },
+    {
+      "ts": 1792567800,
+      "datetime": "20261021T073930Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T073930Z.gif"
+    },
+    {
+      "ts": 1792569600,
+      "datetime": "20261021T081015Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T081015Z.gif"
+    },
+    {
+      "ts": 1792572300,
+      "datetime": "20261021T085018Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T085018Z.gif"
+    },
+    {
+      "ts": 1792573200,
+      "datetime": "20261021T091000Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T091000Z.gif"
+    },
+    {
+      "ts": 1792575000,
+      "datetime": "20261021T093957Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T093957Z.gif"
+    },
+    {
+      "ts": 1792576800,
+      "datetime": "20261021T101123Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T101123Z.gif"
+    },
+    {
+      "ts": 1792578600,
+      "datetime": "20261021T104325Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T104325Z.gif"
+    },
+    {
+      "ts": 1792580400,
+      "datetime": "20261021T111031Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T111031Z.gif"
+    },
+    {
+      "ts": 1792582200,
+      "datetime": "20261021T114042Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T114042Z.gif"
+    },
+    {
+      "ts": 1792584000,
+      "datetime": "20261021T121140Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T121140Z.gif"
+    },
+    {
+      "ts": 1792585800,
+      "datetime": "20261021T124133Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T124133Z.gif"
+    },
+    {
+      "ts": 1792587600,
+      "datetime": "20261021T131308Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T131308Z.gif"
+    },
+    {
+      "ts": 1792589400,
+      "datetime": "20261021T134218Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T134218Z.gif"
+    },
+    {
+      "ts": 1792591200,
+      "datetime": "20261021T141152Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T141152Z.gif"
+    },
+    {
+      "ts": 1792593000,
+      "datetime": "20261021T143644Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T143644Z.gif"
+    },
+    {
+      "ts": 1792594800,
+      "datetime": "20261021T151111Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T151111Z.gif"
+    },
+    {
+      "ts": 1792596600,
+      "datetime": "20261021T153817Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T153817Z.gif"
+    },
+    {
+      "ts": 1792598400,
+      "datetime": "20261021T160805Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T160805Z.gif"
+    },
+    {
+      "ts": 1792600200,
+      "datetime": "20261021T164053Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T164053Z.gif"
+    },
+    {
+      "ts": 1792602000,
+      "datetime": "20261021T170758Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T170758Z.gif"
+    },
+    {
+      "ts": 1792603800,
+      "datetime": "20261021T173754Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T173754Z.gif"
+    },
+    {
+      "ts": 1792605600,
+      "datetime": "20261021T180956Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T180956Z.gif"
+    },
+    {
+      "ts": 1792607400,
+      "datetime": "20261021T184336Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T184336Z.gif"
+    },
+    {
+      "ts": 1792609200,
+      "datetime": "20261021T190805Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T190805Z.gif"
+    },
+    {
+      "ts": 1792611000,
+      "datetime": "20261021T194105Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T194105Z.gif"
+    },
+    {
+      "ts": 1792612800,
+      "datetime": "20261021T200839Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T200839Z.gif"
+    },
+    {
+      "ts": 1792614600,
+      "datetime": "20261021T203852Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T203852Z.gif"
+    },
+    {
+      "ts": 1792616400,
+      "datetime": "20261021T211031Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T211031Z.gif"
+    },
+    {
+      "ts": 1792618200,
+      "datetime": "20261021T213909Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T213909Z.gif"
+    },
+    {
+      "ts": 1792620000,
+      "datetime": "20261021T220858Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T220858Z.gif"
+    },
+    {
+      "ts": 1792621800,
+      "datetime": "20261021T223806Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T223806Z.gif"
+    },
+    {
+      "ts": 1792623600,
+      "datetime": "20261021T230914Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T230914Z.gif"
+    },
+    {
+      "ts": 1792626300,
+      "datetime": "20261021T235124Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261021T235124Z.gif"
+    },
+    {
+      "ts": 1792627200,
+      "datetime": "20261022T000850Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T000850Z.gif"
+    },
+    {
+      "ts": 1792629000,
+      "datetime": "20261022T003837Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T003837Z.gif"
+    },
+    {
+      "ts": 1792630800,
+      "datetime": "20261022T010916Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T010916Z.gif"
+    },
+    {
+      "ts": 1792632600,
+      "datetime": "20261022T013834Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T013834Z.gif"
+    },
+    {
+      "ts": 1792634400,
+      "datetime": "20261022T021122Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T021122Z.gif"
+    },
+    {
+      "ts": 1792637100,
+      "datetime": "20261022T025048Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T025048Z.gif"
+    },
+    {
+      "ts": 1792638000,
+      "datetime": "20261022T031136Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T031136Z.gif"
+    },
+    {
+      "ts": 1792639800,
+      "datetime": "20261022T034036Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T034036Z.gif"
+    },
+    {
+      "ts": 1792641600,
+      "datetime": "20261022T041125Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T041125Z.gif"
+    },
+    {
+      "ts": 1792643400,
+      "datetime": "20261022T044004Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261021/gif/20261022T044004Z.gif"
+    },
+    {
+      "ts": 1792645200,
+      "datetime": "20261022T051204Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T051204Z.gif"
+    },
+    {
+      "ts": 1792647000,
+      "datetime": "20261022T054042Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T054042Z.gif"
+    },
+    {
+      "ts": 1792648800,
+      "datetime": "20261022T061435Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T061435Z.gif"
+    },
+    {
+      "ts": 1792650600,
+      "datetime": "20261022T064326Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T064326Z.gif"
+    },
+    {
+      "ts": 1792652400,
+      "datetime": "20261022T071748Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T071748Z.gif"
+    },
+    {
+      "ts": 1792654200,
+      "datetime": "20261022T074555Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T074555Z.gif"
+    },
+    {
+      "ts": 1792656000,
+      "datetime": "20261022T081755Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T081755Z.gif"
+    },
+    {
+      "ts": 1792657800,
+      "datetime": "20261022T084101Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T084101Z.gif"
+    },
+    {
+      "ts": 1792659600,
+      "datetime": "20261022T090615Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T090615Z.gif"
+    },
+    {
+      "ts": 1792661400,
+      "datetime": "20261022T093710Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T093710Z.gif"
+    },
+    {
+      "ts": 1792663200,
+      "datetime": "20261022T100621Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T100621Z.gif"
+    },
+    {
+      "ts": 1792665000,
+      "datetime": "20261022T103704Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T103704Z.gif"
+    },
+    {
+      "ts": 1792666800,
+      "datetime": "20261022T110732Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T110732Z.gif"
+    },
+    {
+      "ts": 1792668600,
+      "datetime": "20261022T113801Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T113801Z.gif"
+    },
+    {
+      "ts": 1792670400,
+      "datetime": "20261022T121341Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T121341Z.gif"
+    },
+    {
+      "ts": 1792672200,
+      "datetime": "20261022T123912Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T123912Z.gif"
+    },
+    {
+      "ts": 1792674000,
+      "datetime": "20261022T130819Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T130819Z.gif"
+    },
+    {
+      "ts": 1792675800,
+      "datetime": "20261022T133829Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T133829Z.gif"
+    },
+    {
+      "ts": 1792677600,
+      "datetime": "20261022T140932Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T140932Z.gif"
+    },
+    {
+      "ts": 1792679400,
+      "datetime": "20261022T143811Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T143811Z.gif"
+    },
+    {
+      "ts": 1792683900,
+      "datetime": "20261022T155417Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T155417Z.gif"
+    },
+    {
+      "ts": 1792684800,
+      "datetime": "20261022T160941Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T160941Z.gif"
+    },
+    {
+      "ts": 1792686600,
+      "datetime": "20261022T163836Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T163836Z.gif"
+    },
+    {
+      "ts": 1792688400,
+      "datetime": "20261022T170835Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T170835Z.gif"
+    },
+    {
+      "ts": 1792690200,
+      "datetime": "20261022T173902Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T173902Z.gif"
+    },
+    {
+      "ts": 1792692000,
+      "datetime": "20261022T180845Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T180845Z.gif"
+    },
+    {
+      "ts": 1792693800,
+      "datetime": "20261022T184102Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T184102Z.gif"
+    },
+    {
+      "ts": 1792695600,
+      "datetime": "20261022T190958Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T190958Z.gif"
+    },
+    {
+      "ts": 1792698300,
+      "datetime": "20261022T195615Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T195615Z.gif"
+    },
+    {
+      "ts": 1792699200,
+      "datetime": "20261022T200939Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T200939Z.gif"
+    },
+    {
+      "ts": 1792701000,
+      "datetime": "20261022T203942Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T203942Z.gif"
+    },
+    {
+      "ts": 1792702800,
+      "datetime": "20261022T210948Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T210948Z.gif"
+    },
+    {
+      "ts": 1792704600,
+      "datetime": "20261022T214108Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T214108Z.gif"
+    },
+    {
+      "ts": 1792706400,
+      "datetime": "20261022T220941Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T220941Z.gif"
+    },
+    {
+      "ts": 1792708200,
+      "datetime": "20261022T224008Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T224008Z.gif"
+    },
+    {
+      "ts": 1792710000,
+      "datetime": "20261022T231244Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261022T231244Z.gif"
+    },
+    {
+      "ts": 1792713600,
+      "datetime": "20261023T000850Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T000850Z.gif"
+    },
+    {
+      "ts": 1792715400,
+      "datetime": "20261023T004802Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T004802Z.gif"
+    },
+    {
+      "ts": 1792716300,
+      "datetime": "20261023T010215Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T010215Z.gif"
+    },
+    {
+      "ts": 1792717200,
+      "datetime": "20261023T011559Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T011559Z.gif"
+    },
+    {
+      "ts": 1792719000,
+      "datetime": "20261023T014214Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T014214Z.gif"
+    },
+    {
+      "ts": 1792721700,
+      "datetime": "20261023T022556Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T022556Z.gif"
+    },
+    {
+      "ts": 1792722600,
+      "datetime": "20261023T024034Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T024034Z.gif"
+    },
+    {
+      "ts": 1792724400,
+      "datetime": "20261023T031239Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T031239Z.gif"
+    },
+    {
+      "ts": 1792726200,
+      "datetime": "20261023T033957Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T033957Z.gif"
+    },
+    {
+      "ts": 1792728000,
+      "datetime": "20261023T040826Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T040826Z.gif"
+    },
+    {
+      "ts": 1792729800,
+      "datetime": "20261023T044428Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261022/gif/20261023T044428Z.gif"
+    },
+    {
+      "ts": 1792731600,
+      "datetime": "20261023T050717Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T050717Z.gif"
+    },
+    {
+      "ts": 1792733400,
+      "datetime": "20261023T053659Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T053659Z.gif"
+    },
+    {
+      "ts": 1792735200,
+      "datetime": "20261023T060728Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T060728Z.gif"
+    },
+    {
+      "ts": 1792738800,
+      "datetime": "20261023T070818Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T070818Z.gif"
+    },
+    {
+      "ts": 1792739700,
+      "datetime": "20261023T071754Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T071754Z.gif"
+    },
+    {
+      "ts": 1792740600,
+      "datetime": "20261023T074051Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T074051Z.gif"
+    },
+    {
+      "ts": 1792742400,
+      "datetime": "20261023T080744Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T080744Z.gif"
+    },
+    {
+      "ts": 1792744200,
+      "datetime": "20261023T083740Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T083740Z.gif"
+    },
+    {
+      "ts": 1792747800,
+      "datetime": "20261023T094312Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T094312Z.gif"
+    },
+    {
+      "ts": 1792748700,
+      "datetime": "20261023T095326Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T095326Z.gif"
+    },
+    {
+      "ts": 1792752300,
+      "datetime": "20261023T105416Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T105416Z.gif"
+    },
+    {
+      "ts": 1792755000,
+      "datetime": "20261023T114351Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T114351Z.gif"
+    },
+    {
+      "ts": 1792755900,
+      "datetime": "20261023T115350Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T115350Z.gif"
+    },
+    {
+      "ts": 1792756800,
+      "datetime": "20261023T120909Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T120909Z.gif"
+    },
+    {
+      "ts": 1792763100,
+      "datetime": "20261023T135406Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T135406Z.gif"
+    },
+    {
+      "ts": 1792766700,
+      "datetime": "20261023T145120Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T145120Z.gif"
+    },
+    {
+      "ts": 1792770300,
+      "datetime": "20261023T155749Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T155749Z.gif"
+    },
+    {
+      "ts": 1792771200,
+      "datetime": "20261023T161026Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T161026Z.gif"
+    },
+    {
+      "ts": 1792773000,
+      "datetime": "20261023T163942Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T163942Z.gif"
+    },
+    {
+      "ts": 1792774800,
+      "datetime": "20261023T170949Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T170949Z.gif"
+    },
+    {
+      "ts": 1792776600,
+      "datetime": "20261023T173922Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T173922Z.gif"
+    },
+    {
+      "ts": 1792781100,
+      "datetime": "20261023T185520Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T185520Z.gif"
+    },
+    {
+      "ts": 1792782000,
+      "datetime": "20261023T191005Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T191005Z.gif"
+    },
+    {
+      "ts": 1792783800,
+      "datetime": "20261023T193925Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T193925Z.gif"
+    },
+    {
+      "ts": 1792786500,
+      "datetime": "20261023T203142Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T203142Z.gif"
+    },
+    {
+      "ts": 1792787400,
+      "datetime": "20261023T204737Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T204737Z.gif"
+    },
+    {
+      "ts": 1792791900,
+      "datetime": "20261023T215544Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T215544Z.gif"
+    },
+    {
+      "ts": 1792792800,
+      "datetime": "20261023T221017Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T221017Z.gif"
+    },
+    {
+      "ts": 1792794600,
+      "datetime": "20261023T224015Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T224015Z.gif"
+    },
+    {
+      "ts": 1792796400,
+      "datetime": "20261023T231022Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T231022Z.gif"
+    },
+    {
+      "ts": 1792798200,
+      "datetime": "20261023T233957Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261023T233957Z.gif"
+    },
+    {
+      "ts": 1792800000,
+      "datetime": "20261024T001615Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T001615Z.gif"
+    },
+    {
+      "ts": 1792802700,
+      "datetime": "20261024T005257Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T005257Z.gif"
+    },
+    {
+      "ts": 1792803600,
+      "datetime": "20261024T011029Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T011029Z.gif"
+    },
+    {
+      "ts": 1792805400,
+      "datetime": "20261024T014010Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T014010Z.gif"
+    },
+    {
+      "ts": 1792807200,
+      "datetime": "20261024T021445Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T021445Z.gif"
+    },
+    {
+      "ts": 1792809000,
+      "datetime": "20261024T023809Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T023809Z.gif"
+    },
+    {
+      "ts": 1792810800,
+      "datetime": "20261024T030846Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T030846Z.gif"
+    },
+    {
+      "ts": 1792812600,
+      "datetime": "20261024T033648Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T033648Z.gif"
+    },
+    {
+      "ts": 1792814400,
+      "datetime": "20261024T040626Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T040626Z.gif"
+    },
+    {
+      "ts": 1792816200,
+      "datetime": "20261024T044205Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261023/gif/20261024T044205Z.gif"
+    },
+    {
+      "ts": 1792818000,
+      "datetime": "20261024T050636Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T050636Z.gif"
+    },
+    {
+      "ts": 1792819800,
+      "datetime": "20261024T053848Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T053848Z.gif"
+    },
+    {
+      "ts": 1792821600,
+      "datetime": "20261024T061001Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T061001Z.gif"
+    },
+    {
+      "ts": 1792823400,
+      "datetime": "20261024T063740Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T063740Z.gif"
+    },
+    {
+      "ts": 1792825200,
+      "datetime": "20261024T070927Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T070927Z.gif"
+    },
+    {
+      "ts": 1792827000,
+      "datetime": "20261024T073746Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T073746Z.gif"
+    },
+    {
+      "ts": 1792828800,
+      "datetime": "20261024T080748Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T080748Z.gif"
+    },
+    {
+      "ts": 1792830600,
+      "datetime": "20261024T084046Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T084046Z.gif"
+    },
+    {
+      "ts": 1792832400,
+      "datetime": "20261024T090814Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T090814Z.gif"
+    },
+    {
+      "ts": 1792834200,
+      "datetime": "20261024T093827Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T093827Z.gif"
+    },
+    {
+      "ts": 1792836000,
+      "datetime": "20261024T100835Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T100835Z.gif"
+    },
+    {
+      "ts": 1792837800,
+      "datetime": "20261024T103835Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T103835Z.gif"
+    },
+    {
+      "ts": 1792839600,
+      "datetime": "20261024T111220Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T111220Z.gif"
+    },
+    {
+      "ts": 1792841400,
+      "datetime": "20261024T113851Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T113851Z.gif"
+    },
+    {
+      "ts": 1792843200,
+      "datetime": "20261024T120915Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T120915Z.gif"
+    },
+    {
+      "ts": 1792845000,
+      "datetime": "20261024T123911Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T123911Z.gif"
+    },
+    {
+      "ts": 1792846800,
+      "datetime": "20261024T130910Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T130910Z.gif"
+    },
+    {
+      "ts": 1792848600,
+      "datetime": "20261024T134032Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T134032Z.gif"
+    },
+    {
+      "ts": 1792850400,
+      "datetime": "20261024T141247Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T141247Z.gif"
+    },
+    {
+      "ts": 1792852200,
+      "datetime": "20261024T144042Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/chicago/KORD/20261024/gif/20261024T144042Z.gif"
+    }
+  ]
+}

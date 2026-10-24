@@ -1,0 +1,941 @@
+{
+  "icao": "KDAL",
+  "captures": [
+    {
+      "ts": 1792558800,
+      "datetime": "20261021T051121Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T051121Z.gif"
+    },
+    {
+      "ts": 1792560600,
+      "datetime": "20261021T053855Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T053855Z.gif"
+    },
+    {
+      "ts": 1792562400,
+      "datetime": "20261021T060956Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T060956Z.gif"
+    },
+    {
+      "ts": 1792564200,
+      "datetime": "20261021T063903Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T063903Z.gif"
+    },
+    {
+      "ts": 1792566000,
+      "datetime": "20261021T070955Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T070955Z.gif"
+    },
+    {
+      "ts": 1792567800,
+      "datetime": "20261021T073932Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T073932Z.gif"
+    },
+    {
+      "ts": 1792569600,
+      "datetime": "20261021T081017Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T081017Z.gif"
+    },
+    {
+      "ts": 1792572300,
+      "datetime": "20261021T085021Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T085021Z.gif"
+    },
+    {
+      "ts": 1792573200,
+      "datetime": "20261021T091001Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T091001Z.gif"
+    },
+    {
+      "ts": 1792575000,
+      "datetime": "20261021T093959Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T093959Z.gif"
+    },
+    {
+      "ts": 1792576800,
+      "datetime": "20261021T101125Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T101125Z.gif"
+    },
+    {
+      "ts": 1792578600,
+      "datetime": "20261021T104328Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T104328Z.gif"
+    },
+    {
+      "ts": 1792580400,
+      "datetime": "20261021T111032Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T111032Z.gif"
+    },
+    {
+      "ts": 1792582200,
+      "datetime": "20261021T114043Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T114043Z.gif"
+    },
+    {
+      "ts": 1792584000,
+      "datetime": "20261021T121141Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T121141Z.gif"
+    },
+    {
+      "ts": 1792585800,
+      "datetime": "20261021T124135Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T124135Z.gif"
+    },
+    {
+      "ts": 1792587600,
+      "datetime": "20261021T131310Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T131310Z.gif"
+    },
+    {
+      "ts": 1792589400,
+      "datetime": "20261021T134219Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T134219Z.gif"
+    },
+    {
+      "ts": 1792591200,
+      "datetime": "20261021T141154Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T141154Z.gif"
+    },
+    {
+      "ts": 1792593000,
+      "datetime": "20261021T143645Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T143645Z.gif"
+    },
+    {
+      "ts": 1792594800,
+      "datetime": "20261021T151114Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T151114Z.gif"
+    },
+    {
+      "ts": 1792596600,
+      "datetime": "20261021T153819Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T153819Z.gif"
+    },
+    {
+      "ts": 1792598400,
+      "datetime": "20261021T160807Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T160807Z.gif"
+    },
+    {
+      "ts": 1792600200,
+      "datetime": "20261021T164056Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T164056Z.gif"
+    },
+    {
+      "ts": 1792602000,
+      "datetime": "20261021T170759Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T170759Z.gif"
+    },
+    {
+      "ts": 1792603800,
+      "datetime": "20261021T173756Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T173756Z.gif"
+    },
+    {
+      "ts": 1792605600,
+      "datetime": "20261021T180959Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T180959Z.gif"
+    },
+    {
+      "ts": 1792607400,
+      "datetime": "20261021T184339Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T184339Z.gif"
+    },
+    {
+      "ts": 1792609200,
+      "datetime": "20261021T190806Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T190806Z.gif"
+    },
+    {
+      "ts": 1792611000,
+      "datetime": "20261021T194108Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T194108Z.gif"
+    },
+    {
+      "ts": 1792612800,
+      "datetime": "20261021T200841Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T200841Z.gif"
+    },
+    {
+      "ts": 1792614600,
+      "datetime": "20261021T203854Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T203854Z.gif"
+    },
+    {
+      "ts": 1792616400,
+      "datetime": "20261021T211034Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T211034Z.gif"
+    },
+    {
+      "ts": 1792618200,
+      "datetime": "20261021T213910Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T213910Z.gif"
+    },
+    {
+      "ts": 1792620000,
+      "datetime": "20261021T220900Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T220900Z.gif"
+    },
+    {
+      "ts": 1792621800,
+      "datetime": "20261021T223807Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T223807Z.gif"
+    },
+    {
+      "ts": 1792623600,
+      "datetime": "20261021T230916Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T230916Z.gif"
+    },
+    {
+      "ts": 1792626300,
+      "datetime": "20261021T235127Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261021T235127Z.gif"
+    },
+    {
+      "ts": 1792627200,
+      "datetime": "20261022T000851Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T000851Z.gif"
+    },
+    {
+      "ts": 1792629000,
+      "datetime": "20261022T003838Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T003838Z.gif"
+    },
+    {
+      "ts": 1792630800,
+      "datetime": "20261022T010917Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T010917Z.gif"
+    },
+    {
+      "ts": 1792632600,
+      "datetime": "20261022T013836Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T013836Z.gif"
+    },
+    {
+      "ts": 1792634400,
+      "datetime": "20261022T021125Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T021125Z.gif"
+    },
+    {
+      "ts": 1792637100,
+      "datetime": "20261022T025051Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T025051Z.gif"
+    },
+    {
+      "ts": 1792638000,
+      "datetime": "20261022T031139Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T031139Z.gif"
+    },
+    {
+      "ts": 1792639800,
+      "datetime": "20261022T034038Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T034038Z.gif"
+    },
+    {
+      "ts": 1792641600,
+      "datetime": "20261022T041126Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T041126Z.gif"
+    },
+    {
+      "ts": 1792643400,
+      "datetime": "20261022T044006Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261021/gif/20261022T044006Z.gif"
+    },
+    {
+      "ts": 1792645200,
+      "datetime": "20261022T051207Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T051207Z.gif"
+    },
+    {
+      "ts": 1792647000,
+      "datetime": "20261022T054043Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T054043Z.gif"
+    },
+    {
+      "ts": 1792648800,
+      "datetime": "20261022T061438Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T061438Z.gif"
+    },
+    {
+      "ts": 1792650600,
+      "datetime": "20261022T064329Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T064329Z.gif"
+    },
+    {
+      "ts": 1792652400,
+      "datetime": "20261022T071750Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T071750Z.gif"
+    },
+    {
+      "ts": 1792654200,
+      "datetime": "20261022T074558Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T074558Z.gif"
+    },
+    {
+      "ts": 1792656000,
+      "datetime": "20261022T081759Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T081759Z.gif"
+    },
+    {
+      "ts": 1792657800,
+      "datetime": "20261022T084102Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T084102Z.gif"
+    },
+    {
+      "ts": 1792659600,
+      "datetime": "20261022T090616Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T090616Z.gif"
+    },
+    {
+      "ts": 1792661400,
+      "datetime": "20261022T093711Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T093711Z.gif"
+    },
+    {
+      "ts": 1792663200,
+      "datetime": "20261022T100623Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T100623Z.gif"
+    },
+    {
+      "ts": 1792665000,
+      "datetime": "20261022T103706Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T103706Z.gif"
+    },
+    {
+      "ts": 1792666800,
+      "datetime": "20261022T110733Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T110733Z.gif"
+    },
+    {
+      "ts": 1792668600,
+      "datetime": "20261022T113802Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T113802Z.gif"
+    },
+    {
+      "ts": 1792670400,
+      "datetime": "20261022T121344Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T121344Z.gif"
+    },
+    {
+      "ts": 1792672200,
+      "datetime": "20261022T123913Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T123913Z.gif"
+    },
+    {
+      "ts": 1792674000,
+      "datetime": "20261022T130821Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T130821Z.gif"
+    },
+    {
+      "ts": 1792675800,
+      "datetime": "20261022T133831Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T133831Z.gif"
+    },
+    {
+      "ts": 1792677600,
+      "datetime": "20261022T140934Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T140934Z.gif"
+    },
+    {
+      "ts": 1792679400,
+      "datetime": "20261022T143813Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T143813Z.gif"
+    },
+    {
+      "ts": 1792683900,
+      "datetime": "20261022T155419Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T155419Z.gif"
+    },
+    {
+      "ts": 1792684800,
+      "datetime": "20261022T160943Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T160943Z.gif"
+    },
+    {
+      "ts": 1792686600,
+      "datetime": "20261022T163837Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T163837Z.gif"
+    },
+    {
+      "ts": 1792688400,
+      "datetime": "20261022T170836Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T170836Z.gif"
+    },
+    {
+      "ts": 1792690200,
+      "datetime": "20261022T173903Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T173903Z.gif"
+    },
+    {
+      "ts": 1792692000,
+      "datetime": "20261022T180847Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T180847Z.gif"
+    },
+    {
+      "ts": 1792693800,
+      "datetime": "20261022T184105Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T184105Z.gif"
+    },
+    {
+      "ts": 1792695600,
+      "datetime": "20261022T191000Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T191000Z.gif"
+    },
+    {
+      "ts": 1792698300,
+      "datetime": "20261022T195618Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T195618Z.gif"
+    },
+    {
+      "ts": 1792699200,
+      "datetime": "20261022T200940Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T200940Z.gif"
+    },
+    {
+      "ts": 1792701000,
+      "datetime": "20261022T203943Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T203943Z.gif"
+    },
+    {
+      "ts": 1792702800,
+      "datetime": "20261022T210950Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T210950Z.gif"
+    },
+    {
+      "ts": 1792704600,
+      "datetime": "20261022T214109Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T214109Z.gif"
+    },
+    {
+      "ts": 1792706400,
+      "datetime": "20261022T220942Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T220942Z.gif"
+    },
+    {
+      "ts": 1792708200,
+      "datetime": "20261022T224009Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T224009Z.gif"
+    },
+    {
+      "ts": 1792710000,
+      "datetime": "20261022T231247Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261022T231247Z.gif"
+    },
+    {
+      "ts": 1792713600,
+      "datetime": "20261023T000853Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T000853Z.gif"
+    },
+    {
+      "ts": 1792715400,
+      "datetime": "20261023T004805Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T004805Z.gif"
+    },
+    {
+      "ts": 1792716300,
+      "datetime": "20261023T010216Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T010216Z.gif"
+    },
+    {
+      "ts": 1792717200,
+      "datetime": "20261023T011600Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T011600Z.gif"
+    },
+    {
+      "ts": 1792719000,
+      "datetime": "20261023T014218Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T014218Z.gif"
+    },
+    {
+      "ts": 1792721700,
+      "datetime": "20261023T022557Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T022557Z.gif"
+    },
+    {
+      "ts": 1792722600,
+      "datetime": "20261023T024035Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T024035Z.gif"
+    },
+    {
+      "ts": 1792724400,
+      "datetime": "20261023T031243Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T031243Z.gif"
+    },
+    {
+      "ts": 1792726200,
+      "datetime": "20261023T034000Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T034000Z.gif"
+    },
+    {
+      "ts": 1792728000,
+      "datetime": "20261023T040829Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T040829Z.gif"
+    },
+    {
+      "ts": 1792729800,
+      "datetime": "20261023T044431Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261022/gif/20261023T044431Z.gif"
+    },
+    {
+      "ts": 1792731600,
+      "datetime": "20261023T050718Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T050718Z.gif"
+    },
+    {
+      "ts": 1792733400,
+      "datetime": "20261023T053700Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T053700Z.gif"
+    },
+    {
+      "ts": 1792735200,
+      "datetime": "20261023T060730Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T060730Z.gif"
+    },
+    {
+      "ts": 1792738800,
+      "datetime": "20261023T070821Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T070821Z.gif"
+    },
+    {
+      "ts": 1792739700,
+      "datetime": "20261023T071755Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T071755Z.gif"
+    },
+    {
+      "ts": 1792740600,
+      "datetime": "20261023T074054Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T074054Z.gif"
+    },
+    {
+      "ts": 1792742400,
+      "datetime": "20261023T080745Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T080745Z.gif"
+    },
+    {
+      "ts": 1792744200,
+      "datetime": "20261023T083741Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T083741Z.gif"
+    },
+    {
+      "ts": 1792747800,
+      "datetime": "20261023T094316Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T094316Z.gif"
+    },
+    {
+      "ts": 1792748700,
+      "datetime": "20261023T095328Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T095328Z.gif"
+    },
+    {
+      "ts": 1792752300,
+      "datetime": "20261023T105418Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T105418Z.gif"
+    },
+    {
+      "ts": 1792755000,
+      "datetime": "20261023T114355Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T114355Z.gif"
+    },
+    {
+      "ts": 1792755900,
+      "datetime": "20261023T115352Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T115352Z.gif"
+    },
+    {
+      "ts": 1792756800,
+      "datetime": "20261023T120911Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T120911Z.gif"
+    },
+    {
+      "ts": 1792763100,
+      "datetime": "20261023T135409Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T135409Z.gif"
+    },
+    {
+      "ts": 1792766700,
+      "datetime": "20261023T145122Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T145122Z.gif"
+    },
+    {
+      "ts": 1792770300,
+      "datetime": "20261023T155752Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T155752Z.gif"
+    },
+    {
+      "ts": 1792771200,
+      "datetime": "20261023T161028Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T161028Z.gif"
+    },
+    {
+      "ts": 1792773000,
+      "datetime": "20261023T163943Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T163943Z.gif"
+    },
+    {
+      "ts": 1792774800,
+      "datetime": "20261023T170950Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T170950Z.gif"
+    },
+    {
+      "ts": 1792776600,
+      "datetime": "20261023T173924Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T173924Z.gif"
+    },
+    {
+      "ts": 1792781100,
+      "datetime": "20261023T185521Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T185521Z.gif"
+    },
+    {
+      "ts": 1792782000,
+      "datetime": "20261023T191006Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T191006Z.gif"
+    },
+    {
+      "ts": 1792783800,
+      "datetime": "20261023T193927Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T193927Z.gif"
+    },
+    {
+      "ts": 1792786500,
+      "datetime": "20261023T203145Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T203145Z.gif"
+    },
+    {
+      "ts": 1792787400,
+      "datetime": "20261023T204739Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T204739Z.gif"
+    },
+    {
+      "ts": 1792791900,
+      "datetime": "20261023T215545Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T215545Z.gif"
+    },
+    {
+      "ts": 1792792800,
+      "datetime": "20261023T221019Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T221019Z.gif"
+    },
+    {
+      "ts": 1792794600,
+      "datetime": "20261023T224016Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T224016Z.gif"
+    },
+    {
+      "ts": 1792796400,
+      "datetime": "20261023T231024Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T231024Z.gif"
+    },
+    {
+      "ts": 1792798200,
+      "datetime": "20261023T233959Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261023T233959Z.gif"
+    },
+    {
+      "ts": 1792800000,
+      "datetime": "20261024T001618Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T001618Z.gif"
+    },
+    {
+      "ts": 1792802700,
+      "datetime": "20261024T005300Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T005300Z.gif"
+    },
+    {
+      "ts": 1792803600,
+      "datetime": "20261024T011031Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T011031Z.gif"
+    },
+    {
+      "ts": 1792805400,
+      "datetime": "20261024T014012Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T014012Z.gif"
+    },
+    {
+      "ts": 1792807200,
+      "datetime": "20261024T021449Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T021449Z.gif"
+    },
+    {
+      "ts": 1792809000,
+      "datetime": "20261024T023813Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T023813Z.gif"
+    },
+    {
+      "ts": 1792810800,
+      "datetime": "20261024T030849Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T030849Z.gif"
+    },
+    {
+      "ts": 1792812600,
+      "datetime": "20261024T033650Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T033650Z.gif"
+    },
+    {
+      "ts": 1792814400,
+      "datetime": "20261024T040627Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T040627Z.gif"
+    },
+    {
+      "ts": 1792816200,
+      "datetime": "20261024T044209Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261023/gif/20261024T044209Z.gif"
+    },
+    {
+      "ts": 1792818000,
+      "datetime": "20261024T050638Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T050638Z.gif"
+    },
+    {
+      "ts": 1792819800,
+      "datetime": "20261024T053851Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T053851Z.gif"
+    },
+    {
+      "ts": 1792821600,
+      "datetime": "20261024T061004Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T061004Z.gif"
+    },
+    {
+      "ts": 1792823400,
+      "datetime": "20261024T063741Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T063741Z.gif"
+    },
+    {
+      "ts": 1792825200,
+      "datetime": "20261024T070930Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T070930Z.gif"
+    },
+    {
+      "ts": 1792827000,
+      "datetime": "20261024T073747Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T073747Z.gif"
+    },
+    {
+      "ts": 1792828800,
+      "datetime": "20261024T080749Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T080749Z.gif"
+    },
+    {
+      "ts": 1792830600,
+      "datetime": "20261024T084049Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T084049Z.gif"
+    },
+    {
+      "ts": 1792832400,
+      "datetime": "20261024T090815Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T090815Z.gif"
+    },
+    {
+      "ts": 1792834200,
+      "datetime": "20261024T093828Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T093828Z.gif"
+    },
+    {
+      "ts": 1792836000,
+      "datetime": "20261024T100836Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T100836Z.gif"
+    },
+    {
+      "ts": 1792837800,
+      "datetime": "20261024T103836Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T103836Z.gif"
+    },
+    {
+      "ts": 1792839600,
+      "datetime": "20261024T111223Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T111223Z.gif"
+    },
+    {
+      "ts": 1792841400,
+      "datetime": "20261024T113852Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T113852Z.gif"
+    },
+    {
+      "ts": 1792843200,
+      "datetime": "20261024T120917Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T120917Z.gif"
+    },
+    {
+      "ts": 1792845000,
+      "datetime": "20261024T123912Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T123912Z.gif"
+    },
+    {
+      "ts": 1792846800,
+      "datetime": "20261024T130911Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T130911Z.gif"
+    },
+    {
+      "ts": 1792848600,
+      "datetime": "20261024T134034Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T134034Z.gif"
+    },
+    {
+      "ts": 1792850400,
+      "datetime": "20261024T141250Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T141250Z.gif"
+    },
+    {
+      "ts": 1792852200,
+      "datetime": "20261024T144044Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/dallas/KDAL/20261024/gif/20261024T144044Z.gif"
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "icao": "CYYZ",
+  "captures": [
+    {
+      "ts": 1792555200,
+      "datetime": "20261021T040834Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T040834Z.gif"
+    },
+    {
+      "ts": 1792557000,
+      "datetime": "20261021T043749Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T043749Z.gif"
+    },
+    {
+      "ts": 1792558800,
+      "datetime": "20261021T051032Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T051032Z.gif"
+    },
+    {
+      "ts": 1792560600,
+      "datetime": "20261021T053835Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T053835Z.gif"
+    },
+    {
+      "ts": 1792562400,
+      "datetime": "20261021T060931Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T060931Z.gif"
+    },
+    {
+      "ts": 1792564200,
+      "datetime": "20261021T063842Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T063842Z.gif"
+    },
+    {
+      "ts": 1792566000,
+      "datetime": "20261021T070930Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T070930Z.gif"
+    },
+    {
+      "ts": 1792567800,
+      "datetime": "20261021T073909Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T073909Z.gif"
+    },
+    {
+      "ts": 1792569600,
+      "datetime": "20261021T080954Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T080954Z.gif"
+    },
+    {
+      "ts": 1792572300,
+      "datetime": "20261021T084933Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T084933Z.gif"
+    },
+    {
+      "ts": 1792573200,
+      "datetime": "20261021T090939Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T090939Z.gif"
+    },
+    {
+      "ts": 1792575000,
+      "datetime": "20261021T093938Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T093938Z.gif"
+    },
+    {
+      "ts": 1792576800,
+      "datetime": "20261021T101100Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T101100Z.gif"
+    },
+    {
+      "ts": 1792578600,
+      "datetime": "20261021T104241Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T104241Z.gif"
+    },
+    {
+      "ts": 1792580400,
+      "datetime": "20261021T111009Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T111009Z.gif"
+    },
+    {
+      "ts": 1792582200,
+      "datetime": "20261021T114021Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T114021Z.gif"
+    },
+    {
+      "ts": 1792584000,
+      "datetime": "20261021T121118Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T121118Z.gif"
+    },
+    {
+      "ts": 1792585800,
+      "datetime": "20261021T124111Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T124111Z.gif"
+    },
+    {
+      "ts": 1792587600,
+      "datetime": "20261021T131248Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T131248Z.gif"
+    },
+    {
+      "ts": 1792589400,
+      "datetime": "20261021T134154Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T134154Z.gif"
+    },
+    {
+      "ts": 1792591200,
+      "datetime": "20261021T141126Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T141126Z.gif"
+    },
+    {
+      "ts": 1792593000,
+      "datetime": "20261021T143625Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T143625Z.gif"
+    },
+    {
+      "ts": 1792594800,
+      "datetime": "20261021T151028Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T151028Z.gif"
+    },
+    {
+      "ts": 1792596600,
+      "datetime": "20261021T153753Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T153753Z.gif"
+    },
+    {
+      "ts": 1792598400,
+      "datetime": "20261021T160743Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T160743Z.gif"
+    },
+    {
+      "ts": 1792600200,
+      "datetime": "20261021T164009Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T164009Z.gif"
+    },
+    {
+      "ts": 1792602000,
+      "datetime": "20261021T170737Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T170737Z.gif"
+    },
+    {
+      "ts": 1792603800,
+      "datetime": "20261021T173732Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T173732Z.gif"
+    },
+    {
+      "ts": 1792605600,
+      "datetime": "20261021T180915Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T180915Z.gif"
+    },
+    {
+      "ts": 1792607400,
+      "datetime": "20261021T184253Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T184253Z.gif"
+    },
+    {
+      "ts": 1792609200,
+      "datetime": "20261021T190739Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T190739Z.gif"
+    },
+    {
+      "ts": 1792611000,
+      "datetime": "20261021T194022Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T194022Z.gif"
+    },
+    {
+      "ts": 1792612800,
+      "datetime": "20261021T200819Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T200819Z.gif"
+    },
+    {
+      "ts": 1792614600,
+      "datetime": "20261021T203833Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T203833Z.gif"
+    },
+    {
+      "ts": 1792616400,
+      "datetime": "20261021T210952Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T210952Z.gif"
+    },
+    {
+      "ts": 1792618200,
+      "datetime": "20261021T213845Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T213845Z.gif"
+    },
+    {
+      "ts": 1792620000,
+      "datetime": "20261021T220833Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T220833Z.gif"
+    },
+    {
+      "ts": 1792621800,
+      "datetime": "20261021T223743Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T223743Z.gif"
+    },
+    {
+      "ts": 1792623600,
+      "datetime": "20261021T230853Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T230853Z.gif"
+    },
+    {
+      "ts": 1792626300,
+      "datetime": "20261021T235044Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261021T235044Z.gif"
+    },
+    {
+      "ts": 1792627200,
+      "datetime": "20261022T000827Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T000827Z.gif"
+    },
+    {
+      "ts": 1792629000,
+      "datetime": "20261022T003814Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T003814Z.gif"
+    },
+    {
+      "ts": 1792630800,
+      "datetime": "20261022T010851Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T010851Z.gif"
+    },
+    {
+      "ts": 1792632600,
+      "datetime": "20261022T013813Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T013813Z.gif"
+    },
+    {
+      "ts": 1792634400,
+      "datetime": "20261022T021032Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T021032Z.gif"
+    },
+    {
+      "ts": 1792637100,
+      "datetime": "20261022T025006Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T025006Z.gif"
+    },
+    {
+      "ts": 1792638000,
+      "datetime": "20261022T031051Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T031051Z.gif"
+    },
+    {
+      "ts": 1792639800,
+      "datetime": "20261022T034013Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261021/gif/20261022T034013Z.gif"
+    },
+    {
+      "ts": 1792641600,
+      "datetime": "20261022T041104Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T041104Z.gif"
+    },
+    {
+      "ts": 1792643400,
+      "datetime": "20261022T043943Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T043943Z.gif"
+    },
+    {
+      "ts": 1792645200,
+      "datetime": "20261022T051119Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T051119Z.gif"
+    },
+    {
+      "ts": 1792647000,
+      "datetime": "20261022T054016Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T054016Z.gif"
+    },
+    {
+      "ts": 1792648800,
+      "datetime": "20261022T061351Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T061351Z.gif"
+    },
+    {
+      "ts": 1792650600,
+      "datetime": "20261022T064241Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T064241Z.gif"
+    },
+    {
+      "ts": 1792652400,
+      "datetime": "20261022T071726Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T071726Z.gif"
+    },
+    {
+      "ts": 1792654200,
+      "datetime": "20261022T074512Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T074512Z.gif"
+    },
+    {
+      "ts": 1792656000,
+      "datetime": "20261022T081707Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T081707Z.gif"
+    },
+    {
+      "ts": 1792657800,
+      "datetime": "20261022T084039Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T084039Z.gif"
+    },
+    {
+      "ts": 1792659600,
+      "datetime": "20261022T090556Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T090556Z.gif"
+    },
+    {
+      "ts": 1792661400,
+      "datetime": "20261022T093649Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T093649Z.gif"
+    },
+    {
+      "ts": 1792663200,
+      "datetime": "20261022T100559Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T100559Z.gif"
+    },
+    {
+      "ts": 1792665000,
+      "datetime": "20261022T103641Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T103641Z.gif"
+    },
+    {
+      "ts": 1792666800,
+      "datetime": "20261022T110708Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T110708Z.gif"
+    },
+    {
+      "ts": 1792668600,
+      "datetime": "20261022T113734Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T113734Z.gif"
+    },
+    {
+      "ts": 1792670400,
+      "datetime": "20261022T121257Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T121257Z.gif"
+    },
+    {
+      "ts": 1792672200,
+      "datetime": "20261022T123852Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T123852Z.gif"
+    },
+    {
+      "ts": 1792674000,
+      "datetime": "20261022T130757Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T130757Z.gif"
+    },
+    {
+      "ts": 1792675800,
+      "datetime": "20261022T133805Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T133805Z.gif"
+    },
+    {
+      "ts": 1792677600,
+      "datetime": "20261022T140909Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T140909Z.gif"
+    },
+    {
+      "ts": 1792679400,
+      "datetime": "20261022T143747Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T143747Z.gif"
+    },
+    {
+      "ts": 1792683900,
+      "datetime": "20261022T155359Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T155359Z.gif"
+    },
+    {
+      "ts": 1792684800,
+      "datetime": "20261022T160918Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T160918Z.gif"
+    },
+    {
+      "ts": 1792686600,
+      "datetime": "20261022T163817Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T163817Z.gif"
+    },
+    {
+      "ts": 1792688400,
+      "datetime": "20261022T170813Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T170813Z.gif"
+    },
+    {
+      "ts": 1792690200,
+      "datetime": "20261022T173841Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T173841Z.gif"
+    },
+    {
+      "ts": 1792692000,
+      "datetime": "20261022T180821Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T180821Z.gif"
+    },
+    {
+      "ts": 1792693800,
+      "datetime": "20261022T184022Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T184022Z.gif"
+    },
+    {
+      "ts": 1792695600,
+      "datetime": "20261022T190936Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T190936Z.gif"
+    },
+    {
+      "ts": 1792698300,
+      "datetime": "20261022T195536Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T195536Z.gif"
+    },
+    {
+      "ts": 1792699200,
+      "datetime": "20261022T200921Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T200921Z.gif"
+    },
+    {
+      "ts": 1792701000,
+      "datetime": "20261022T203921Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T203921Z.gif"
+    },
+    {
+      "ts": 1792702800,
+      "datetime": "20261022T210926Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T210926Z.gif"
+    },
+    {
+      "ts": 1792704600,
+      "datetime": "20261022T214044Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T214044Z.gif"
+    },
+    {
+      "ts": 1792706400,
+      "datetime": "20261022T220919Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T220919Z.gif"
+    },
+    {
+      "ts": 1792708200,
+      "datetime": "20261022T223948Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T223948Z.gif"
+    },
+    {
+      "ts": 1792710000,
+      "datetime": "20261022T231206Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261022T231206Z.gif"
+    },
+    {
+      "ts": 1792713600,
+      "datetime": "20261023T000809Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T000809Z.gif"
+    },
+    {
+      "ts": 1792715400,
+      "datetime": "20261023T004720Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T004720Z.gif"
+    },
+    {
+      "ts": 1792716300,
+      "datetime": "20261023T010149Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T010149Z.gif"
+    },
+    {
+      "ts": 1792717200,
+      "datetime": "20261023T011539Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T011539Z.gif"
+    },
+    {
+      "ts": 1792719000,
+      "datetime": "20261023T014128Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T014128Z.gif"
+    },
+    {
+      "ts": 1792721700,
+      "datetime": "20261023T022534Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T022534Z.gif"
+    },
+    {
+      "ts": 1792722600,
+      "datetime": "20261023T024013Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T024013Z.gif"
+    },
+    {
+      "ts": 1792724400,
+      "datetime": "20261023T031151Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T031151Z.gif"
+    },
+    {
+      "ts": 1792726200,
+      "datetime": "20261023T033919Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261022/gif/20261023T033919Z.gif"
+    },
+    {
+      "ts": 1792728000,
+      "datetime": "20261023T040738Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T040738Z.gif"
+    },
+    {
+      "ts": 1792729800,
+      "datetime": "20261023T044349Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T044349Z.gif"
+    },
+    {
+      "ts": 1792731600,
+      "datetime": "20261023T050656Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T050656Z.gif"
+    },
+    {
+      "ts": 1792733400,
+      "datetime": "20261023T053638Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T053638Z.gif"
+    },
+    {
+      "ts": 1792735200,
+      "datetime": "20261023T060707Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T060707Z.gif"
+    },
+    {
+      "ts": 1792738800,
+      "datetime": "20261023T070735Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T070735Z.gif"
+    },
+    {
+      "ts": 1792739700,
+      "datetime": "20261023T071733Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T071733Z.gif"
+    },
+    {
+      "ts": 1792740600,
+      "datetime": "20261023T074009Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T074009Z.gif"
+    },
+    {
+      "ts": 1792742400,
+      "datetime": "20261023T080724Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T080724Z.gif"
+    },
+    {
+      "ts": 1792744200,
+      "datetime": "20261023T083721Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T083721Z.gif"
+    },
+    {
+      "ts": 1792747800,
+      "datetime": "20261023T094228Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T094228Z.gif"
+    },
+    {
+      "ts": 1792748700,
+      "datetime": "20261023T095307Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T095307Z.gif"
+    },
+    {
+      "ts": 1792752300,
+      "datetime": "20261023T105354Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T105354Z.gif"
+    },
+    {
+      "ts": 1792755000,
+      "datetime": "20261023T114308Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T114308Z.gif"
+    },
+    {
+      "ts": 1792755900,
+      "datetime": "20261023T115329Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T115329Z.gif"
+    },
+    {
+      "ts": 1792756800,
+      "datetime": "20261023T120848Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T120848Z.gif"
+    },
+    {
+      "ts": 1792763100,
+      "datetime": "20261023T135324Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T135324Z.gif"
+    },
+    {
+      "ts": 1792766700,
+      "datetime": "20261023T145042Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T145042Z.gif"
+    },
+    {
+      "ts": 1792770300,
+      "datetime": "20261023T155704Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T155704Z.gif"
+    },
+    {
+      "ts": 1792771200,
+      "datetime": "20261023T161006Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T161006Z.gif"
+    },
+    {
+      "ts": 1792773000,
+      "datetime": "20261023T163922Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T163922Z.gif"
+    },
+    {
+      "ts": 1792774800,
+      "datetime": "20261023T170930Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T170930Z.gif"
+    },
+    {
+      "ts": 1792776600,
+      "datetime": "20261023T173904Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T173904Z.gif"
+    },
+    {
+      "ts": 1792781100,
+      "datetime": "20261023T185457Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T185457Z.gif"
+    },
+    {
+      "ts": 1792782000,
+      "datetime": "20261023T190942Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T190942Z.gif"
+    },
+    {
+      "ts": 1792783800,
+      "datetime": "20261023T193903Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T193903Z.gif"
+    },
+    {
+      "ts": 1792786500,
+      "datetime": "20261023T203101Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T203101Z.gif"
+    },
+    {
+      "ts": 1792787400,
+      "datetime": "20261023T204715Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T204715Z.gif"
+    },
+    {
+      "ts": 1792791900,
+      "datetime": "20261023T215522Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T215522Z.gif"
+    },
+    {
+      "ts": 1792792800,
+      "datetime": "20261023T220957Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T220957Z.gif"
+    },
+    {
+      "ts": 1792794600,
+      "datetime": "20261023T223953Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T223953Z.gif"
+    },
+    {
+      "ts": 1792796400,
+      "datetime": "20261023T231000Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T231000Z.gif"
+    },
+    {
+      "ts": 1792798200,
+      "datetime": "20261023T233935Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261023T233935Z.gif"
+    },
+    {
+      "ts": 1792800000,
+      "datetime": "20261024T001531Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T001531Z.gif"
+    },
+    {
+      "ts": 1792802700,
+      "datetime": "20261024T005213Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T005213Z.gif"
+    },
+    {
+      "ts": 1792803600,
+      "datetime": "20261024T011007Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T011007Z.gif"
+    },
+    {
+      "ts": 1792805400,
+      "datetime": "20261024T013941Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T013941Z.gif"
+    },
+    {
+      "ts": 1792807200,
+      "datetime": "20261024T021404Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T021404Z.gif"
+    },
+    {
+      "ts": 1792809000,
+      "datetime": "20261024T023726Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T023726Z.gif"
+    },
+    {
+      "ts": 1792810800,
+      "datetime": "20261024T030801Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T030801Z.gif"
+    },
+    {
+      "ts": 1792812600,
+      "datetime": "20261024T033627Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261023/gif/20261024T033627Z.gif"
+    },
+    {
+      "ts": 1792814400,
+      "datetime": "20261024T040604Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T040604Z.gif"
+    },
+    {
+      "ts": 1792816200,
+      "datetime": "20261024T044123Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T044123Z.gif"
+    },
+    {
+      "ts": 1792818000,
+      "datetime": "20261024T050615Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T050615Z.gif"
+    },
+    {
+      "ts": 1792819800,
+      "datetime": "20261024T053804Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T053804Z.gif"
+    },
+    {
+      "ts": 1792821600,
+      "datetime": "20261024T060916Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T060916Z.gif"
+    },
+    {
+      "ts": 1792823400,
+      "datetime": "20261024T063720Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T063720Z.gif"
+    },
+    {
+      "ts": 1792825200,
+      "datetime": "20261024T070844Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T070844Z.gif"
+    },
+    {
+      "ts": 1792827000,
+      "datetime": "20261024T073724Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T073724Z.gif"
+    },
+    {
+      "ts": 1792828800,
+      "datetime": "20261024T080730Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T080730Z.gif"
+    },
+    {
+      "ts": 1792830600,
+      "datetime": "20261024T084002Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T084002Z.gif"
+    },
+    {
+      "ts": 1792832400,
+      "datetime": "20261024T090754Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T090754Z.gif"
+    },
+    {
+      "ts": 1792834200,
+      "datetime": "20261024T093808Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T093808Z.gif"
+    },
+    {
+      "ts": 1792836000,
+      "datetime": "20261024T100817Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T100817Z.gif"
+    },
+    {
+      "ts": 1792837800,
+      "datetime": "20261024T103816Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T103816Z.gif"
+    },
+    {
+      "ts": 1792839600,
+      "datetime": "20261024T111138Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T111138Z.gif"
+    },
+    {
+      "ts": 1792841400,
+      "datetime": "20261024T113833Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T113833Z.gif"
+    },
+    {
+      "ts": 1792843200,
+      "datetime": "20261024T120856Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T120856Z.gif"
+    },
+    {
+      "ts": 1792845000,
+      "datetime": "20261024T123854Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T123854Z.gif"
+    },
+    {
+      "ts": 1792846800,
+      "datetime": "20261024T130849Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T130849Z.gif"
+    },
+    {
+      "ts": 1792848600,
+      "datetime": "20261024T134011Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T134011Z.gif"
+    },
+    {
+      "ts": 1792850400,
+      "datetime": "20261024T141206Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T141206Z.gif"
+    },
+    {
+      "ts": 1792852200,
+      "datetime": "20261024T144022Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/toronto/CYYZ/20261024/gif/20261024T144022Z.gif"
+    }
+  ]
+}

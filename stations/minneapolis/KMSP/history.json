@@ -1,0 +1,941 @@
+{
+  "icao": "KMSP",
+  "captures": [
+    {
+      "ts": 1792558800,
+      "datetime": "20261021T051128Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T051128Z.gif"
+    },
+    {
+      "ts": 1792560600,
+      "datetime": "20261021T053858Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T053858Z.gif"
+    },
+    {
+      "ts": 1792562400,
+      "datetime": "20261021T061000Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T061000Z.gif"
+    },
+    {
+      "ts": 1792564200,
+      "datetime": "20261021T063905Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T063905Z.gif"
+    },
+    {
+      "ts": 1792566000,
+      "datetime": "20261021T070959Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T070959Z.gif"
+    },
+    {
+      "ts": 1792567800,
+      "datetime": "20261021T073935Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T073935Z.gif"
+    },
+    {
+      "ts": 1792569600,
+      "datetime": "20261021T081020Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T081020Z.gif"
+    },
+    {
+      "ts": 1792572300,
+      "datetime": "20261021T085028Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T085028Z.gif"
+    },
+    {
+      "ts": 1792573200,
+      "datetime": "20261021T091005Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T091005Z.gif"
+    },
+    {
+      "ts": 1792575000,
+      "datetime": "20261021T094001Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T094001Z.gif"
+    },
+    {
+      "ts": 1792576800,
+      "datetime": "20261021T101128Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T101128Z.gif"
+    },
+    {
+      "ts": 1792578600,
+      "datetime": "20261021T104335Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T104335Z.gif"
+    },
+    {
+      "ts": 1792580400,
+      "datetime": "20261021T111036Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T111036Z.gif"
+    },
+    {
+      "ts": 1792582200,
+      "datetime": "20261021T114046Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T114046Z.gif"
+    },
+    {
+      "ts": 1792584000,
+      "datetime": "20261021T121145Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T121145Z.gif"
+    },
+    {
+      "ts": 1792585800,
+      "datetime": "20261021T124138Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T124138Z.gif"
+    },
+    {
+      "ts": 1792587600,
+      "datetime": "20261021T131313Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T131313Z.gif"
+    },
+    {
+      "ts": 1792589400,
+      "datetime": "20261021T134222Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T134222Z.gif"
+    },
+    {
+      "ts": 1792591200,
+      "datetime": "20261021T141157Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T141157Z.gif"
+    },
+    {
+      "ts": 1792593000,
+      "datetime": "20261021T143647Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T143647Z.gif"
+    },
+    {
+      "ts": 1792594800,
+      "datetime": "20261021T151120Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T151120Z.gif"
+    },
+    {
+      "ts": 1792596600,
+      "datetime": "20261021T153822Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T153822Z.gif"
+    },
+    {
+      "ts": 1792598400,
+      "datetime": "20261021T160810Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T160810Z.gif"
+    },
+    {
+      "ts": 1792600200,
+      "datetime": "20261021T164102Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T164102Z.gif"
+    },
+    {
+      "ts": 1792602000,
+      "datetime": "20261021T170802Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T170802Z.gif"
+    },
+    {
+      "ts": 1792603800,
+      "datetime": "20261021T173759Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T173759Z.gif"
+    },
+    {
+      "ts": 1792605600,
+      "datetime": "20261021T181005Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T181005Z.gif"
+    },
+    {
+      "ts": 1792607400,
+      "datetime": "20261021T184344Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T184344Z.gif"
+    },
+    {
+      "ts": 1792609200,
+      "datetime": "20261021T190810Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T190810Z.gif"
+    },
+    {
+      "ts": 1792611000,
+      "datetime": "20261021T194114Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T194114Z.gif"
+    },
+    {
+      "ts": 1792612800,
+      "datetime": "20261021T200844Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T200844Z.gif"
+    },
+    {
+      "ts": 1792614600,
+      "datetime": "20261021T203856Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T203856Z.gif"
+    },
+    {
+      "ts": 1792616400,
+      "datetime": "20261021T211040Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T211040Z.gif"
+    },
+    {
+      "ts": 1792618200,
+      "datetime": "20261021T213914Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T213914Z.gif"
+    },
+    {
+      "ts": 1792620000,
+      "datetime": "20261021T220903Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T220903Z.gif"
+    },
+    {
+      "ts": 1792621800,
+      "datetime": "20261021T223810Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T223810Z.gif"
+    },
+    {
+      "ts": 1792623600,
+      "datetime": "20261021T230919Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T230919Z.gif"
+    },
+    {
+      "ts": 1792626300,
+      "datetime": "20261021T235133Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261021T235133Z.gif"
+    },
+    {
+      "ts": 1792627200,
+      "datetime": "20261022T000854Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T000854Z.gif"
+    },
+    {
+      "ts": 1792629000,
+      "datetime": "20261022T003842Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T003842Z.gif"
+    },
+    {
+      "ts": 1792630800,
+      "datetime": "20261022T010921Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T010921Z.gif"
+    },
+    {
+      "ts": 1792632600,
+      "datetime": "20261022T013839Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T013839Z.gif"
+    },
+    {
+      "ts": 1792634400,
+      "datetime": "20261022T021131Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T021131Z.gif"
+    },
+    {
+      "ts": 1792637100,
+      "datetime": "20261022T025058Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T025058Z.gif"
+    },
+    {
+      "ts": 1792638000,
+      "datetime": "20261022T031145Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T031145Z.gif"
+    },
+    {
+      "ts": 1792639800,
+      "datetime": "20261022T034042Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T034042Z.gif"
+    },
+    {
+      "ts": 1792641600,
+      "datetime": "20261022T041129Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T041129Z.gif"
+    },
+    {
+      "ts": 1792643400,
+      "datetime": "20261022T044009Z",
+      "date": "20261021",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261021/gif/20261022T044009Z.gif"
+    },
+    {
+      "ts": 1792645200,
+      "datetime": "20261022T051213Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T051213Z.gif"
+    },
+    {
+      "ts": 1792647000,
+      "datetime": "20261022T054047Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T054047Z.gif"
+    },
+    {
+      "ts": 1792648800,
+      "datetime": "20261022T061445Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T061445Z.gif"
+    },
+    {
+      "ts": 1792650600,
+      "datetime": "20261022T064336Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T064336Z.gif"
+    },
+    {
+      "ts": 1792652400,
+      "datetime": "20261022T071754Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T071754Z.gif"
+    },
+    {
+      "ts": 1792654200,
+      "datetime": "20261022T074604Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T074604Z.gif"
+    },
+    {
+      "ts": 1792656000,
+      "datetime": "20261022T081805Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T081805Z.gif"
+    },
+    {
+      "ts": 1792657800,
+      "datetime": "20261022T084105Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T084105Z.gif"
+    },
+    {
+      "ts": 1792659600,
+      "datetime": "20261022T090619Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T090619Z.gif"
+    },
+    {
+      "ts": 1792661400,
+      "datetime": "20261022T093714Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T093714Z.gif"
+    },
+    {
+      "ts": 1792663200,
+      "datetime": "20261022T100627Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T100627Z.gif"
+    },
+    {
+      "ts": 1792665000,
+      "datetime": "20261022T103710Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T103710Z.gif"
+    },
+    {
+      "ts": 1792666800,
+      "datetime": "20261022T110737Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T110737Z.gif"
+    },
+    {
+      "ts": 1792668600,
+      "datetime": "20261022T113806Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T113806Z.gif"
+    },
+    {
+      "ts": 1792670400,
+      "datetime": "20261022T121350Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T121350Z.gif"
+    },
+    {
+      "ts": 1792672200,
+      "datetime": "20261022T123916Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T123916Z.gif"
+    },
+    {
+      "ts": 1792674000,
+      "datetime": "20261022T130824Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T130824Z.gif"
+    },
+    {
+      "ts": 1792675800,
+      "datetime": "20261022T133834Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T133834Z.gif"
+    },
+    {
+      "ts": 1792677600,
+      "datetime": "20261022T140938Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T140938Z.gif"
+    },
+    {
+      "ts": 1792679400,
+      "datetime": "20261022T143816Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T143816Z.gif"
+    },
+    {
+      "ts": 1792683900,
+      "datetime": "20261022T155421Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T155421Z.gif"
+    },
+    {
+      "ts": 1792684800,
+      "datetime": "20261022T160946Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T160946Z.gif"
+    },
+    {
+      "ts": 1792686600,
+      "datetime": "20261022T163840Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T163840Z.gif"
+    },
+    {
+      "ts": 1792688400,
+      "datetime": "20261022T170840Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T170840Z.gif"
+    },
+    {
+      "ts": 1792690200,
+      "datetime": "20261022T173906Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T173906Z.gif"
+    },
+    {
+      "ts": 1792692000,
+      "datetime": "20261022T180850Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T180850Z.gif"
+    },
+    {
+      "ts": 1792693800,
+      "datetime": "20261022T184111Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T184111Z.gif"
+    },
+    {
+      "ts": 1792695600,
+      "datetime": "20261022T191003Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T191003Z.gif"
+    },
+    {
+      "ts": 1792698300,
+      "datetime": "20261022T195624Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T195624Z.gif"
+    },
+    {
+      "ts": 1792699200,
+      "datetime": "20261022T200943Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T200943Z.gif"
+    },
+    {
+      "ts": 1792701000,
+      "datetime": "20261022T203946Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T203946Z.gif"
+    },
+    {
+      "ts": 1792702800,
+      "datetime": "20261022T210953Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T210953Z.gif"
+    },
+    {
+      "ts": 1792704600,
+      "datetime": "20261022T214112Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T214112Z.gif"
+    },
+    {
+      "ts": 1792706400,
+      "datetime": "20261022T220945Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T220945Z.gif"
+    },
+    {
+      "ts": 1792708200,
+      "datetime": "20261022T224013Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T224013Z.gif"
+    },
+    {
+      "ts": 1792710000,
+      "datetime": "20261022T231253Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261022T231253Z.gif"
+    },
+    {
+      "ts": 1792713600,
+      "datetime": "20261023T000859Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T000859Z.gif"
+    },
+    {
+      "ts": 1792715400,
+      "datetime": "20261023T004811Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T004811Z.gif"
+    },
+    {
+      "ts": 1792716300,
+      "datetime": "20261023T010220Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T010220Z.gif"
+    },
+    {
+      "ts": 1792717200,
+      "datetime": "20261023T011603Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T011603Z.gif"
+    },
+    {
+      "ts": 1792719000,
+      "datetime": "20261023T014225Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T014225Z.gif"
+    },
+    {
+      "ts": 1792721700,
+      "datetime": "20261023T022600Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T022600Z.gif"
+    },
+    {
+      "ts": 1792722600,
+      "datetime": "20261023T024038Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T024038Z.gif"
+    },
+    {
+      "ts": 1792724400,
+      "datetime": "20261023T031250Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T031250Z.gif"
+    },
+    {
+      "ts": 1792726200,
+      "datetime": "20261023T034005Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T034005Z.gif"
+    },
+    {
+      "ts": 1792728000,
+      "datetime": "20261023T040835Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T040835Z.gif"
+    },
+    {
+      "ts": 1792729800,
+      "datetime": "20261023T044436Z",
+      "date": "20261022",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261022/gif/20261023T044436Z.gif"
+    },
+    {
+      "ts": 1792731600,
+      "datetime": "20261023T050721Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T050721Z.gif"
+    },
+    {
+      "ts": 1792733400,
+      "datetime": "20261023T053703Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T053703Z.gif"
+    },
+    {
+      "ts": 1792735200,
+      "datetime": "20261023T060733Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T060733Z.gif"
+    },
+    {
+      "ts": 1792738800,
+      "datetime": "20261023T070828Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T070828Z.gif"
+    },
+    {
+      "ts": 1792739700,
+      "datetime": "20261023T071758Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T071758Z.gif"
+    },
+    {
+      "ts": 1792740600,
+      "datetime": "20261023T074100Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T074100Z.gif"
+    },
+    {
+      "ts": 1792742400,
+      "datetime": "20261023T080748Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T080748Z.gif"
+    },
+    {
+      "ts": 1792744200,
+      "datetime": "20261023T083744Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T083744Z.gif"
+    },
+    {
+      "ts": 1792747800,
+      "datetime": "20261023T094322Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T094322Z.gif"
+    },
+    {
+      "ts": 1792748700,
+      "datetime": "20261023T095330Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T095330Z.gif"
+    },
+    {
+      "ts": 1792752300,
+      "datetime": "20261023T105420Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T105420Z.gif"
+    },
+    {
+      "ts": 1792755000,
+      "datetime": "20261023T114401Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T114401Z.gif"
+    },
+    {
+      "ts": 1792755900,
+      "datetime": "20261023T115355Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T115355Z.gif"
+    },
+    {
+      "ts": 1792756800,
+      "datetime": "20261023T120914Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T120914Z.gif"
+    },
+    {
+      "ts": 1792763100,
+      "datetime": "20261023T135415Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T135415Z.gif"
+    },
+    {
+      "ts": 1792766700,
+      "datetime": "20261023T145128Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T145128Z.gif"
+    },
+    {
+      "ts": 1792770300,
+      "datetime": "20261023T155800Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T155800Z.gif"
+    },
+    {
+      "ts": 1792771200,
+      "datetime": "20261023T161031Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T161031Z.gif"
+    },
+    {
+      "ts": 1792773000,
+      "datetime": "20261023T163946Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T163946Z.gif"
+    },
+    {
+      "ts": 1792774800,
+      "datetime": "20261023T170953Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T170953Z.gif"
+    },
+    {
+      "ts": 1792776600,
+      "datetime": "20261023T173927Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T173927Z.gif"
+    },
+    {
+      "ts": 1792781100,
+      "datetime": "20261023T185524Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T185524Z.gif"
+    },
+    {
+      "ts": 1792782000,
+      "datetime": "20261023T191010Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T191010Z.gif"
+    },
+    {
+      "ts": 1792783800,
+      "datetime": "20261023T193929Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T193929Z.gif"
+    },
+    {
+      "ts": 1792786500,
+      "datetime": "20261023T203151Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T203151Z.gif"
+    },
+    {
+      "ts": 1792787400,
+      "datetime": "20261023T204743Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T204743Z.gif"
+    },
+    {
+      "ts": 1792791900,
+      "datetime": "20261023T215549Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T215549Z.gif"
+    },
+    {
+      "ts": 1792792800,
+      "datetime": "20261023T221022Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T221022Z.gif"
+    },
+    {
+      "ts": 1792794600,
+      "datetime": "20261023T224019Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T224019Z.gif"
+    },
+    {
+      "ts": 1792796400,
+      "datetime": "20261023T231027Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T231027Z.gif"
+    },
+    {
+      "ts": 1792798200,
+      "datetime": "20261023T234002Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261023T234002Z.gif"
+    },
+    {
+      "ts": 1792800000,
+      "datetime": "20261024T001624Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T001624Z.gif"
+    },
+    {
+      "ts": 1792802700,
+      "datetime": "20261024T005306Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T005306Z.gif"
+    },
+    {
+      "ts": 1792803600,
+      "datetime": "20261024T011034Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T011034Z.gif"
+    },
+    {
+      "ts": 1792805400,
+      "datetime": "20261024T014015Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T014015Z.gif"
+    },
+    {
+      "ts": 1792807200,
+      "datetime": "20261024T021455Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T021455Z.gif"
+    },
+    {
+      "ts": 1792809000,
+      "datetime": "20261024T023819Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T023819Z.gif"
+    },
+    {
+      "ts": 1792810800,
+      "datetime": "20261024T030856Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T030856Z.gif"
+    },
+    {
+      "ts": 1792812600,
+      "datetime": "20261024T033653Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T033653Z.gif"
+    },
+    {
+      "ts": 1792814400,
+      "datetime": "20261024T040631Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T040631Z.gif"
+    },
+    {
+      "ts": 1792816200,
+      "datetime": "20261024T044215Z",
+      "date": "20261023",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261023/gif/20261024T044215Z.gif"
+    },
+    {
+      "ts": 1792818000,
+      "datetime": "20261024T050641Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T050641Z.gif"
+    },
+    {
+      "ts": 1792819800,
+      "datetime": "20261024T053857Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T053857Z.gif"
+    },
+    {
+      "ts": 1792821600,
+      "datetime": "20261024T061011Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T061011Z.gif"
+    },
+    {
+      "ts": 1792823400,
+      "datetime": "20261024T063744Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T063744Z.gif"
+    },
+    {
+      "ts": 1792825200,
+      "datetime": "20261024T070937Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T070937Z.gif"
+    },
+    {
+      "ts": 1792827000,
+      "datetime": "20261024T073751Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T073751Z.gif"
+    },
+    {
+      "ts": 1792828800,
+      "datetime": "20261024T080752Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T080752Z.gif"
+    },
+    {
+      "ts": 1792830600,
+      "datetime": "20261024T084055Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T084055Z.gif"
+    },
+    {
+      "ts": 1792832400,
+      "datetime": "20261024T090818Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T090818Z.gif"
+    },
+    {
+      "ts": 1792834200,
+      "datetime": "20261024T093831Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T093831Z.gif"
+    },
+    {
+      "ts": 1792836000,
+      "datetime": "20261024T100839Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T100839Z.gif"
+    },
+    {
+      "ts": 1792837800,
+      "datetime": "20261024T103839Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T103839Z.gif"
+    },
+    {
+      "ts": 1792839600,
+      "datetime": "20261024T111229Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T111229Z.gif"
+    },
+    {
+      "ts": 1792841400,
+      "datetime": "20261024T113855Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T113855Z.gif"
+    },
+    {
+      "ts": 1792843200,
+      "datetime": "20261024T120920Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T120920Z.gif"
+    },
+    {
+      "ts": 1792845000,
+      "datetime": "20261024T123915Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T123915Z.gif"
+    },
+    {
+      "ts": 1792846800,
+      "datetime": "20261024T130915Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T130915Z.gif"
+    },
+    {
+      "ts": 1792848600,
+      "datetime": "20261024T134038Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T134038Z.gif"
+    },
+    {
+      "ts": 1792850400,
+      "datetime": "20261024T141257Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T141257Z.gif"
+    },
+    {
+      "ts": 1792852200,
+      "datetime": "20261024T144047Z",
+      "date": "20261024",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/minneapolis/KMSP/20261024/gif/20261024T144047Z.gif"
+    }
+  ]
+}
