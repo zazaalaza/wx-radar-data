@@ -1,0 +1,875 @@
+{
+  "icao": "RJTT",
+  "captures": [
+    {
+      "ts": 1793199600,
+      "datetime": "20261028T151435Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T151435Z.gif"
+    },
+    {
+      "ts": 1793205900,
+      "datetime": "20261028T165424Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T165424Z.gif"
+    },
+    {
+      "ts": 1793208600,
+      "datetime": "20261028T173351Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T173351Z.gif"
+    },
+    {
+      "ts": 1793209500,
+      "datetime": "20261028T175331Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T175331Z.gif"
+    },
+    {
+      "ts": 1793212200,
+      "datetime": "20261028T184011Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T184011Z.gif"
+    },
+    {
+      "ts": 1793214900,
+      "datetime": "20261028T191909Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T191909Z.gif"
+    },
+    {
+      "ts": 1793215800,
+      "datetime": "20261028T194208Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T194208Z.gif"
+    },
+    {
+      "ts": 1793217600,
+      "datetime": "20261028T200457Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T200457Z.gif"
+    },
+    {
+      "ts": 1793218500,
+      "datetime": "20261028T202919Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T202919Z.gif"
+    },
+    {
+      "ts": 1793220300,
+      "datetime": "20261028T205123Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T205123Z.gif"
+    },
+    {
+      "ts": 1793221200,
+      "datetime": "20261028T211205Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T211205Z.gif"
+    },
+    {
+      "ts": 1793223900,
+      "datetime": "20261028T214833Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T214833Z.gif"
+    },
+    {
+      "ts": 1793225700,
+      "datetime": "20261028T222825Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T222825Z.gif"
+    },
+    {
+      "ts": 1793226600,
+      "datetime": "20261028T224109Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T224109Z.gif"
+    },
+    {
+      "ts": 1793229300,
+      "datetime": "20261028T232614Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T232614Z.gif"
+    },
+    {
+      "ts": 1793230200,
+      "datetime": "20261028T233718Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261028T233718Z.gif"
+    },
+    {
+      "ts": 1793232000,
+      "datetime": "20261029T000718Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T000718Z.gif"
+    },
+    {
+      "ts": 1793236500,
+      "datetime": "20261029T012638Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T012638Z.gif"
+    },
+    {
+      "ts": 1793237400,
+      "datetime": "20261029T014009Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T014009Z.gif"
+    },
+    {
+      "ts": 1793239200,
+      "datetime": "20261029T020731Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T020731Z.gif"
+    },
+    {
+      "ts": 1793241000,
+      "datetime": "20261029T023733Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T023733Z.gif"
+    },
+    {
+      "ts": 1793242800,
+      "datetime": "20261029T030803Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T030803Z.gif"
+    },
+    {
+      "ts": 1793244600,
+      "datetime": "20261029T033755Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T033755Z.gif"
+    },
+    {
+      "ts": 1793246400,
+      "datetime": "20261029T041103Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T041103Z.gif"
+    },
+    {
+      "ts": 1793248200,
+      "datetime": "20261029T043822Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T043822Z.gif"
+    },
+    {
+      "ts": 1793250000,
+      "datetime": "20261029T050845Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T050845Z.gif"
+    },
+    {
+      "ts": 1793251800,
+      "datetime": "20261029T053905Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T053905Z.gif"
+    },
+    {
+      "ts": 1793253600,
+      "datetime": "20261029T060907Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T060907Z.gif"
+    },
+    {
+      "ts": 1793255400,
+      "datetime": "20261029T063930Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T063930Z.gif"
+    },
+    {
+      "ts": 1793257200,
+      "datetime": "20261029T070849Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T070849Z.gif"
+    },
+    {
+      "ts": 1793259000,
+      "datetime": "20261029T073903Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T073903Z.gif"
+    },
+    {
+      "ts": 1793260800,
+      "datetime": "20261029T080904Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T080904Z.gif"
+    },
+    {
+      "ts": 1793262600,
+      "datetime": "20261029T083911Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T083911Z.gif"
+    },
+    {
+      "ts": 1793264400,
+      "datetime": "20261029T090853Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T090853Z.gif"
+    },
+    {
+      "ts": 1793266200,
+      "datetime": "20261029T094250Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T094250Z.gif"
+    },
+    {
+      "ts": 1793268900,
+      "datetime": "20261029T101702Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T101702Z.gif"
+    },
+    {
+      "ts": 1793269800,
+      "datetime": "20261029T103930Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T103930Z.gif"
+    },
+    {
+      "ts": 1793271600,
+      "datetime": "20261029T111135Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T111135Z.gif"
+    },
+    {
+      "ts": 1793273400,
+      "datetime": "20261029T114028Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T114028Z.gif"
+    },
+    {
+      "ts": 1793275200,
+      "datetime": "20261029T121022Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T121022Z.gif"
+    },
+    {
+      "ts": 1793277000,
+      "datetime": "20261029T124026Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T124026Z.gif"
+    },
+    {
+      "ts": 1793278800,
+      "datetime": "20261029T131040Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T131040Z.gif"
+    },
+    {
+      "ts": 1793280600,
+      "datetime": "20261029T133517Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T133517Z.gif"
+    },
+    {
+      "ts": 1793282400,
+      "datetime": "20261029T140540Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T140540Z.gif"
+    },
+    {
+      "ts": 1793284200,
+      "datetime": "20261029T143712Z",
+      "date": "20261029",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261029/gif/20261029T143712Z.gif"
+    },
+    {
+      "ts": 1793286000,
+      "datetime": "20261029T150738Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T150738Z.gif"
+    },
+    {
+      "ts": 1793287800,
+      "datetime": "20261029T153900Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T153900Z.gif"
+    },
+    {
+      "ts": 1793289600,
+      "datetime": "20261029T160722Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T160722Z.gif"
+    },
+    {
+      "ts": 1793291400,
+      "datetime": "20261029T164135Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T164135Z.gif"
+    },
+    {
+      "ts": 1793293200,
+      "datetime": "20261029T171353Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T171353Z.gif"
+    },
+    {
+      "ts": 1793295000,
+      "datetime": "20261029T173839Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T173839Z.gif"
+    },
+    {
+      "ts": 1793296800,
+      "datetime": "20261029T180759Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T180759Z.gif"
+    },
+    {
+      "ts": 1793298600,
+      "datetime": "20261029T183842Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T183842Z.gif"
+    },
+    {
+      "ts": 1793300400,
+      "datetime": "20261029T190820Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T190820Z.gif"
+    },
+    {
+      "ts": 1793302200,
+      "datetime": "20261029T193752Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T193752Z.gif"
+    },
+    {
+      "ts": 1793304000,
+      "datetime": "20261029T200802Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T200802Z.gif"
+    },
+    {
+      "ts": 1793305800,
+      "datetime": "20261029T203757Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T203757Z.gif"
+    },
+    {
+      "ts": 1793307600,
+      "datetime": "20261029T211555Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T211555Z.gif"
+    },
+    {
+      "ts": 1793309400,
+      "datetime": "20261029T213826Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T213826Z.gif"
+    },
+    {
+      "ts": 1793311200,
+      "datetime": "20261029T220841Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T220841Z.gif"
+    },
+    {
+      "ts": 1793313000,
+      "datetime": "20261029T223904Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T223904Z.gif"
+    },
+    {
+      "ts": 1793317500,
+      "datetime": "20261029T235421Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261029T235421Z.gif"
+    },
+    {
+      "ts": 1793320200,
+      "datetime": "20261030T003850Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T003850Z.gif"
+    },
+    {
+      "ts": 1793322000,
+      "datetime": "20261030T011149Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T011149Z.gif"
+    },
+    {
+      "ts": 1793323800,
+      "datetime": "20261030T013832Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T013832Z.gif"
+    },
+    {
+      "ts": 1793325600,
+      "datetime": "20261030T020920Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T020920Z.gif"
+    },
+    {
+      "ts": 1793327400,
+      "datetime": "20261030T023910Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T023910Z.gif"
+    },
+    {
+      "ts": 1793329200,
+      "datetime": "20261030T030938Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T030938Z.gif"
+    },
+    {
+      "ts": 1793331000,
+      "datetime": "20261030T034033Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T034033Z.gif"
+    },
+    {
+      "ts": 1793332800,
+      "datetime": "20261030T040907Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T040907Z.gif"
+    },
+    {
+      "ts": 1793334600,
+      "datetime": "20261030T044012Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T044012Z.gif"
+    },
+    {
+      "ts": 1793336400,
+      "datetime": "20261030T050953Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T050953Z.gif"
+    },
+    {
+      "ts": 1793338200,
+      "datetime": "20261030T054147Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T054147Z.gif"
+    },
+    {
+      "ts": 1793340000,
+      "datetime": "20261030T061015Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T061015Z.gif"
+    },
+    {
+      "ts": 1793341800,
+      "datetime": "20261030T064025Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T064025Z.gif"
+    },
+    {
+      "ts": 1793343600,
+      "datetime": "20261030T071328Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T071328Z.gif"
+    },
+    {
+      "ts": 1793345400,
+      "datetime": "20261030T074039Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T074039Z.gif"
+    },
+    {
+      "ts": 1793347200,
+      "datetime": "20261030T081018Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T081018Z.gif"
+    },
+    {
+      "ts": 1793349000,
+      "datetime": "20261030T083420Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T083420Z.gif"
+    },
+    {
+      "ts": 1793350800,
+      "datetime": "20261030T090524Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T090524Z.gif"
+    },
+    {
+      "ts": 1793352600,
+      "datetime": "20261030T093556Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T093556Z.gif"
+    },
+    {
+      "ts": 1793354400,
+      "datetime": "20261030T100552Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T100552Z.gif"
+    },
+    {
+      "ts": 1793356200,
+      "datetime": "20261030T103641Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T103641Z.gif"
+    },
+    {
+      "ts": 1793358000,
+      "datetime": "20261030T110619Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T110619Z.gif"
+    },
+    {
+      "ts": 1793359800,
+      "datetime": "20261030T113544Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T113544Z.gif"
+    },
+    {
+      "ts": 1793361600,
+      "datetime": "20261030T120705Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T120705Z.gif"
+    },
+    {
+      "ts": 1793363400,
+      "datetime": "20261030T123827Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T123827Z.gif"
+    },
+    {
+      "ts": 1793365200,
+      "datetime": "20261030T130720Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T130720Z.gif"
+    },
+    {
+      "ts": 1793367000,
+      "datetime": "20261030T133723Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T133723Z.gif"
+    },
+    {
+      "ts": 1793368800,
+      "datetime": "20261030T140752Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T140752Z.gif"
+    },
+    {
+      "ts": 1793370600,
+      "datetime": "20261030T143748Z",
+      "date": "20261030",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261030/gif/20261030T143748Z.gif"
+    },
+    {
+      "ts": 1793372400,
+      "datetime": "20261030T150934Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T150934Z.gif"
+    },
+    {
+      "ts": 1793374200,
+      "datetime": "20261030T153914Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T153914Z.gif"
+    },
+    {
+      "ts": 1793376000,
+      "datetime": "20261030T160755Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T160755Z.gif"
+    },
+    {
+      "ts": 1793377800,
+      "datetime": "20261030T164330Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T164330Z.gif"
+    },
+    {
+      "ts": 1793379600,
+      "datetime": "20261030T171314Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T171314Z.gif"
+    },
+    {
+      "ts": 1793381400,
+      "datetime": "20261030T173838Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T173838Z.gif"
+    },
+    {
+      "ts": 1793383200,
+      "datetime": "20261030T181148Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T181148Z.gif"
+    },
+    {
+      "ts": 1793385000,
+      "datetime": "20261030T183914Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T183914Z.gif"
+    },
+    {
+      "ts": 1793386800,
+      "datetime": "20261030T190953Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T190953Z.gif"
+    },
+    {
+      "ts": 1793388600,
+      "datetime": "20261030T193933Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T193933Z.gif"
+    },
+    {
+      "ts": 1793390400,
+      "datetime": "20261030T200958Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T200958Z.gif"
+    },
+    {
+      "ts": 1793392200,
+      "datetime": "20261030T203932Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T203932Z.gif"
+    },
+    {
+      "ts": 1793394000,
+      "datetime": "20261030T211113Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T211113Z.gif"
+    },
+    {
+      "ts": 1793395800,
+      "datetime": "20261030T213937Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T213937Z.gif"
+    },
+    {
+      "ts": 1793397600,
+      "datetime": "20261030T221013Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T221013Z.gif"
+    },
+    {
+      "ts": 1793399400,
+      "datetime": "20261030T224004Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T224004Z.gif"
+    },
+    {
+      "ts": 1793401200,
+      "datetime": "20261030T231046Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T231046Z.gif"
+    },
+    {
+      "ts": 1793403000,
+      "datetime": "20261030T234014Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261030T234014Z.gif"
+    },
+    {
+      "ts": 1793404800,
+      "datetime": "20261031T000944Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T000944Z.gif"
+    },
+    {
+      "ts": 1793406600,
+      "datetime": "20261031T004114Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T004114Z.gif"
+    },
+    {
+      "ts": 1793408400,
+      "datetime": "20261031T011045Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T011045Z.gif"
+    },
+    {
+      "ts": 1793410200,
+      "datetime": "20261031T014106Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T014106Z.gif"
+    },
+    {
+      "ts": 1793412000,
+      "datetime": "20261031T021142Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T021142Z.gif"
+    },
+    {
+      "ts": 1793413800,
+      "datetime": "20261031T023544Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T023544Z.gif"
+    },
+    {
+      "ts": 1793415600,
+      "datetime": "20261031T030610Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T030610Z.gif"
+    },
+    {
+      "ts": 1793417400,
+      "datetime": "20261031T033530Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T033530Z.gif"
+    },
+    {
+      "ts": 1793419200,
+      "datetime": "20261031T040639Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T040639Z.gif"
+    },
+    {
+      "ts": 1793421000,
+      "datetime": "20261031T043720Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T043720Z.gif"
+    },
+    {
+      "ts": 1793422800,
+      "datetime": "20261031T050553Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T050553Z.gif"
+    },
+    {
+      "ts": 1793424600,
+      "datetime": "20261031T053811Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T053811Z.gif"
+    },
+    {
+      "ts": 1793426400,
+      "datetime": "20261031T060923Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T060923Z.gif"
+    },
+    {
+      "ts": 1793428200,
+      "datetime": "20261031T063625Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T063625Z.gif"
+    },
+    {
+      "ts": 1793430000,
+      "datetime": "20261031T070724Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T070724Z.gif"
+    },
+    {
+      "ts": 1793431800,
+      "datetime": "20261031T073745Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T073745Z.gif"
+    },
+    {
+      "ts": 1793433600,
+      "datetime": "20261031T080822Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T080822Z.gif"
+    },
+    {
+      "ts": 1793435400,
+      "datetime": "20261031T084045Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T084045Z.gif"
+    },
+    {
+      "ts": 1793437200,
+      "datetime": "20261031T090900Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T090900Z.gif"
+    },
+    {
+      "ts": 1793439000,
+      "datetime": "20261031T093901Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T093901Z.gif"
+    },
+    {
+      "ts": 1793440800,
+      "datetime": "20261031T100924Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T100924Z.gif"
+    },
+    {
+      "ts": 1793442600,
+      "datetime": "20261031T103807Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T103807Z.gif"
+    },
+    {
+      "ts": 1793444400,
+      "datetime": "20261031T111044Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T111044Z.gif"
+    },
+    {
+      "ts": 1793446200,
+      "datetime": "20261031T113956Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T113956Z.gif"
+    },
+    {
+      "ts": 1793448000,
+      "datetime": "20261031T121056Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T121056Z.gif"
+    },
+    {
+      "ts": 1793449800,
+      "datetime": "20261031T123948Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T123948Z.gif"
+    },
+    {
+      "ts": 1793451600,
+      "datetime": "20261031T131036Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T131036Z.gif"
+    },
+    {
+      "ts": 1793453400,
+      "datetime": "20261031T134007Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T134007Z.gif"
+    },
+    {
+      "ts": 1793455200,
+      "datetime": "20261031T141034Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T141034Z.gif"
+    },
+    {
+      "ts": 1793457000,
+      "datetime": "20261031T144037Z",
+      "date": "20261031",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261031/gif/20261031T144037Z.gif"
+    },
+    {
+      "ts": 1793458800,
+      "datetime": "20261031T151110Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T151110Z.gif"
+    },
+    {
+      "ts": 1793460600,
+      "datetime": "20261031T154107Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T154107Z.gif"
+    },
+    {
+      "ts": 1793462400,
+      "datetime": "20261031T161022Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T161022Z.gif"
+    },
+    {
+      "ts": 1793464200,
+      "datetime": "20261031T164307Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T164307Z.gif"
+    },
+    {
+      "ts": 1793466000,
+      "datetime": "20261031T171122Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T171122Z.gif"
+    },
+    {
+      "ts": 1793467800,
+      "datetime": "20261031T174114Z",
+      "date": "20261101",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/tokyo/RJTT/20261101/gif/20261031T174114Z.gif"
+    }
+  ]
+}

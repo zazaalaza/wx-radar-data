@@ -1,0 +1,167 @@
+{
+  "fetchedAt": "20261029T211629Z",
+  "date": "20261030",
+  "datetime": "20261029T211629Z",
+  "source": "api.weather.com/v2/maps/dynamic",
+  "location": {
+    "icaoCode": "OMDB",
+    "name": "DUBAI",
+    "geocode": "25.0,55.0",
+    "latitude": 25.254,
+    "longitude": 55.366
+  },
+  "product": {
+    "name": "satradFcst",
+    "map": "dark",
+    "ts": 1793307600,
+    "frameCount": 28,
+    "startFrameUnixTimestamp": 1793308500,
+    "endFrameUnixTimestamp": 1793332800,
+    "frames": [
+      {
+        "index": 0,
+        "fts": 1793308500,
+        "file": "satradFcst/frame.00.jpg"
+      },
+      {
+        "index": 1,
+        "fts": 1793309400,
+        "file": "satradFcst/frame.01.jpg"
+      },
+      {
+        "index": 2,
+        "fts": 1793310300,
+        "file": "satradFcst/frame.02.jpg"
+      },
+      {
+        "index": 3,
+        "fts": 1793311200,
+        "file": "satradFcst/frame.03.jpg"
+      },
+      {
+        "index": 4,
+        "fts": 1793312100,
+        "file": "satradFcst/frame.04.jpg"
+      },
+      {
+        "index": 5,
+        "fts": 1793313000,
+        "file": "satradFcst/frame.05.jpg"
+      },
+      {
+        "index": 6,
+        "fts": 1793313900,
+        "file": "satradFcst/frame.06.jpg"
+      },
+      {
+        "index": 7,
+        "fts": 1793314800,
+        "file": "satradFcst/frame.07.jpg"
+      },
+      {
+        "index": 8,
+        "fts": 1793315700,
+        "file": "satradFcst/frame.08.jpg"
+      },
+      {
+        "index": 9,
+        "fts": 1793316600,
+        "file": "satradFcst/frame.09.jpg"
+      },
+      {
+        "index": 10,
+        "fts": 1793317500,
+        "file": "satradFcst/frame.10.jpg"
+      },
+      {
+        "index": 11,
+        "fts": 1793318400,
+        "file": "satradFcst/frame.11.jpg"
+      },
+      {
+        "index": 12,
+        "fts": 1793319300,
+        "file": "satradFcst/frame.12.jpg"
+      },
+      {
+        "index": 13,
+        "fts": 1793320200,
+        "file": "satradFcst/frame.13.jpg"
+      },
+      {
+        "index": 14,
+        "fts": 1793321100,
+        "file": "satradFcst/frame.14.jpg"
+      },
+      {
+        "index": 15,
+        "fts": 1793322000,
+        "file": "satradFcst/frame.15.jpg"
+      },
+      {
+        "index": 16,
+        "fts": 1793322900,
+        "file": "satradFcst/frame.16.jpg"
+      },
+      {
+        "index": 17,
+        "fts": 1793323800,
+        "file": "satradFcst/frame.17.jpg"
+      },
+      {
+        "index": 18,
+        "fts": 1793324700,
+        "file": "satradFcst/frame.18.jpg"
+      },
+      {
+        "index": 19,
+        "fts": 1793325600,
+        "file": "satradFcst/frame.19.jpg"
+      },
+      {
+        "index": 20,
+        "fts": 1793326500,
+        "file": "satradFcst/frame.20.jpg"
+      },
+      {
+        "index": 21,
+        "fts": 1793327400,
+        "file": "satradFcst/frame.21.jpg"
+      },
+      {
+        "index": 22,
+        "fts": 1793328300,
+        "file": "satradFcst/frame.22.jpg"
+      },
+      {
+        "index": 23,
+        "fts": 1793329200,
+        "file": "satradFcst/frame.23.jpg"
+      },
+      {
+        "index": 24,
+        "fts": 1793330100,
+        "file": "satradFcst/frame.24.jpg"
+      },
+      {
+        "index": 25,
+        "fts": 1793331000,
+        "file": "satradFcst/frame.25.jpg"
+      },
+      {
+        "index": 26,
+        "fts": 1793331900,
+        "file": "satradFcst/frame.26.jpg"
+      },
+      {
+        "index": 27,
+        "fts": 1793332800,
+        "file": "satradFcst/frame.27.jpg"
+      }
+    ]
+  },
+  "gif": {
+    "playbackDurationMs": 2000,
+    "path": "../gif/20261029T211629Z.gif"
+  }
+}
