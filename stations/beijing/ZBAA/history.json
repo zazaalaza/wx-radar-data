@@ -1,0 +1,983 @@
+{
+  "icao": "ZBAA",
+  "captures": [
+    {
+      "ts": 1793731500,
+      "datetime": "20261103T185651Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T185651Z.gif"
+    },
+    {
+      "ts": 1793736000,
+      "datetime": "20261103T200402Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T200402Z.gif"
+    },
+    {
+      "ts": 1793743200,
+      "datetime": "20261103T220211Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T220211Z.gif"
+    },
+    {
+      "ts": 1793747700,
+      "datetime": "20261103T231712Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T231712Z.gif"
+    },
+    {
+      "ts": 1793748600,
+      "datetime": "20261103T233807Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T233807Z.gif"
+    },
+    {
+      "ts": 1793749500,
+      "datetime": "20261103T235931Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261103T235931Z.gif"
+    },
+    {
+      "ts": 1793751300,
+      "datetime": "20261104T001919Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T001919Z.gif"
+    },
+    {
+      "ts": 1793752200,
+      "datetime": "20261104T004555Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T004555Z.gif"
+    },
+    {
+      "ts": 1793754000,
+      "datetime": "20261104T011227Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T011227Z.gif"
+    },
+    {
+      "ts": 1793755800,
+      "datetime": "20261104T014136Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T014136Z.gif"
+    },
+    {
+      "ts": 1793758500,
+      "datetime": "20261104T023104Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T023104Z.gif"
+    },
+    {
+      "ts": 1793760300,
+      "datetime": "20261104T024950Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T024950Z.gif"
+    },
+    {
+      "ts": 1793761200,
+      "datetime": "20261104T031221Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T031221Z.gif"
+    },
+    {
+      "ts": 1793763900,
+      "datetime": "20261104T035013Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T035013Z.gif"
+    },
+    {
+      "ts": 1793764800,
+      "datetime": "20261104T041349Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T041349Z.gif"
+    },
+    {
+      "ts": 1793766600,
+      "datetime": "20261104T044223Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T044223Z.gif"
+    },
+    {
+      "ts": 1793768400,
+      "datetime": "20261104T051346Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T051346Z.gif"
+    },
+    {
+      "ts": 1793770200,
+      "datetime": "20261104T054434Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T054434Z.gif"
+    },
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061255Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T061255Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064208Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T064208Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T071933Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T071933Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081325Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T081325Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084350Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T084350Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091330Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T091330Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093603Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T093603Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100527Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T100527Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110649Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T110649Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T113751Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T113751Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124043Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T124043Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T130833Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T130833Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134059Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T134059Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140811Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T140811Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144524Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T144524Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T150859Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T150859Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155134Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261104/gif/20261104T155134Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T160935Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T160935Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164324Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T164324Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172728Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T172728Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174503Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T174503Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181749Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T181749Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T183934Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T183934Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192637Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T192637Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194250Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T194250Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204030Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T204030Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211347Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T211347Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214144Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T214144Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221133Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T221133Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224141Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T224141Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231209Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T231209Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234104Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261104T234104Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001133Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T001133Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004307Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T004307Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011019Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T011019Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014140Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T014140Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021433Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T021433Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024147Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T024147Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031312Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T031312Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034141Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T034141Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041212Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T041212Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044138Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T044138Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051248Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T051248Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054229Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T054229Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061333Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T061333Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064253Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T064253Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071157Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T071157Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074206Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T074206Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081255Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T081255Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084139Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T084139Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091232Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T091232Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094236Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T094236Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101247Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T101247Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104324Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T104324Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111552Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T111552Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114225Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T114225Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T121745Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T121745Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124323Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T124323Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132005Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T132005Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134323Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T134323Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141621Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T141621Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144459Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T144459Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151623Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T151623Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154523Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261105/gif/20261105T154523Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161425Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T161425Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164448Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T164448Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171555Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T171555Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174450Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T174450Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181628Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T181628Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T184834Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T184834Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191610Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T191610Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195118Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T195118Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201447Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T201447Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204433Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T204433Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211449Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T211449Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214522Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T214522Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220529Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T220529Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T223934Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T223934Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230643Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T230643Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233547Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261105T233547Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T000759Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T000759Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012238Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T012238Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013740Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T013740Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020736Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T020736Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024437Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T024437Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031204Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T031204Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033752Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T033752Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T040839Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T040839Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T043840Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T043840Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T050848Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T050848Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062347Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T062347Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T063820Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T063820Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T070909Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T070909Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082422Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T082422Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093443Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T093443Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095700Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T095700Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101313Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T101313Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T103945Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T103945Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T111927Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T111927Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T113909Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T113909Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122141Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T122141Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124029Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T124029Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131043Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T131043Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134053Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T134053Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141132Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T141132Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144130Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T144130Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151140Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261106/gif/20261106T151140Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162638Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T162638Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T172853Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T172853Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192053Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T192053Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194300Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T194300Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201556Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T201556Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212656Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T212656Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T214923Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T214923Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T225834Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T225834Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231622Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T231622Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234229Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261106T234229Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001120Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T001120Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003551Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T003551Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010731Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T010731Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013623Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T013623Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020648Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T020648Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023635Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T023635Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T030918Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T030918Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T033703Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T033703Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T040831Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T040831Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044014Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T044014Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050710Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T050710Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053742Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T053742Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T060954Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T060954Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063757Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T063757Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071021Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T071021Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074125Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T074125Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081010Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T081010Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T083850Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T083850Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T090905Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T090905Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T093906Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T093906Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T100846Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T100846Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104455Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T104455Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T110852Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T110852Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114208Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T114208Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121007Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T121007Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124038Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T124038Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T130941Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T130941Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134208Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/beijing/ZBAA/20261107/gif/20261107T134208Z.gif"
+    }
+  ]
+}

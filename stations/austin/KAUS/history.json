@@ -1,0 +1,875 @@
+{
+  "icao": "KAUS",
+  "captures": [
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061416Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T061416Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064331Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T064331Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T072220Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T072220Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081442Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T081442Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084515Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T084515Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091455Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T091455Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093717Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T093717Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100649Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T100649Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110803Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T110803Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T114032Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T114032Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124324Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T124324Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T131128Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T131128Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134230Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T134230Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140934Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T140934Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144707Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T144707Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T151039Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T151039Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155307Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T155307Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T161112Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T161112Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164613Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T164613Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172853Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T172853Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174744Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T174744Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181915Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T181915Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T184055Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T184055Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192923Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T192923Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194413Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T194413Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204151Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T204151Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211636Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T211636Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214534Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T214534Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221420Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T221420Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224308Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T224308Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231336Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T231336Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234253Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261104T234253Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001254Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T001254Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004552Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T004552Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011156Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T011156Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014310Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T014310Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021706Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T021706Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024453Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T024453Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031539Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T031539Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034359Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T034359Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041342Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T041342Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044302Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T044302Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051536Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T051536Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054516Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261104/gif/20261105T054516Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061620Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T061620Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064544Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T064544Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071312Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T071312Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074342Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T074342Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081416Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T081416Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084305Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T084305Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091345Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T091345Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094357Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T094357Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101410Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T101410Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104449Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T104449Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111839Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T111839Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114357Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T114357Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T122031Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T122031Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124437Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T124437Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132250Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T132250Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134454Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T134454Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141759Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T141759Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144620Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T144620Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151913Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T151913Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154647Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T154647Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161545Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T161545Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164616Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T164616Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171719Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T171719Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174613Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T174613Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181920Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T181920Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T185122Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T185122Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191733Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T191733Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195406Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T195406Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201616Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T201616Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204559Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T204559Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211622Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T211622Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214641Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T214641Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220706Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T220706Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T224100Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T224100Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230823Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T230823Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233718Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261105T233718Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T001044Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T001044Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012411Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T012411Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013914Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T013914Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020912Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T020912Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024710Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T024710Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031444Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T031444Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033918Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T033918Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T041006Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T041006Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T044006Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T044006Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T051129Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261105/gif/20261106T051129Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062503Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T062503Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T064108Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T064108Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T071159Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T071159Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082538Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T082538Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093617Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T093617Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095949Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T095949Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101605Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T101605Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T104109Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T104109Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T112051Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T112051Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T114037Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T114037Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122318Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T122318Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124146Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T124146Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131226Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T131226Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134214Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T134214Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141426Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T141426Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144253Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T144253Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151307Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T151307Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162822Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T162822Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T173010Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T173010Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192341Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T192341Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194551Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T194551Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201843Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T201843Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212830Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T212830Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T215211Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T215211Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T230018Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T230018Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231814Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T231814Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234358Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261106T234358Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001250Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T001250Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003835Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T003835Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010906Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T010906Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013805Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T013805Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020844Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T020844Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023834Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T023834Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T031204Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T031204Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T033952Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T033952Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T041119Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T041119Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044304Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T044304Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050844Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T050844Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053906Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261106/gif/20261107T053906Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T061241Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T061241Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063917Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T063917Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071306Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T071306Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074423Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T074423Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081301Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T081301Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T084023Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T084023Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T091039Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T091039Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T094031Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T094031Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T101010Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T101010Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104742Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T104742Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T111022Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T111022Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114458Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T114458Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121128Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T121128Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124209Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T124209Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T131108Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T131108Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134502Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/austin/KAUS/20261107/gif/20261107T134502Z.gif"
+    }
+  ]
+}

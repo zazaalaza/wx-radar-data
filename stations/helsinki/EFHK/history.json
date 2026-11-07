@@ -1,0 +1,971 @@
+{
+  "icao": "EFHK",
+  "captures": [
+    {
+      "ts": 1793743200,
+      "datetime": "20261103T220339Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261103T220339Z.gif"
+    },
+    {
+      "ts": 1793747700,
+      "datetime": "20261103T231803Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261103T231803Z.gif"
+    },
+    {
+      "ts": 1793748600,
+      "datetime": "20261103T233934Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261103T233934Z.gif"
+    },
+    {
+      "ts": 1793749500,
+      "datetime": "20261104T000053Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T000053Z.gif"
+    },
+    {
+      "ts": 1793751300,
+      "datetime": "20261104T002039Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T002039Z.gif"
+    },
+    {
+      "ts": 1793752200,
+      "datetime": "20261104T004711Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T004711Z.gif"
+    },
+    {
+      "ts": 1793754000,
+      "datetime": "20261104T011357Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T011357Z.gif"
+    },
+    {
+      "ts": 1793755800,
+      "datetime": "20261104T014225Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T014225Z.gif"
+    },
+    {
+      "ts": 1793758500,
+      "datetime": "20261104T023157Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T023157Z.gif"
+    },
+    {
+      "ts": 1793760300,
+      "datetime": "20261104T025039Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T025039Z.gif"
+    },
+    {
+      "ts": 1793761200,
+      "datetime": "20261104T031314Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T031314Z.gif"
+    },
+    {
+      "ts": 1793763900,
+      "datetime": "20261104T035133Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T035133Z.gif"
+    },
+    {
+      "ts": 1793764800,
+      "datetime": "20261104T041512Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T041512Z.gif"
+    },
+    {
+      "ts": 1793766600,
+      "datetime": "20261104T044341Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T044341Z.gif"
+    },
+    {
+      "ts": 1793768400,
+      "datetime": "20261104T051429Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T051429Z.gif"
+    },
+    {
+      "ts": 1793770200,
+      "datetime": "20261104T054556Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T054556Z.gif"
+    },
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061335Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T061335Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064250Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T064250Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T072058Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T072058Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081405Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T081405Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084434Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T084434Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091413Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T091413Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093641Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T093641Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100608Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T100608Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110726Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T110726Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T113913Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T113913Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124204Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T124204Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T131003Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T131003Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134144Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T134144Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140854Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T140854Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144617Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T144617Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T150951Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T150951Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155220Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T155220Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T161025Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T161025Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164449Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T164449Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172811Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T172811Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174624Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T174624Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181833Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T181833Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T184016Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T184016Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192802Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T192802Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194334Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T194334Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204112Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T204112Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211514Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T211514Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214346Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261104/gif/20261104T214346Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221256Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261104T221256Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224225Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261104T224225Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231253Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261104T231253Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234159Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261104T234159Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001214Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T001214Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004431Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T004431Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011107Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T011107Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014225Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T014225Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021549Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T021549Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024321Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T024321Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031427Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T031427Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034250Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T034250Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041256Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T041256Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044220Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T044220Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051413Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T051413Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054351Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T054351Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061458Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T061458Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064419Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T064419Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071234Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T071234Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074253Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T074253Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081336Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T081336Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084221Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T084221Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091308Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T091308Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094317Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T094317Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101329Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T101329Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104408Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T104408Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111715Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T111715Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114311Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T114311Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T121908Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T121908Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124400Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T124400Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132128Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T132128Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134409Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T134409Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141712Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T141712Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144540Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T144540Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151748Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T151748Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154606Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T154606Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161505Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T161505Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164533Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T164533Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171637Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T171637Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174532Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T174532Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181754Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T181754Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T185000Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T185000Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191651Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T191651Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195242Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T195242Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201533Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T201533Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204517Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T204517Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211536Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T211536Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214602Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261105/gif/20261105T214602Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220618Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261105T220618Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T224016Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261105T224016Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230734Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261105T230734Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233633Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261105T233633Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T000922Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T000922Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012325Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T012325Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013827Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T013827Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020824Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T020824Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024556Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T024556Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031323Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T031323Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033835Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T033835Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T040922Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T040922Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T043924Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T043924Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T051010Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T051010Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062425Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T062425Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T063944Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T063944Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T071035Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T071035Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082459Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T082459Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093530Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T093530Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095825Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T095825Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101439Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T101439Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T104027Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T104027Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T112008Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T112008Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T113954Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T113954Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122230Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T122230Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124107Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T124107Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131134Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T131134Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134133Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T134133Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141300Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T141300Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144214Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T144214Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151225Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T151225Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162732Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T162732Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T172933Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T172933Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192217Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T192217Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194426Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T194426Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201720Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T201720Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212745Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T212745Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T215046Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261106/gif/20261106T215046Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T225925Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261106T225925Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231716Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261106T231716Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234316Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261106T234316Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001206Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T001206Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003713Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T003713Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010819Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T010819Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013715Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T013715Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020749Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T020749Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023733Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T023733Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T031044Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T031044Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T033826Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T033826Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T040955Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T040955Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044138Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T044138Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050756Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T050756Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053825Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T053825Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T061118Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T061118Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063838Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T063838Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071143Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T071143Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074254Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T074254Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081135Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T081135Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T083936Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T083936Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T090954Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T090954Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T093949Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T093949Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T100928Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T100928Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104618Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T104618Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T110938Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T110938Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114332Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T114332Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121049Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T121049Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124124Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T124124Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T131024Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T131024Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134335Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/helsinki/EFHK/20261107/gif/20261107T134335Z.gif"
+    }
+  ]
+}

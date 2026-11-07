@@ -1,0 +1,971 @@
+{
+  "icao": "FACT",
+  "captures": [
+    {
+      "ts": 1793743200,
+      "datetime": "20261103T220335Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261103T220335Z.gif"
+    },
+    {
+      "ts": 1793747700,
+      "datetime": "20261103T231801Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261103T231801Z.gif"
+    },
+    {
+      "ts": 1793748600,
+      "datetime": "20261103T233931Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261103T233931Z.gif"
+    },
+    {
+      "ts": 1793749500,
+      "datetime": "20261104T000050Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T000050Z.gif"
+    },
+    {
+      "ts": 1793751300,
+      "datetime": "20261104T002036Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T002036Z.gif"
+    },
+    {
+      "ts": 1793752200,
+      "datetime": "20261104T004707Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T004707Z.gif"
+    },
+    {
+      "ts": 1793754000,
+      "datetime": "20261104T011354Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T011354Z.gif"
+    },
+    {
+      "ts": 1793755800,
+      "datetime": "20261104T014223Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T014223Z.gif"
+    },
+    {
+      "ts": 1793758500,
+      "datetime": "20261104T023154Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T023154Z.gif"
+    },
+    {
+      "ts": 1793760300,
+      "datetime": "20261104T025037Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T025037Z.gif"
+    },
+    {
+      "ts": 1793761200,
+      "datetime": "20261104T031312Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T031312Z.gif"
+    },
+    {
+      "ts": 1793763900,
+      "datetime": "20261104T035130Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T035130Z.gif"
+    },
+    {
+      "ts": 1793764800,
+      "datetime": "20261104T041509Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T041509Z.gif"
+    },
+    {
+      "ts": 1793766600,
+      "datetime": "20261104T044338Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T044338Z.gif"
+    },
+    {
+      "ts": 1793768400,
+      "datetime": "20261104T051427Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T051427Z.gif"
+    },
+    {
+      "ts": 1793770200,
+      "datetime": "20261104T054553Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T054553Z.gif"
+    },
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061333Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T061333Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064248Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T064248Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T072055Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T072055Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081402Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T081402Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084432Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T084432Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091412Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T091412Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093639Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T093639Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100606Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T100606Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110724Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T110724Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T113910Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T113910Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124200Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T124200Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T130958Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T130958Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134142Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T134142Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140852Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T140852Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144615Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T144615Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T150949Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T150949Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155218Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T155218Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T161023Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T161023Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164445Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T164445Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172809Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T172809Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174621Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T174621Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181830Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T181830Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T184014Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T184014Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192758Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T192758Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194332Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T194332Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204111Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T204111Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211510Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T211510Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214330Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261104/gif/20261104T214330Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221252Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261104T221252Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224223Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261104T224223Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231251Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261104T231251Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234156Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261104T234156Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001212Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T001212Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004428Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T004428Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011105Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T011105Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014223Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T014223Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021546Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T021546Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024317Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T024317Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031424Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T031424Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034247Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T034247Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041254Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T041254Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044218Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T044218Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051409Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T051409Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054348Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T054348Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061454Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T061454Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064416Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T064416Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071233Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T071233Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074251Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T074251Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081334Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T081334Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084219Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T084219Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091306Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T091306Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094315Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T094315Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101328Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T101328Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104406Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T104406Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111712Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T111712Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114309Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T114309Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T121905Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T121905Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124359Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T124359Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132125Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T132125Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134407Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T134407Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141709Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T141709Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144539Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T144539Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151744Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T151744Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154604Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T154604Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161503Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T161503Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164531Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T164531Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171635Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T171635Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174530Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T174530Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181751Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T181751Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T184956Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T184956Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191649Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T191649Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195239Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T195239Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201530Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T201530Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204515Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T204515Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211534Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T211534Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214601Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261105/gif/20261105T214601Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220616Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261105T220616Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T224014Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261105T224014Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230732Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261105T230732Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233631Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261105T233631Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T000918Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T000918Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012323Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T012323Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013824Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T013824Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020822Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T020822Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024552Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T024552Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031320Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T031320Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033833Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T033833Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T040921Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T040921Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T043922Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T043922Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T051007Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T051007Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062423Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T062423Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T063941Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T063941Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T071031Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T071031Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082457Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T082457Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093528Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T093528Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095821Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T095821Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101435Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T101435Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T104025Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T104025Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T112006Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T112006Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T113952Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T113952Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122228Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T122228Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124105Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T124105Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131132Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T131132Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134131Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T134131Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141256Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T141256Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144212Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T144212Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151223Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T151223Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162729Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T162729Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T172932Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T172932Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192214Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T192214Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194423Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T194423Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201716Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T201716Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212743Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T212743Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T215043Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261106/gif/20261106T215043Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T225923Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261106T225923Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231713Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261106T231713Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234314Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261106T234314Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001203Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T001203Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003709Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T003709Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010815Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T010815Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013713Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T013713Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020746Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T020746Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023730Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T023730Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T031040Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T031040Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T033823Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T033823Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T040951Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T040951Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044134Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T044134Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050754Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T050754Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053823Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T053823Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T061114Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T061114Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063836Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T063836Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071140Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T071140Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074250Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T074250Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081131Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T081131Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T083934Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T083934Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T090951Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T090951Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T093947Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T093947Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T100926Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T100926Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104614Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T104614Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T110936Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T110936Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114328Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T114328Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121047Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T121047Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124122Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T124122Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T131022Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T131022Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134331Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/cape_town/FACT/20261107/gif/20261107T134331Z.gif"
+    }
+  ]
+}

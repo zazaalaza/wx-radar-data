@@ -1,0 +1,983 @@
+{
+  "icao": "WIHH",
+  "captures": [
+    {
+      "ts": 1793731500,
+      "datetime": "20261103T185736Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261103T185736Z.gif"
+    },
+    {
+      "ts": 1793736000,
+      "datetime": "20261103T200447Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261103T200447Z.gif"
+    },
+    {
+      "ts": 1793743200,
+      "datetime": "20261103T220259Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261103T220259Z.gif"
+    },
+    {
+      "ts": 1793747700,
+      "datetime": "20261103T231741Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261103T231741Z.gif"
+    },
+    {
+      "ts": 1793748600,
+      "datetime": "20261103T233855Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261103T233855Z.gif"
+    },
+    {
+      "ts": 1793749500,
+      "datetime": "20261104T000016Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T000016Z.gif"
+    },
+    {
+      "ts": 1793751300,
+      "datetime": "20261104T002003Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T002003Z.gif"
+    },
+    {
+      "ts": 1793752200,
+      "datetime": "20261104T004636Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T004636Z.gif"
+    },
+    {
+      "ts": 1793754000,
+      "datetime": "20261104T011316Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T011316Z.gif"
+    },
+    {
+      "ts": 1793755800,
+      "datetime": "20261104T014202Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T014202Z.gif"
+    },
+    {
+      "ts": 1793758500,
+      "datetime": "20261104T023133Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T023133Z.gif"
+    },
+    {
+      "ts": 1793760300,
+      "datetime": "20261104T025016Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T025016Z.gif"
+    },
+    {
+      "ts": 1793761200,
+      "datetime": "20261104T031252Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T031252Z.gif"
+    },
+    {
+      "ts": 1793763900,
+      "datetime": "20261104T035058Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T035058Z.gif"
+    },
+    {
+      "ts": 1793764800,
+      "datetime": "20261104T041436Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T041436Z.gif"
+    },
+    {
+      "ts": 1793766600,
+      "datetime": "20261104T044306Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T044306Z.gif"
+    },
+    {
+      "ts": 1793768400,
+      "datetime": "20261104T051409Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T051409Z.gif"
+    },
+    {
+      "ts": 1793770200,
+      "datetime": "20261104T054519Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T054519Z.gif"
+    },
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061317Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T061317Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064231Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T064231Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T072020Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T072020Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081346Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T081346Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084413Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T084413Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091353Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T091353Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093624Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T093624Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100550Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T100550Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110709Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T110709Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T113837Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T113837Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124128Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T124128Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T130923Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T130923Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134124Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T134124Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140834Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T140834Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144553Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T144553Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T150929Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T150929Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155200Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T155200Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T161002Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T161002Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164412Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261104/gif/20261104T164412Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172751Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T172751Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174549Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T174549Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181812Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T181812Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T183958Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T183958Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192724Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T192724Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194314Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T194314Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204054Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T204054Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211435Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T211435Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214236Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T214236Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221218Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T221218Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224206Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T224206Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231233Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T231233Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234133Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261104T234133Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001155Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T001155Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004355Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T004355Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011045Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T011045Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014205Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T014205Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021514Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T021514Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024238Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T024238Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031352Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T031352Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034219Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T034219Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041236Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T041236Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044201Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T044201Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051335Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T051335Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054314Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T054314Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061420Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T061420Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064341Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T064341Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071217Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T071217Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074232Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T074232Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081317Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T081317Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084202Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T084202Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091251Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T091251Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094258Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T094258Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101310Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T101310Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104349Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T104349Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111637Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T111637Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114249Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T114249Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T121830Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T121830Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124343Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T124343Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132052Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T132052Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134349Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T134349Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141649Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T141649Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144522Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T144522Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151709Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T151709Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154547Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T154547Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161446Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T161446Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164512Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261105/gif/20261105T164512Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171618Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T171618Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174513Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T174513Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181715Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T181715Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T184922Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T184922Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191632Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T191632Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195204Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T195204Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201512Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T201512Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204457Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T204457Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211514Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T211514Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214544Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T214544Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220555Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T220555Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T223957Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T223957Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230710Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T230710Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233612Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261105T233612Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T000844Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T000844Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012303Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T012303Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013804Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T013804Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020803Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T020803Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024520Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T024520Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031248Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T031248Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033815Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T033815Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T040903Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T040903Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T043904Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T043904Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T050932Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T050932Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062407Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T062407Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T063907Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T063907Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T070956Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T070956Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082442Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T082442Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093509Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T093509Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095747Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T095747Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101400Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T101400Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T104007Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T104007Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T111950Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T111950Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T113933Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T113933Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122207Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T122207Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124050Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T124050Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131111Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T131111Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134114Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T134114Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141220Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T141220Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144154Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T144154Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151204Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T151204Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162707Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261106/gif/20261106T162707Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T172916Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T172916Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192139Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T192139Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194349Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T194349Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201641Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T201641Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212722Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T212722Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T215008Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T215008Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T225901Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T225901Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231649Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T231649Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234254Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261106T234254Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001145Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T001145Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003636Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T003636Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010756Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T010756Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013650Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T013650Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020719Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T020719Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023705Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T023705Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T031005Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T031005Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T033748Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T033748Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T040916Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T040916Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044058Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T044058Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050735Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T050735Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053806Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T053806Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T061040Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T061040Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063820Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T063820Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071105Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T071105Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074212Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T074212Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081057Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T081057Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T083915Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T083915Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T090932Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T090932Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T093929Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T093929Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T100909Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T100909Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104540Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T104540Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T110917Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T110917Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114254Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T114254Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121030Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T121030Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124103Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T124103Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T131004Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T131004Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134255Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/jakarta/WIHH/20261107/gif/20261107T134255Z.gif"
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "icao": "KHOU",
+  "captures": [
+    {
+      "ts": 1793772000,
+      "datetime": "20261104T061420Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T061420Z.gif"
+    },
+    {
+      "ts": 1793773800,
+      "datetime": "20261104T064336Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T064336Z.gif"
+    },
+    {
+      "ts": 1793776500,
+      "datetime": "20261104T072230Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T072230Z.gif"
+    },
+    {
+      "ts": 1793779200,
+      "datetime": "20261104T081447Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T081447Z.gif"
+    },
+    {
+      "ts": 1793781000,
+      "datetime": "20261104T084520Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T084520Z.gif"
+    },
+    {
+      "ts": 1793782800,
+      "datetime": "20261104T091500Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T091500Z.gif"
+    },
+    {
+      "ts": 1793784600,
+      "datetime": "20261104T093721Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T093721Z.gif"
+    },
+    {
+      "ts": 1793786400,
+      "datetime": "20261104T100654Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T100654Z.gif"
+    },
+    {
+      "ts": 1793790000,
+      "datetime": "20261104T110807Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T110807Z.gif"
+    },
+    {
+      "ts": 1793791800,
+      "datetime": "20261104T114042Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T114042Z.gif"
+    },
+    {
+      "ts": 1793795400,
+      "datetime": "20261104T124334Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T124334Z.gif"
+    },
+    {
+      "ts": 1793797200,
+      "datetime": "20261104T131138Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T131138Z.gif"
+    },
+    {
+      "ts": 1793799000,
+      "datetime": "20261104T134235Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T134235Z.gif"
+    },
+    {
+      "ts": 1793800800,
+      "datetime": "20261104T140938Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T140938Z.gif"
+    },
+    {
+      "ts": 1793802600,
+      "datetime": "20261104T144713Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T144713Z.gif"
+    },
+    {
+      "ts": 1793804400,
+      "datetime": "20261104T151045Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T151045Z.gif"
+    },
+    {
+      "ts": 1793807100,
+      "datetime": "20261104T155312Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T155312Z.gif"
+    },
+    {
+      "ts": 1793808000,
+      "datetime": "20261104T161117Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T161117Z.gif"
+    },
+    {
+      "ts": 1793809800,
+      "datetime": "20261104T164621Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T164621Z.gif"
+    },
+    {
+      "ts": 1793812500,
+      "datetime": "20261104T172857Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T172857Z.gif"
+    },
+    {
+      "ts": 1793813400,
+      "datetime": "20261104T174754Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T174754Z.gif"
+    },
+    {
+      "ts": 1793816100,
+      "datetime": "20261104T181919Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T181919Z.gif"
+    },
+    {
+      "ts": 1793817000,
+      "datetime": "20261104T184059Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T184059Z.gif"
+    },
+    {
+      "ts": 1793819700,
+      "datetime": "20261104T192933Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T192933Z.gif"
+    },
+    {
+      "ts": 1793820600,
+      "datetime": "20261104T194418Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T194418Z.gif"
+    },
+    {
+      "ts": 1793824200,
+      "datetime": "20261104T204156Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T204156Z.gif"
+    },
+    {
+      "ts": 1793826000,
+      "datetime": "20261104T211645Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T211645Z.gif"
+    },
+    {
+      "ts": 1793827800,
+      "datetime": "20261104T214544Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T214544Z.gif"
+    },
+    {
+      "ts": 1793829600,
+      "datetime": "20261104T221430Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T221430Z.gif"
+    },
+    {
+      "ts": 1793831400,
+      "datetime": "20261104T224312Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T224312Z.gif"
+    },
+    {
+      "ts": 1793833200,
+      "datetime": "20261104T231340Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T231340Z.gif"
+    },
+    {
+      "ts": 1793835000,
+      "datetime": "20261104T234259Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261104T234259Z.gif"
+    },
+    {
+      "ts": 1793836800,
+      "datetime": "20261105T001258Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T001258Z.gif"
+    },
+    {
+      "ts": 1793838600,
+      "datetime": "20261105T004602Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T004602Z.gif"
+    },
+    {
+      "ts": 1793840400,
+      "datetime": "20261105T011201Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T011201Z.gif"
+    },
+    {
+      "ts": 1793842200,
+      "datetime": "20261105T014315Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T014315Z.gif"
+    },
+    {
+      "ts": 1793844000,
+      "datetime": "20261105T021716Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T021716Z.gif"
+    },
+    {
+      "ts": 1793845800,
+      "datetime": "20261105T024504Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T024504Z.gif"
+    },
+    {
+      "ts": 1793847600,
+      "datetime": "20261105T031547Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T031547Z.gif"
+    },
+    {
+      "ts": 1793849400,
+      "datetime": "20261105T034407Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T034407Z.gif"
+    },
+    {
+      "ts": 1793851200,
+      "datetime": "20261105T041348Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T041348Z.gif"
+    },
+    {
+      "ts": 1793853000,
+      "datetime": "20261105T044307Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T044307Z.gif"
+    },
+    {
+      "ts": 1793854800,
+      "datetime": "20261105T051545Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T051545Z.gif"
+    },
+    {
+      "ts": 1793856600,
+      "datetime": "20261105T054525Z",
+      "date": "20261104",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261104/gif/20261105T054525Z.gif"
+    },
+    {
+      "ts": 1793858400,
+      "datetime": "20261105T061630Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T061630Z.gif"
+    },
+    {
+      "ts": 1793860200,
+      "datetime": "20261105T064554Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T064554Z.gif"
+    },
+    {
+      "ts": 1793862000,
+      "datetime": "20261105T071317Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T071317Z.gif"
+    },
+    {
+      "ts": 1793863800,
+      "datetime": "20261105T074347Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T074347Z.gif"
+    },
+    {
+      "ts": 1793865600,
+      "datetime": "20261105T081421Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T081421Z.gif"
+    },
+    {
+      "ts": 1793867400,
+      "datetime": "20261105T084309Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T084309Z.gif"
+    },
+    {
+      "ts": 1793869200,
+      "datetime": "20261105T091349Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T091349Z.gif"
+    },
+    {
+      "ts": 1793871000,
+      "datetime": "20261105T094402Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T094402Z.gif"
+    },
+    {
+      "ts": 1793872800,
+      "datetime": "20261105T101415Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T101415Z.gif"
+    },
+    {
+      "ts": 1793874600,
+      "datetime": "20261105T104453Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T104453Z.gif"
+    },
+    {
+      "ts": 1793876400,
+      "datetime": "20261105T111848Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T111848Z.gif"
+    },
+    {
+      "ts": 1793878200,
+      "datetime": "20261105T114402Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T114402Z.gif"
+    },
+    {
+      "ts": 1793880900,
+      "datetime": "20261105T122041Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T122041Z.gif"
+    },
+    {
+      "ts": 1793881800,
+      "datetime": "20261105T124441Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T124441Z.gif"
+    },
+    {
+      "ts": 1793884500,
+      "datetime": "20261105T132300Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T132300Z.gif"
+    },
+    {
+      "ts": 1793885400,
+      "datetime": "20261105T134459Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T134459Z.gif"
+    },
+    {
+      "ts": 1793888100,
+      "datetime": "20261105T141805Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T141805Z.gif"
+    },
+    {
+      "ts": 1793889000,
+      "datetime": "20261105T144624Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T144624Z.gif"
+    },
+    {
+      "ts": 1793891700,
+      "datetime": "20261105T151923Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T151923Z.gif"
+    },
+    {
+      "ts": 1793892600,
+      "datetime": "20261105T154652Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T154652Z.gif"
+    },
+    {
+      "ts": 1793894400,
+      "datetime": "20261105T161549Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T161549Z.gif"
+    },
+    {
+      "ts": 1793896200,
+      "datetime": "20261105T164621Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T164621Z.gif"
+    },
+    {
+      "ts": 1793898000,
+      "datetime": "20261105T171724Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T171724Z.gif"
+    },
+    {
+      "ts": 1793899800,
+      "datetime": "20261105T174618Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T174618Z.gif"
+    },
+    {
+      "ts": 1793902500,
+      "datetime": "20261105T181929Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T181929Z.gif"
+    },
+    {
+      "ts": 1793904300,
+      "datetime": "20261105T185131Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T185131Z.gif"
+    },
+    {
+      "ts": 1793905200,
+      "datetime": "20261105T191737Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T191737Z.gif"
+    },
+    {
+      "ts": 1793907900,
+      "datetime": "20261105T195416Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T195416Z.gif"
+    },
+    {
+      "ts": 1793908800,
+      "datetime": "20261105T201620Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T201620Z.gif"
+    },
+    {
+      "ts": 1793910600,
+      "datetime": "20261105T204604Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T204604Z.gif"
+    },
+    {
+      "ts": 1793912400,
+      "datetime": "20261105T211627Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T211627Z.gif"
+    },
+    {
+      "ts": 1793914200,
+      "datetime": "20261105T214645Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T214645Z.gif"
+    },
+    {
+      "ts": 1793916000,
+      "datetime": "20261105T220712Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T220712Z.gif"
+    },
+    {
+      "ts": 1793917800,
+      "datetime": "20261105T224105Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T224105Z.gif"
+    },
+    {
+      "ts": 1793919600,
+      "datetime": "20261105T230828Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T230828Z.gif"
+    },
+    {
+      "ts": 1793921400,
+      "datetime": "20261105T233723Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261105T233723Z.gif"
+    },
+    {
+      "ts": 1793923200,
+      "datetime": "20261106T001053Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T001053Z.gif"
+    },
+    {
+      "ts": 1793927700,
+      "datetime": "20261106T012416Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T012416Z.gif"
+    },
+    {
+      "ts": 1793928600,
+      "datetime": "20261106T013919Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T013919Z.gif"
+    },
+    {
+      "ts": 1793930400,
+      "datetime": "20261106T020917Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T020917Z.gif"
+    },
+    {
+      "ts": 1793932200,
+      "datetime": "20261106T024719Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T024719Z.gif"
+    },
+    {
+      "ts": 1793934000,
+      "datetime": "20261106T031454Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T031454Z.gif"
+    },
+    {
+      "ts": 1793935800,
+      "datetime": "20261106T033923Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T033923Z.gif"
+    },
+    {
+      "ts": 1793937600,
+      "datetime": "20261106T041011Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T041011Z.gif"
+    },
+    {
+      "ts": 1793939400,
+      "datetime": "20261106T044011Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T044011Z.gif"
+    },
+    {
+      "ts": 1793941200,
+      "datetime": "20261106T051138Z",
+      "date": "20261105",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261105/gif/20261106T051138Z.gif"
+    },
+    {
+      "ts": 1793945700,
+      "datetime": "20261106T062508Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T062508Z.gif"
+    },
+    {
+      "ts": 1793946600,
+      "datetime": "20261106T064117Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T064117Z.gif"
+    },
+    {
+      "ts": 1793948400,
+      "datetime": "20261106T071209Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T071209Z.gif"
+    },
+    {
+      "ts": 1793952900,
+      "datetime": "20261106T082543Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T082543Z.gif"
+    },
+    {
+      "ts": 1793957400,
+      "datetime": "20261106T093622Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T093622Z.gif"
+    },
+    {
+      "ts": 1793958300,
+      "datetime": "20261106T095959Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T095959Z.gif"
+    },
+    {
+      "ts": 1793959200,
+      "datetime": "20261106T101614Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T101614Z.gif"
+    },
+    {
+      "ts": 1793961000,
+      "datetime": "20261106T104114Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T104114Z.gif"
+    },
+    {
+      "ts": 1793963700,
+      "datetime": "20261106T112056Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T112056Z.gif"
+    },
+    {
+      "ts": 1793964600,
+      "datetime": "20261106T114042Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T114042Z.gif"
+    },
+    {
+      "ts": 1793967300,
+      "datetime": "20261106T122323Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T122323Z.gif"
+    },
+    {
+      "ts": 1793968200,
+      "datetime": "20261106T124150Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T124150Z.gif"
+    },
+    {
+      "ts": 1793970000,
+      "datetime": "20261106T131232Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T131232Z.gif"
+    },
+    {
+      "ts": 1793971800,
+      "datetime": "20261106T134219Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T134219Z.gif"
+    },
+    {
+      "ts": 1793973600,
+      "datetime": "20261106T141436Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T141436Z.gif"
+    },
+    {
+      "ts": 1793975400,
+      "datetime": "20261106T144257Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T144257Z.gif"
+    },
+    {
+      "ts": 1793977200,
+      "datetime": "20261106T151311Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T151311Z.gif"
+    },
+    {
+      "ts": 1793981700,
+      "datetime": "20261106T162828Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T162828Z.gif"
+    },
+    {
+      "ts": 1793985300,
+      "datetime": "20261106T173014Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T173014Z.gif"
+    },
+    {
+      "ts": 1793992500,
+      "datetime": "20261106T192350Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T192350Z.gif"
+    },
+    {
+      "ts": 1793993400,
+      "datetime": "20261106T194600Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T194600Z.gif"
+    },
+    {
+      "ts": 1793995200,
+      "datetime": "20261106T201852Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T201852Z.gif"
+    },
+    {
+      "ts": 1793999700,
+      "datetime": "20261106T212835Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T212835Z.gif"
+    },
+    {
+      "ts": 1794001500,
+      "datetime": "20261106T215221Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T215221Z.gif"
+    },
+    {
+      "ts": 1794005100,
+      "datetime": "20261106T230024Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T230024Z.gif"
+    },
+    {
+      "ts": 1794006900,
+      "datetime": "20261106T231820Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T231820Z.gif"
+    },
+    {
+      "ts": 1794007800,
+      "datetime": "20261106T234402Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261106T234402Z.gif"
+    },
+    {
+      "ts": 1794009600,
+      "datetime": "20261107T001255Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T001255Z.gif"
+    },
+    {
+      "ts": 1794011400,
+      "datetime": "20261107T003844Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T003844Z.gif"
+    },
+    {
+      "ts": 1794013200,
+      "datetime": "20261107T010911Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T010911Z.gif"
+    },
+    {
+      "ts": 1794015000,
+      "datetime": "20261107T013811Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T013811Z.gif"
+    },
+    {
+      "ts": 1794016800,
+      "datetime": "20261107T020850Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T020850Z.gif"
+    },
+    {
+      "ts": 1794018600,
+      "datetime": "20261107T023841Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T023841Z.gif"
+    },
+    {
+      "ts": 1794020400,
+      "datetime": "20261107T031214Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T031214Z.gif"
+    },
+    {
+      "ts": 1794022200,
+      "datetime": "20261107T034002Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T034002Z.gif"
+    },
+    {
+      "ts": 1794024000,
+      "datetime": "20261107T041129Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T041129Z.gif"
+    },
+    {
+      "ts": 1794025800,
+      "datetime": "20261107T044313Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T044313Z.gif"
+    },
+    {
+      "ts": 1794027600,
+      "datetime": "20261107T050849Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T050849Z.gif"
+    },
+    {
+      "ts": 1794029400,
+      "datetime": "20261107T053911Z",
+      "date": "20261106",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261106/gif/20261107T053911Z.gif"
+    },
+    {
+      "ts": 1794031200,
+      "datetime": "20261107T061250Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T061250Z.gif"
+    },
+    {
+      "ts": 1794033000,
+      "datetime": "20261107T063922Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T063922Z.gif"
+    },
+    {
+      "ts": 1794034800,
+      "datetime": "20261107T071316Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T071316Z.gif"
+    },
+    {
+      "ts": 1794036600,
+      "datetime": "20261107T074433Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T074433Z.gif"
+    },
+    {
+      "ts": 1794038400,
+      "datetime": "20261107T081311Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T081311Z.gif"
+    },
+    {
+      "ts": 1794040200,
+      "datetime": "20261107T084029Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T084029Z.gif"
+    },
+    {
+      "ts": 1794042000,
+      "datetime": "20261107T091045Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T091045Z.gif"
+    },
+    {
+      "ts": 1794043800,
+      "datetime": "20261107T094036Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T094036Z.gif"
+    },
+    {
+      "ts": 1794045600,
+      "datetime": "20261107T101014Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T101014Z.gif"
+    },
+    {
+      "ts": 1794047400,
+      "datetime": "20261107T104752Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T104752Z.gif"
+    },
+    {
+      "ts": 1794049200,
+      "datetime": "20261107T111027Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T111027Z.gif"
+    },
+    {
+      "ts": 1794051000,
+      "datetime": "20261107T114507Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T114507Z.gif"
+    },
+    {
+      "ts": 1794052800,
+      "datetime": "20261107T121132Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T121132Z.gif"
+    },
+    {
+      "ts": 1794054600,
+      "datetime": "20261107T124214Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T124214Z.gif"
+    },
+    {
+      "ts": 1794056400,
+      "datetime": "20261107T131113Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T131113Z.gif"
+    },
+    {
+      "ts": 1794058200,
+      "datetime": "20261107T134512Z",
+      "date": "20261107",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/houston/KHOU/20261107/gif/20261107T134512Z.gif"
+    }
+  ]
+}
