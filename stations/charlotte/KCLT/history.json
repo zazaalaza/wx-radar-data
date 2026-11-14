@@ -1,0 +1,953 @@
+{
+  "icao": "KCLT",
+  "captures": [
+    {
+      "ts": 1794373200,
+      "datetime": "20261111T051257Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T051257Z.gif"
+    },
+    {
+      "ts": 1794375000,
+      "datetime": "20261111T054120Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T054120Z.gif"
+    },
+    {
+      "ts": 1794376800,
+      "datetime": "20261111T061219Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T061219Z.gif"
+    },
+    {
+      "ts": 1794378600,
+      "datetime": "20261111T064703Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T064703Z.gif"
+    },
+    {
+      "ts": 1794380400,
+      "datetime": "20261111T071141Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T071141Z.gif"
+    },
+    {
+      "ts": 1794382200,
+      "datetime": "20261111T074143Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T074143Z.gif"
+    },
+    {
+      "ts": 1794384900,
+      "datetime": "20261111T081947Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T081947Z.gif"
+    },
+    {
+      "ts": 1794385800,
+      "datetime": "20261111T084225Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T084225Z.gif"
+    },
+    {
+      "ts": 1794387600,
+      "datetime": "20261111T091511Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T091511Z.gif"
+    },
+    {
+      "ts": 1794389400,
+      "datetime": "20261111T094707Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T094707Z.gif"
+    },
+    {
+      "ts": 1794391200,
+      "datetime": "20261111T101248Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T101248Z.gif"
+    },
+    {
+      "ts": 1794393000,
+      "datetime": "20261111T104620Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T104620Z.gif"
+    },
+    {
+      "ts": 1794394800,
+      "datetime": "20261111T111336Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T111336Z.gif"
+    },
+    {
+      "ts": 1794396600,
+      "datetime": "20261111T114307Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T114307Z.gif"
+    },
+    {
+      "ts": 1794398400,
+      "datetime": "20261111T121310Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T121310Z.gif"
+    },
+    {
+      "ts": 1794400200,
+      "datetime": "20261111T124335Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T124335Z.gif"
+    },
+    {
+      "ts": 1794402000,
+      "datetime": "20261111T131422Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T131422Z.gif"
+    },
+    {
+      "ts": 1794403800,
+      "datetime": "20261111T134410Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T134410Z.gif"
+    },
+    {
+      "ts": 1794416400,
+      "datetime": "20261111T170337Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T170337Z.gif"
+    },
+    {
+      "ts": 1794418200,
+      "datetime": "20261111T173654Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T173654Z.gif"
+    },
+    {
+      "ts": 1794420000,
+      "datetime": "20261111T180718Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T180718Z.gif"
+    },
+    {
+      "ts": 1794421800,
+      "datetime": "20261111T183635Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T183635Z.gif"
+    },
+    {
+      "ts": 1794423600,
+      "datetime": "20261111T190726Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T190726Z.gif"
+    },
+    {
+      "ts": 1794425400,
+      "datetime": "20261111T193659Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T193659Z.gif"
+    },
+    {
+      "ts": 1794427200,
+      "datetime": "20261111T200926Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T200926Z.gif"
+    },
+    {
+      "ts": 1794430800,
+      "datetime": "20261111T210929Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T210929Z.gif"
+    },
+    {
+      "ts": 1794432600,
+      "datetime": "20261111T213738Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T213738Z.gif"
+    },
+    {
+      "ts": 1794434400,
+      "datetime": "20261111T220914Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T220914Z.gif"
+    },
+    {
+      "ts": 1794436200,
+      "datetime": "20261111T223852Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T223852Z.gif"
+    },
+    {
+      "ts": 1794438000,
+      "datetime": "20261111T231239Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T231239Z.gif"
+    },
+    {
+      "ts": 1794439800,
+      "datetime": "20261111T233826Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261111T233826Z.gif"
+    },
+    {
+      "ts": 1794441600,
+      "datetime": "20261112T000925Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T000925Z.gif"
+    },
+    {
+      "ts": 1794443400,
+      "datetime": "20261112T003904Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T003904Z.gif"
+    },
+    {
+      "ts": 1794445200,
+      "datetime": "20261112T011003Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T011003Z.gif"
+    },
+    {
+      "ts": 1794447000,
+      "datetime": "20261112T013805Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T013805Z.gif"
+    },
+    {
+      "ts": 1794448800,
+      "datetime": "20261112T021322Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T021322Z.gif"
+    },
+    {
+      "ts": 1794450600,
+      "datetime": "20261112T024031Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T024031Z.gif"
+    },
+    {
+      "ts": 1794452400,
+      "datetime": "20261112T030916Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T030916Z.gif"
+    },
+    {
+      "ts": 1794454200,
+      "datetime": "20261112T034043Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T034043Z.gif"
+    },
+    {
+      "ts": 1794456000,
+      "datetime": "20261112T041109Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T041109Z.gif"
+    },
+    {
+      "ts": 1794457800,
+      "datetime": "20261112T043901Z",
+      "date": "20261111",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261111/gif/20261112T043901Z.gif"
+    },
+    {
+      "ts": 1794459600,
+      "datetime": "20261112T051113Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T051113Z.gif"
+    },
+    {
+      "ts": 1794461400,
+      "datetime": "20261112T053940Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T053940Z.gif"
+    },
+    {
+      "ts": 1794463200,
+      "datetime": "20261112T061126Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T061126Z.gif"
+    },
+    {
+      "ts": 1794465000,
+      "datetime": "20261112T064008Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T064008Z.gif"
+    },
+    {
+      "ts": 1794466800,
+      "datetime": "20261112T070957Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T070957Z.gif"
+    },
+    {
+      "ts": 1794468600,
+      "datetime": "20261112T074027Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T074027Z.gif"
+    },
+    {
+      "ts": 1794470400,
+      "datetime": "20261112T081055Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T081055Z.gif"
+    },
+    {
+      "ts": 1794472200,
+      "datetime": "20261112T083956Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T083956Z.gif"
+    },
+    {
+      "ts": 1794474000,
+      "datetime": "20261112T091151Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T091151Z.gif"
+    },
+    {
+      "ts": 1794475800,
+      "datetime": "20261112T094613Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T094613Z.gif"
+    },
+    {
+      "ts": 1794477600,
+      "datetime": "20261112T101256Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T101256Z.gif"
+    },
+    {
+      "ts": 1794479400,
+      "datetime": "20261112T104250Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T104250Z.gif"
+    },
+    {
+      "ts": 1794481200,
+      "datetime": "20261112T110808Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T110808Z.gif"
+    },
+    {
+      "ts": 1794483000,
+      "datetime": "20261112T113703Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T113703Z.gif"
+    },
+    {
+      "ts": 1794484800,
+      "datetime": "20261112T120715Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T120715Z.gif"
+    },
+    {
+      "ts": 1794486600,
+      "datetime": "20261112T123628Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T123628Z.gif"
+    },
+    {
+      "ts": 1794488400,
+      "datetime": "20261112T130737Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T130737Z.gif"
+    },
+    {
+      "ts": 1794490200,
+      "datetime": "20261112T133808Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T133808Z.gif"
+    },
+    {
+      "ts": 1794492000,
+      "datetime": "20261112T141032Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T141032Z.gif"
+    },
+    {
+      "ts": 1794493800,
+      "datetime": "20261112T143808Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T143808Z.gif"
+    },
+    {
+      "ts": 1794495600,
+      "datetime": "20261112T151037Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T151037Z.gif"
+    },
+    {
+      "ts": 1794497400,
+      "datetime": "20261112T154152Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T154152Z.gif"
+    },
+    {
+      "ts": 1794499200,
+      "datetime": "20261112T161304Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T161304Z.gif"
+    },
+    {
+      "ts": 1794501000,
+      "datetime": "20261112T163851Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T163851Z.gif"
+    },
+    {
+      "ts": 1794502800,
+      "datetime": "20261112T170953Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T170953Z.gif"
+    },
+    {
+      "ts": 1794504600,
+      "datetime": "20261112T173916Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T173916Z.gif"
+    },
+    {
+      "ts": 1794506400,
+      "datetime": "20261112T181745Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T181745Z.gif"
+    },
+    {
+      "ts": 1794508200,
+      "datetime": "20261112T184132Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T184132Z.gif"
+    },
+    {
+      "ts": 1794510000,
+      "datetime": "20261112T190951Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T190951Z.gif"
+    },
+    {
+      "ts": 1794511800,
+      "datetime": "20261112T193930Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T193930Z.gif"
+    },
+    {
+      "ts": 1794513600,
+      "datetime": "20261112T201108Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T201108Z.gif"
+    },
+    {
+      "ts": 1794515400,
+      "datetime": "20261112T204010Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T204010Z.gif"
+    },
+    {
+      "ts": 1794517200,
+      "datetime": "20261112T211141Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T211141Z.gif"
+    },
+    {
+      "ts": 1794519000,
+      "datetime": "20261112T214018Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T214018Z.gif"
+    },
+    {
+      "ts": 1794520800,
+      "datetime": "20261112T221048Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T221048Z.gif"
+    },
+    {
+      "ts": 1794522600,
+      "datetime": "20261112T224038Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T224038Z.gif"
+    },
+    {
+      "ts": 1794524400,
+      "datetime": "20261112T231232Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T231232Z.gif"
+    },
+    {
+      "ts": 1794526200,
+      "datetime": "20261112T234048Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261112T234048Z.gif"
+    },
+    {
+      "ts": 1794528000,
+      "datetime": "20261113T001152Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T001152Z.gif"
+    },
+    {
+      "ts": 1794529800,
+      "datetime": "20261113T004114Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T004114Z.gif"
+    },
+    {
+      "ts": 1794531600,
+      "datetime": "20261113T011128Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T011128Z.gif"
+    },
+    {
+      "ts": 1794533400,
+      "datetime": "20261113T014042Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T014042Z.gif"
+    },
+    {
+      "ts": 1794535200,
+      "datetime": "20261113T021126Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T021126Z.gif"
+    },
+    {
+      "ts": 1794537000,
+      "datetime": "20261113T024246Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T024246Z.gif"
+    },
+    {
+      "ts": 1794538800,
+      "datetime": "20261113T031612Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T031612Z.gif"
+    },
+    {
+      "ts": 1794541500,
+      "datetime": "20261113T035002Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T035002Z.gif"
+    },
+    {
+      "ts": 1794543300,
+      "datetime": "20261113T041953Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T041953Z.gif"
+    },
+    {
+      "ts": 1794544200,
+      "datetime": "20261113T044110Z",
+      "date": "20261112",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261112/gif/20261113T044110Z.gif"
+    },
+    {
+      "ts": 1794546000,
+      "datetime": "20261113T051242Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T051242Z.gif"
+    },
+    {
+      "ts": 1794547800,
+      "datetime": "20261113T054638Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T054638Z.gif"
+    },
+    {
+      "ts": 1794549600,
+      "datetime": "20261113T060705Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T060705Z.gif"
+    },
+    {
+      "ts": 1794551400,
+      "datetime": "20261113T063815Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T063815Z.gif"
+    },
+    {
+      "ts": 1794553200,
+      "datetime": "20261113T070732Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T070732Z.gif"
+    },
+    {
+      "ts": 1794555000,
+      "datetime": "20261113T073724Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T073724Z.gif"
+    },
+    {
+      "ts": 1794556800,
+      "datetime": "20261113T081009Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T081009Z.gif"
+    },
+    {
+      "ts": 1794558600,
+      "datetime": "20261113T084043Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T084043Z.gif"
+    },
+    {
+      "ts": 1794560400,
+      "datetime": "20261113T090750Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T090750Z.gif"
+    },
+    {
+      "ts": 1794562200,
+      "datetime": "20261113T093800Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T093800Z.gif"
+    },
+    {
+      "ts": 1794564000,
+      "datetime": "20261113T100907Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T100907Z.gif"
+    },
+    {
+      "ts": 1794565800,
+      "datetime": "20261113T103822Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T103822Z.gif"
+    },
+    {
+      "ts": 1794567600,
+      "datetime": "20261113T110845Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T110845Z.gif"
+    },
+    {
+      "ts": 1794569400,
+      "datetime": "20261113T114355Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T114355Z.gif"
+    },
+    {
+      "ts": 1794571200,
+      "datetime": "20261113T121203Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T121203Z.gif"
+    },
+    {
+      "ts": 1794573000,
+      "datetime": "20261113T123951Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T123951Z.gif"
+    },
+    {
+      "ts": 1794574800,
+      "datetime": "20261113T130949Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T130949Z.gif"
+    },
+    {
+      "ts": 1794576600,
+      "datetime": "20261113T133953Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T133953Z.gif"
+    },
+    {
+      "ts": 1794578400,
+      "datetime": "20261113T141201Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T141201Z.gif"
+    },
+    {
+      "ts": 1794580200,
+      "datetime": "20261113T144144Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T144144Z.gif"
+    },
+    {
+      "ts": 1794582000,
+      "datetime": "20261113T151023Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T151023Z.gif"
+    },
+    {
+      "ts": 1794583800,
+      "datetime": "20261113T154027Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T154027Z.gif"
+    },
+    {
+      "ts": 1794585600,
+      "datetime": "20261113T161111Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T161111Z.gif"
+    },
+    {
+      "ts": 1794587400,
+      "datetime": "20261113T164129Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T164129Z.gif"
+    },
+    {
+      "ts": 1794589200,
+      "datetime": "20261113T171103Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T171103Z.gif"
+    },
+    {
+      "ts": 1794591000,
+      "datetime": "20261113T174442Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T174442Z.gif"
+    },
+    {
+      "ts": 1794592800,
+      "datetime": "20261113T181453Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T181453Z.gif"
+    },
+    {
+      "ts": 1794595500,
+      "datetime": "20261113T185110Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T185110Z.gif"
+    },
+    {
+      "ts": 1794596400,
+      "datetime": "20261113T191248Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T191248Z.gif"
+    },
+    {
+      "ts": 1794598200,
+      "datetime": "20261113T194319Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T194319Z.gif"
+    },
+    {
+      "ts": 1794600000,
+      "datetime": "20261113T201142Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T201142Z.gif"
+    },
+    {
+      "ts": 1794601800,
+      "datetime": "20261113T204152Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T204152Z.gif"
+    },
+    {
+      "ts": 1794603600,
+      "datetime": "20261113T211215Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T211215Z.gif"
+    },
+    {
+      "ts": 1794605400,
+      "datetime": "20261113T214318Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T214318Z.gif"
+    },
+    {
+      "ts": 1794607200,
+      "datetime": "20261113T221306Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T221306Z.gif"
+    },
+    {
+      "ts": 1794609000,
+      "datetime": "20261113T224453Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T224453Z.gif"
+    },
+    {
+      "ts": 1794610800,
+      "datetime": "20261113T231235Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T231235Z.gif"
+    },
+    {
+      "ts": 1794612600,
+      "datetime": "20261113T234542Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261113T234542Z.gif"
+    },
+    {
+      "ts": 1794614400,
+      "datetime": "20261114T000742Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T000742Z.gif"
+    },
+    {
+      "ts": 1794616200,
+      "datetime": "20261114T003803Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T003803Z.gif"
+    },
+    {
+      "ts": 1794618000,
+      "datetime": "20261114T010738Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T010738Z.gif"
+    },
+    {
+      "ts": 1794619800,
+      "datetime": "20261114T013735Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T013735Z.gif"
+    },
+    {
+      "ts": 1794621600,
+      "datetime": "20261114T020809Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T020809Z.gif"
+    },
+    {
+      "ts": 1794623400,
+      "datetime": "20261114T023758Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T023758Z.gif"
+    },
+    {
+      "ts": 1794625200,
+      "datetime": "20261114T030836Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T030836Z.gif"
+    },
+    {
+      "ts": 1794627000,
+      "datetime": "20261114T033859Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T033859Z.gif"
+    },
+    {
+      "ts": 1794628800,
+      "datetime": "20261114T041000Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T041000Z.gif"
+    },
+    {
+      "ts": 1794630600,
+      "datetime": "20261114T043809Z",
+      "date": "20261113",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261113/gif/20261114T043809Z.gif"
+    },
+    {
+      "ts": 1794632400,
+      "datetime": "20261114T050935Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T050935Z.gif"
+    },
+    {
+      "ts": 1794634200,
+      "datetime": "20261114T053803Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T053803Z.gif"
+    },
+    {
+      "ts": 1794636000,
+      "datetime": "20261114T061206Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T061206Z.gif"
+    },
+    {
+      "ts": 1794637800,
+      "datetime": "20261114T064041Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T064041Z.gif"
+    },
+    {
+      "ts": 1794639600,
+      "datetime": "20261114T070927Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T070927Z.gif"
+    },
+    {
+      "ts": 1794641400,
+      "datetime": "20261114T074230Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T074230Z.gif"
+    },
+    {
+      "ts": 1794643200,
+      "datetime": "20261114T080954Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T080954Z.gif"
+    },
+    {
+      "ts": 1794645000,
+      "datetime": "20261114T084203Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T084203Z.gif"
+    },
+    {
+      "ts": 1794646800,
+      "datetime": "20261114T090933Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T090933Z.gif"
+    },
+    {
+      "ts": 1794648600,
+      "datetime": "20261114T094012Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T094012Z.gif"
+    },
+    {
+      "ts": 1794650400,
+      "datetime": "20261114T100950Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T100950Z.gif"
+    },
+    {
+      "ts": 1794652200,
+      "datetime": "20261114T104528Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T104528Z.gif"
+    },
+    {
+      "ts": 1794654000,
+      "datetime": "20261114T111331Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T111331Z.gif"
+    },
+    {
+      "ts": 1794655800,
+      "datetime": "20261114T114305Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T114305Z.gif"
+    },
+    {
+      "ts": 1794657600,
+      "datetime": "20261114T121124Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T121124Z.gif"
+    },
+    {
+      "ts": 1794659400,
+      "datetime": "20261114T124246Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T124246Z.gif"
+    },
+    {
+      "ts": 1794661200,
+      "datetime": "20261114T131410Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T131410Z.gif"
+    },
+    {
+      "ts": 1794663000,
+      "datetime": "20261114T134145Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T134145Z.gif"
+    },
+    {
+      "ts": 1794664800,
+      "datetime": "20261114T141104Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T141104Z.gif"
+    },
+    {
+      "ts": 1794666600,
+      "datetime": "20261114T144157Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T144157Z.gif"
+    },
+    {
+      "ts": 1794668400,
+      "datetime": "20261114T151309Z",
+      "date": "20261114",
+      "gifUrl": "https://raw.githubusercontent.com/zazaalaza/wx-radar-data/main/stations/charlotte/KCLT/20261114/gif/20261114T151309Z.gif"
+    }
+  ]
+}
